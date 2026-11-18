@@ -1,6 +1,6 @@
 # 육아 소식 한눈에
 
-육아 정책·지원금·보육·육아휴직·나들이 소식을 3시간마다 자동으로 모아 보여주는 정적 사이트입니다.
+육아 정책·지원금·보육·육아휴직·나들이 소식을 30분마다 자동으로 모아 보여주는 정적 사이트입니다.
 서버도, API 키도 없이 **GitHub Actions(수집) + GitHub Pages(화면)**로만 동작합니다.
 
 - 구글 뉴스 검색 RSS + 고용노동부 RSS에서 **제목·요약·링크만** 저장 (본문 수집 안 함)
@@ -15,7 +15,7 @@ index.html, css/style.css, js/app.js   화면 (모바일 우선)
 data/news.json                          수집 결과 (Actions가 자동 갱신, 처음엔 예시 데이터)
 scripts/fetch-news.mjs                  수집·분류 스크립트 (Node 20+, 외부 패키지 없음)
 scripts/config.json                     검색어·분류 단어·지역·RSS 목록 ← 여기만 고치면 됨
-.github/workflows/update-news.yml       3시간마다 실행
+.github/workflows/update-news.yml       30분마다 실행
 ```
 
 ## 설정 (3단계)

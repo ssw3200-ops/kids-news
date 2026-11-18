@@ -219,6 +219,14 @@ async function main() {
 
   const now = fx > -1 && process.env.FIXTURE_NOW ? Date.parse(process.env.FIXTURE_NOW) : Date.now();
   const items = merge(existing, raws.map(([r, via]) => toItem(r, via)), now);
+
+  // 새 기사도, 삭제된 기사도 없으면 파일을 그대로 둠 → 불필요한 커밋 방지
+  const sameSet = existing.length === items.length && items.every((it) => existing.some((e) => e.id === it.id));
+  if (!fx && sameSet && existing.length) {
+    errors.forEach((e) => console.warn('⚠', e));
+    console.log(`ℹ️ 새 기사 없음 (${raws.length}건 확인) — 저장 생략`);
+    return;
+  }
   const out = {
     updatedAt: new Date(now).toISOString(),
     sample: fx > -1,
