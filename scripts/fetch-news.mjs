@@ -42,6 +42,15 @@ export function sourceOf(url) {
 
 // ---------- 분류 ----------
 export function isRelevant(text) { return CONFIG.relevance.some((w) => text.includes(w)); }
+const BLOCK_RE = (CONFIG.blockPatterns || []).length ? new RegExp(CONFIG.blockPatterns.join('|')) : null;
+// 연예·해외·예시 기사 제외
+let FIXTURE_MODE = false;
+export function isBlocked(it) {
+  if (!it) return true;
+  if (!FIXTURE_MODE && (it.via === 'fixture' || /example\.com/.test(it.link))) return true;
+  if ((CONFIG.blockSources || []).some((s) => (it.source || '').includes(s))) return true;
+  return BLOCK_RE ? BLOCK_RE.test(`${it.title} ${it.desc}`) : false;
+}
 export function classify(text) {
   const cats = CONFIG.categories.filter((c) => c.words.some((w) => text.includes(w))).map((c) => c.id);
   return cats.length ? cats : ['etc'];
@@ -141,9 +150,9 @@ export function weeklyKeywords(items, now = Date.now(), top = 15) {
 // ---------- 병합 ----------
 export function merge(existing, incoming, now = Date.now()) {
   const map = new Map();
-  for (const it of existing) map.set(it.id, it);
+  for (const it of existing) if (!isBlocked(it)) map.set(it.id, it);
   for (const it of incoming) {
-    if (!it || !it.id) continue;
+    if (!it || !it.id || isBlocked(it)) continue;
     if (!isRelevant(`${it.title} ${it.desc}`)) continue;
     if (!map.has(it.id)) map.set(it.id, it);
   }
@@ -194,6 +203,7 @@ async function collect() {
 
 async function main() {
   const fx = process.argv.indexOf('--fixture');
+  FIXTURE_MODE = fx > -1;
   let raws, errors = [];
   if (fx > -1) {
     const data = JSON.parse(await readFile(path.resolve(process.argv[fx + 1]), 'utf8'));
@@ -201,7 +211,10 @@ async function main() {
   } else ({ raws, errors } = await collect());
 
   let existing = [];
-  try { existing = JSON.parse(await readFile(OUT, 'utf8')).items || []; } catch { existing = []; }
+  try {
+    const prev = JSON.parse(await readFile(OUT, 'utf8'));
+    existing = prev.sample ? [] : (prev.items || []); // 예시 데이터는 이어 붙이지 않음
+  } catch { existing = []; }
   if (fx > -1) existing = [];
 
   const now = fx > -1 && process.env.FIXTURE_NOW ? Date.parse(process.env.FIXTURE_NOW) : Date.now();

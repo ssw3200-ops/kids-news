@@ -44,27 +44,11 @@
  ],
  "keywords": [
   {
-   "word": "육아휴직",
-   "n": 59
-  },
-  {
-   "word": "임현주",
-   "n": 46
-  },
-  {
    "word": "유치원",
-   "n": 43
-  },
-  {
-   "word": "퇴사",
    "n": 39
   },
   {
    "word": "출산",
-   "n": 35
-  },
-  {
-   "word": "강화",
    "n": 34
   },
   {
@@ -72,16 +56,12 @@
    "n": 25
   },
   {
-   "word": "MBC",
-   "n": 24
-  },
-  {
    "word": "교육",
    "n": 22
   },
   {
-   "word": "논란",
-   "n": 20
+   "word": "육아휴직",
+   "n": 18
   },
   {
    "word": "아이돌봄사",
@@ -89,22 +69,42 @@
   },
   {
    "word": "영유아",
-   "n": 18
+   "n": 17
   },
   {
    "word": "돌봄",
-   "n": 16
+   "n": 15
   },
   {
-   "word": "사실",
-   "n": 16
+   "word": "연수",
+   "n": 14
+  },
+  {
+   "word": "수익금",
+   "n": 14
+  },
+  {
+   "word": "안전골든벨",
+   "n": 14
+  },
+  {
+   "word": "촉구",
+   "n": 13
   },
   {
    "word": "최대",
-   "n": 15
+   "n": 13
+  },
+  {
+   "word": "역량",
+   "n": 13
+  },
+  {
+   "word": "결혼",
+   "n": 12
   }
  ],
- "count": 518,
+ "count": 457,
  "items": [
   {
    "id": "남양주시아동친화도시기반으로아동안전참여정책확대",
@@ -147,22 +147,6 @@
    "source": "전북도민일보",
    "pubDate": "2026-11-18T09:03:00.000Z",
    "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "하이퐁시인민위원회에유치원보육교사직책에대한월6",
-   "title": "하이퐁시 인민위원회에 유치원 보육교사 직책에 대한 월 650만 VND의 수당 지급을 요청할 것을 제안합니다.",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLVRha1hDODgwMHBTLXdtSkFXbHJmdzctZjhFMlVSdlprYWJXMmFtV2wzeWVaLWRKc2FsNnd1Ym0wSHJPd2R2TC1NcW9hb1hLZ3BQREFnc2cwTnhsSXE4VElwTDYxakhkYU9JRS1PaDlNWXVOUElzWFlKeHRhX3M1Z3BsZ3dGVl9BNmFaaHFuLW5JZW5sMm84NnNhdWtyTERQT3NfTFJQSTVhb1g4RU1NbkdKMWVFdVhwVFNCNC1n?oc=5",
-   "source": "Vietnam.vn",
-   "pubDate": "2026-11-18T08:55:38.000Z",
-   "cats": [
-    "policy",
     "care"
    ],
    "regions": [],
@@ -1510,21 +1494,6 @@
    "via": "google"
   },
   {
-   "id": "임현주아나육아휴직후퇴사논란에재차심경소란스러운",
-   "title": "임현주 아나, '육아휴직 후 퇴사' 논란에 재차 심경 \"소란스러운 신고식\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcTFtMldCVnhoeUZ1dUNIU3pHV0k4Sk9GQUJWeTN4R1RxNTVQblBjMUFGT1BId3RkdkxvdmZBRDJZeWZQNzMyTDRoSmlaX3E3a1dVYWs4RFBYam1qbWs2T19rellaaFhJRXB2YjNGWm9YYWV3bEh6Ql90Sm12bi0zckdxSEQ?oc=5",
-   "source": "스포츠조선",
-   "pubDate": "2026-11-18T04:09:41.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "부여군어린이사회복지급식관리지원센터식생활안전콘",
    "title": "부여군 어린이·사회복지급식관리지원센터, ‘식생활안전 콘텐츠 페스타’ 최우수상 수상",
    "desc": "",
@@ -1689,21 +1658,6 @@
    "amounts": [
     "80만 원"
    ],
-   "via": "google"
-  },
-  {
-   "id": "육아휴직끝내고퇴사논란임현주소란스러운자유인신고",
-   "title": "\"육아휴직 끝내고 퇴사?\" 논란…임현주, `소란스러운` 자유인 신고식",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iTHdidERKUkt5QnUtNVAyZjhVMk1pT18tdVJpdkoybGx4aFJGa0lTZi1YTzhFejBzSUNkaDY5YlgzWlF6a0hnWk5MWmYzMDhrTTdaTUtxb1dKelp0dUN3bA?oc=5",
-   "source": "마이데일리",
-   "pubDate": "2026-11-18T03:35:22.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
    "via": "google"
   },
   {
@@ -1905,21 +1859,6 @@
    "pubDate": "2026-11-18T02:50:41.000Z",
    "cats": [
     "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "육아휴직후퇴사논란임현주의미심장심경제법소란스러",
-   "title": "'육아휴직 후 퇴사 논란' 임현주, 의미심장 심경 \"제법 소란스러운 신고식\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WSkZTUDBxSUlNdGVtM1lEMGQyeEQxakZONUhVYmtoTmk5OENEWUVUc09FMUhQYjFhN1N5LXkzWTdhU1lUc1VEV3BGQWN5MFhxZ2NsSw?oc=5",
-   "source": "엑스포츠뉴스",
-   "pubDate": "2026-11-18T02:44:50.000Z",
-   "cats": [
-    "work"
    ],
    "regions": [],
    "events": [],
@@ -2345,21 +2284,6 @@
    "via": "google"
   },
   {
-   "id": "임현주육아휴직후퇴사오해해명남편위로관심나쁘지않",
-   "title": "임현주, 육아휴직 후 퇴사 오해 해명..♥남편 위로 \"관심 나쁘지 않아\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGLVVES1pTcnBiYkJwS3FkbGtmdTQzNWJ4emN1bm5DZF94a0pyRXRVejd6NkI4TXFFOWtBYzZHS1JFa0lBRXdCM3RrUUVhcWlfeEZkUldvLVpLV1J0dzZiYkpZS0taMmo0SHJBSEJkR3hINUE?oc=5",
-   "source": "스타뉴스",
-   "pubDate": "2026-11-18T01:54:20.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "전남광주남구장난감대여부터수리까지이용자7655",
    "title": "전남광주 남구, '장난감 대여부터 수리까지'... 이용자 7,655명 육아 호응",
    "desc": "",
@@ -2390,21 +2314,6 @@
    "regions": [
     "부산"
    ],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "베트남유치원불량돼지고기검사결과에학부모충격",
-   "title": "베트남 유치원 불량 돼지고기 검사 결과에 학부모 ‘충격’",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iM0t4eXI1cHpwZDRxNFVERnhWd2Fmc2VMOWdVYl8wMjBGTmMtcWNGRWZ0X1lEUkhEVkltd193UktMcjdXZzV6Zw?oc=5",
-   "source": "씬짜오베트남",
-   "pubDate": "2026-11-18T01:50:38.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
    "events": [],
    "amounts": [],
    "via": "google"
@@ -2610,29 +2519,6 @@
    "events": [],
    "amounts": [],
    "via": "google"
-  },
-  {
-   "id": "세종시겨울방학아이돌봄프로그램참가자모집12월5",
-   "title": "[예시] 세종시, 겨울방학 아이 돌봄 프로그램 참가자 모집…12월 5일까지 접수",
-   "desc": "세종시는 초등학생 대상 겨울방학 돌봄 프로그램 참가자를 12월 5일까지 모집한다고 밝혔다. 신청은 온라인으로 가능하다.",
-   "link": "https://example.com/news/1",
-   "source": "example.com",
-   "pubDate": "2026-11-18T01:10:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [
-    {
-     "date": "2026-12-05",
-     "type": "마감",
-     "text": "프로그램 참가자 모집…12월 5일까지 접수 세종시는 초등학생 대상"
-    }
-   ],
-   "amounts": [],
-   "via": "fixture"
   },
   {
    "id": "출산을동네의일로바꾸는괴산주민들",
@@ -2909,29 +2795,6 @@
    "events": [],
    "amounts": [],
    "via": "google"
-  },
-  {
-   "id": "대전어린이과학체험축제11월29일개최",
-   "title": "[예시] 대전 어린이 과학 체험 축제 11월 29일 개최",
-   "desc": "대전시는 11월 29일 엑스포시민광장에서 어린이 과학 체험 축제를 연다. 가족 단위 참여 프로그램을 운영한다.",
-   "link": "https://example.com/news/2",
-   "source": "example.com",
-   "pubDate": "2026-11-18T00:10:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [
-    {
-     "date": "2026-11-29",
-     "type": "행사",
-     "text": "린이 과학 체험 축제 11월 29일 개최 대전시는 11월 29일 엑"
-    }
-   ],
-   "amounts": [],
-   "via": "fixture"
   },
   {
    "id": "남해군어린이집연합놀이한마당개최영유아330여명",
@@ -3365,42 +3228,12 @@
    "via": "google"
   },
   {
-   "id": "두번육아휴직후먹튀퇴사사실아냐임현주전아나운서작",
-   "title": "\"두 번 육아휴직 후 먹튀 퇴사? 사실 아냐\"… 임현주 전 아나운서, 작심 해명",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wNURFTjI0cG1nZUlrMnhVbG5yejgwWEJwZ2t5VzU5U0d3ci1tMVFYdU5rN1lqTmo0WDZjSGxCTEF4WktVdnZNcUJyalI4Z0xOS01SMTBFVnUzUQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "pubDate": "2026-11-17T20:20:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "통학버스에3시간갇혀등원못한4세딸유치원숨었나봐",
    "title": "통학버스에 3시간 갇혀 등원 못 한 4세 딸…유치원 \"숨었나 봐요\" 논란",
    "desc": "",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUFBkNzMtdTEteTZrdEVMemdvRFQ5UkJuT0dsRkw2YjBQSGR1ZmFYemN3NTZrMVRfY3BLdE4yV3VRMDJBdUZUTzVIc1B0ZDVtZENVcEtHOWk3NGNlVFhrWDVn?oc=5",
    "source": "뉴스1",
    "pubDate": "2026-11-17T20:00:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "유치원에서제공된물컹한돼지고기검사결과에학부모들",
-   "title": "유치원에서 제공된 물컹한 돼지고기 검사 결과에 학부모들이 충격을 받았다.",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkxHU2ZfSUFPaUQ3MXpqMjFMSXNlSVkxWFZjdnV2Y1dYRURUQ0d5M2t1anFiOU1tbHJpQ0FOOVZLZHVmWWV2SERneWdYRndNcDZKVXVkNV9lT0JIRy1pTWMza2RlQzc2QUlaQUFzYkQ2aHk5QkpKeF9SSHVpWHhXMGlvSmhiWjZJUDRLNU02Z1JiSzhYQUQ3X1IxSzNaQQ?oc=5",
-   "source": "Vietnam.vn",
-   "pubDate": "2026-11-17T18:27:39.000Z",
    "cats": [
     "care"
    ],
@@ -3870,21 +3703,6 @@
    "via": "google"
   },
   {
-   "id": "육아휴직논란아나운서15년몸담은방송국퇴사나란히",
-   "title": "‘육아휴직 논란’ 女아나운서, 15년 몸담은 방송국 퇴사→韓日 나란히 ‘시끌’ [MHN:글로벌]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iVncwYU40Uk1vM3RUb1ptTVczRFRxSHF3SHBxaEI5b0pfazF2UmdKcjI1VDIwNkduUlNWa08wbnF2SWkxSDJKZ0VPb0lEYUtqQlFYNEFROUFaa1lzNU1Qc0VvRQ?oc=5",
-   "source": "MHN스포츠",
-   "pubDate": "2026-11-17T09:50:19.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "속초아이사랑어린이집아나바다수익금기부",
    "title": "속초 아이사랑어린이집, 아나바다 수익금 기부",
    "desc": "",
@@ -4329,21 +4147,6 @@
    "via": "google"
   },
   {
-   "id": "육아휴직두번쓰고퇴사임현주사실아냐올해처음사용",
-   "title": "육아휴직 두 번 쓰고 퇴사?…임현주 \"사실 아냐, 올해 처음 사용\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oU3pwU0tneTVuazZTQV9HdGxnZmpSTVNIaW9kYldqVWZyNDdRNW5jNThYR21RRWRNTjFxUnFaWDVqZWhadDNFUDZ5WkFra2FTZ183MjBOTE5haG5PYkw5MHFJOFJqVUstYlIzbQ?oc=5",
-   "source": "굿모닝경제",
-   "pubDate": "2026-11-17T07:16:32.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "충남도아이가족돌봄성과보고회우수기관유공자표창",
    "title": "충남도, 아이·가족 돌봄 성과보고회…우수기관·유공자 표창",
    "desc": "",
@@ -4639,24 +4442,6 @@
    "via": "google"
   },
   {
-   "id": "내년부모급여인상검토0세월100만원유지여부촉각",
-   "title": "[예시] 내년 부모급여 인상 검토…0세 월 100만 원 유지 여부 촉각",
-   "desc": "정부가 내년 부모급여 개편안을 검토 중인 것으로 알려졌다. 현재 0세 월 100만 원, 1세 월 50만 원이 지급되고 있다.",
-   "link": "https://example.com/news/3",
-   "source": "example.com",
-   "pubDate": "2026-11-17T06:10:00.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [
-    "월 100만 원",
-    "월 50만 원"
-   ],
-   "via": "fixture"
-  },
-  {
    "id": "홍성소방서새싹어린이집체험교육",
    "title": "홍성소방서, 새싹어린이집 체험교육",
    "desc": "",
@@ -4740,21 +4525,6 @@
    "via": "google"
   },
   {
-   "id": "임현주아나운서퇴사발표육아휴직후복귀대신퇴사엇갈",
-   "title": "임현주 아나운서 퇴사 발표…육아휴직 후 복귀 대신 퇴사, 엇갈린 반응에 직접 입 열었다 : 네이버 블로그",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDRRbWNOdXZyZ1VSWktka09uQWdtQWhIaTRpVVVONU40dUExR3JxdGZ0aFhsRUNiUnNQSGF3WXBmWXZWdzNTVnJqV29oWWxTYVpOUzdleGxwRFJqbFpkYUVhaUhYSmFBc2gzZjFPREZqOGhjamh1emFrR2hkTXpuSGlBdmpfa25lay03SUUzRzU?oc=5",
-   "source": "Naver Blog",
-   "pubDate": "2026-11-17T05:56:14.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "월드비전가족돌봄자립준비청년95명금융자립지원",
    "title": "[금융·경제트렌드] 월드비전, 가족돌봄·자립준비청년 95명 금융 자립 지원 外",
    "desc": "",
@@ -4815,21 +4585,6 @@
    "amounts": [
     "300만 원"
    ],
-   "via": "google"
-  },
-  {
-   "id": "임현주아나두번육아휴직후MBC퇴사사실아냐해명",
-   "title": "임현주 아나, 두 번 육아휴직 후 MBC 퇴사? \"사실 아냐\" 해명",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFVjQlVWWmxfZDlaRW1FajdTMENhSGFMdG42bE1PRDZLMDBCWE5ZZzY0bkp4NlRoc0JxcXhYNEFxbnJ0dEw3MnFXTFQxRlZOaEEtU3FvS1hMYkU0VWdPb3hvVktMY2dpMXp4c25vZUZ5X050ZGZWVzhZX2ppLXpCQw?oc=5",
-   "source": "이데일리",
-   "pubDate": "2026-11-17T05:47:29.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
    "via": "google"
   },
   {
@@ -4944,21 +4699,6 @@
    "via": "google"
   },
   {
-   "id": "MBC퇴사임현주두번의육아휴직사실아냐만삭까지생",
-   "title": "'MBC 퇴사' 임현주 \"두 번의 육아휴직? 사실 아냐, 만삭까지 생방송\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUU1WVzhiTF82R0pMLWQ2b3hVZGdhQUlvZHBDWDI0SEs1WWxxOEIyNU5xYUFNc2stb1kwRFpNX1ltMzBidUZmeVlCUVR1WU5wOEE?oc=5",
-   "source": "노컷뉴스",
-   "pubDate": "2026-11-17T05:02:37.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "인천정민유치원원생들직접키운무80기부산곡2동에",
    "title": "인천 정민유치원 원생들, 직접 키운 무 80㎏ 기부…산곡2동에 따뜻한 나눔",
    "desc": "",
@@ -5048,21 +4788,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zaGpQNXRWYm5kT2VtVjhRNlp3emlxUTF2UWgzbmh1UmpRR1RjTENSMG1UVGNrdjgyWTQweGdwd3BkckpMTXBLaEpCY2pPVFpEMlk3WlBleGjSAVhBVV95cUxNM2hqUDV0VmJuZE9lbVY4UTZad3ppcVExdlFoM25odVJqUUdUY0xDUjBtVFRja3Y4Mlk0MHhncHdwZHJKTE1wS2hKQmNqT1RaRDJZN1pQZXho?oc=5",
    "source": "아주경제",
    "pubDate": "2026-11-17T04:41:13.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "MBC전아나운서임현주육아휴직종료직후퇴사논란에",
-   "title": "MBC 전 아나운서 임현주, ‘육아휴직 종료 직후 퇴사’ 논란에 해명 [이슈&톡]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3bWRwWjFCVDZ0ZXZBUTBVYkpuVEFHOU5paDF2enNMVXBUTi11eC1XTkVQVmthUkw5dmRGTk5DMVpZYWVQUU1RYWxjTU1PLXZpQ3UzOEY5d1dtMmJEMnBDcXNHZXRuNWl1aEFZ?oc=5",
-   "source": "티브이데일리",
-   "pubDate": "2026-11-17T04:31:08.000Z",
    "cats": [
     "work"
    ],
@@ -5270,21 +4995,6 @@
    "via": "google"
   },
   {
-   "id": "1년9개월육아휴직사실아냐임현주MBC퇴사보도정",
-   "title": "“1년 9개월 육아휴직? 사실 아냐”…임현주, MBC 퇴사 보도 정정",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWUS1qU2dXb2VOQ19ab2o4c0llb215UUFXdE9TbnRqdjA5UEJXVnpHTzFodE1GMkhfT0VDSlpEMExqS3lEbkQ0WExTZVVnY1NpaG9UTWlHbjNDV29CcUd5blF3?oc=5",
-   "source": "스포츠월드",
-   "pubDate": "2026-11-17T03:20:33.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "인천서해구아이돌봄사347명대상근골격계질환예방",
    "title": "인천 서해구, 아이돌봄사 347명 대상 근골격계질환 예방교육 실시",
    "desc": "",
@@ -5362,21 +5072,6 @@
    "via": "google"
   },
   {
-   "id": "임현주아나운서육아휴직2번퇴사논란에입장발표사실",
-   "title": "임현주 아나운서, '육아 휴직 2번→퇴사' 논란에 입장 발표…\"사실과 다른 내용 있어\" [MHN:피드]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRclozNVpYTG5nTGMwUmhuREVtUk5fbHlOaWZ0OUU2b2VHdjhDUlNma2dKMVJCMGd2ZVUzOGhNNzhVZ3ZaaXZ1eEM2ejdjbmhVdTNtV00tdVRjVmh6NnlBV0ZrNA?oc=5",
-   "source": "MHN스포츠",
-   "pubDate": "2026-11-17T03:02:38.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "산청군평생학습으로출산양육돌봄전문인력키운다",
    "title": "산청군, 평생학습으로 출산·양육 돌봄 전문인력 키운다",
    "desc": "",
@@ -5439,21 +5134,6 @@
    "via": "google"
   },
   {
-   "id": "육아휴직후퇴사임현주논란에직접입열었다휴직기간남",
-   "title": "[전문] ‘육아휴직 후 퇴사’ 임현주, 논란에 직접 입 열었다…“휴직 기간 남았지만 퇴사 결정”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4X05fSXJ0TzdGc0cwU3ZhZ0NhaUlrU1Rka0pEMkZKUUN2UlU3aHFsRHVXREJYSWVCaEgyb0lyVl9XNE5GdU5nUXpJR2lpeGFYd3hjWjJ4czlabldSdHfSAWNBVV95cUxNT1gxMnBTdlF2clZnT0U3ZjVoUTdVdWJ3ZWhFcS0zVlluby1OS2ktR0lpSzgyNGxNb3BwMG5yVUVCam5YUGhDQnhrQ05YZy1lbXFYLW5lNERSaFphc2ducGhHVlE?oc=5",
-   "source": "스포츠경향",
-   "pubDate": "2026-11-17T02:30:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "강북구의회길물빛유치원어린이첫의회견학민주주의체",
    "title": "강북구의회, 길물빛유치원 어린이 첫 의회 견학···민주주의 체험",
    "desc": "",
@@ -5479,21 +5159,6 @@
    "cats": [
     "policy",
     "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주육아휴직후MBC퇴사논란반박1년9개월휴직",
-   "title": "임현주, 육아휴직 후 MBC 퇴사 논란 반박…“1년 9개월 휴직 사실 아냐”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BNHBra3FwRmstUVFxQllyNUVDRHlqWnBlbG5MWUplUlN1VGg5LXMtcmZjZ0dqM2tqNDlLaUtWWTYtUElFN0FqQlRqblM4OFpaMjg0NXdOaGxLN1BUb2Y1UDZjYXhHQQ?oc=5",
-   "source": "싱글리스트",
-   "pubDate": "2026-11-17T02:18:39.000Z",
-   "cats": [
-    "work"
    ],
    "regions": [],
    "events": [],
@@ -5562,21 +5227,6 @@
    "via": "google"
   },
   {
-   "id": "아빠도육아휴직남성육아휴직자역대최대",
-   "title": "[예시] \"아빠도 육아휴직\"…남성 육아휴직 자 역대 최대",
-   "desc": "올해 남성 육아휴직자가 역대 최대를 기록했다. 6+6 부모육아휴직제 효과로 풀이된다.",
-   "link": "https://example.com/news/5",
-   "source": "example.com",
-   "pubDate": "2026-11-17T02:10:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
    "id": "한전KDN나주시어린이집연합회와공공시설개방협약",
    "title": "한전KDN, 나주시 어린이집 연합회와 공공시설 개방 협약 체결",
    "desc": "",
@@ -5585,21 +5235,6 @@
    "pubDate": "2026-11-17T01:59:47.000Z",
    "cats": [
     "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "육아휴직뒤퇴사비난에임현주두번휴직사실아니다",
-   "title": "'육아휴직 뒤 퇴사' 비난에 … 임현주 \"두 번 휴직, 사실 아니다\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVEZrTk9TdnZKdHFMelRReTZORlVZTUZqSDhPSGFTU0VqX3FfX05ldmxzREFocWJLTnZqa1NSUXNydm1uQTJFa0NtSmRDSEI2Z0l6OVpiYmhpdkV2TGhRVjNoVHVBdklxdnpwdDBiQllFa2l5Y0ZheHhYczZ6MVczMNIBgAFBVV95cUxQVEZrTk9TdnZKdHFMelRReTZORlVZTUZqSDhPSGFTU0VqX3FfX05ldmxzREFocWJLTnZqa1NSUXNydm1uQTJFa0NtSmRDSEI2Z0l6OVpiYmhpdkV2TGhRVjNoVHVBdklxdnpwdDBiQllFa2l5Y0ZheHhYczZ6MVczMA?oc=5",
-   "source": "뉴데일리",
-   "pubDate": "2026-11-17T01:57:00.000Z",
-   "cats": [
-    "work"
    ],
    "regions": [],
    "events": [],
@@ -5654,36 +5289,6 @@
    "via": "google"
   },
   {
-   "id": "육아휴직끝나퇴사한것아냐임현주입열었다사실관계정",
-   "title": "[전문] \"육아휴직 끝나 퇴사한 것 아냐\" 임현주, 입 열었다…\"사실관계 정확히 전달되길\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJYUV4bmY3UmNxd0s1a0wzU1V1OHFQZ3hsSmNjLUFVN3hKakh3RjdmZDBkcjYyMUhaNEgzR1loemtSSkRpaTB3dzhKRTJwRFc1ajRTSEpuZHpvVTg?oc=5",
-   "source": "텐아시아",
-   "pubDate": "2026-11-17T01:39:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주아나운서MBC퇴사논란에직접반박1년9개월",
-   "title": "임현주 아나운서, MBC 퇴사 논란에 직접 반박…“1년 9개월 육아휴직 사실 아냐”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1YUllZjdOMjNRa2NyaWE4Y1d0R2ZWUnhLMm56c2tOSFk1MEduM2tHN3ZBX29IeWhHZllJMTh6SWVpTU0zUVRkSkYybk1iTmhtUzJEMjJPMW9aRTQ4M1lKNmZoZmxfX2c2SVMxX2hqNk5PQQ?oc=5",
-   "source": "톱스타뉴스",
-   "pubDate": "2026-11-17T01:37:29.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "군산시내년만12세까지아동기본수당월20만원지급",
    "title": "군산시, 내년 만12세까지 '아동기본수당' 월20만원 지급",
    "desc": "",
@@ -5709,21 +5314,6 @@
    "pubDate": "2026-11-17T01:35:45.000Z",
    "cats": [
     "policy"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주육아휴직후퇴사논란에내자리에서최선다해",
-   "title": "임현주, 육아휴직 후 퇴사 논란에 \"내 자리에서 최선 다해\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jUjFNd2l3NTVwVmh1TERTYkN5aGhHSHZVR0d6NF9qLXdqNlotSVVxbkhmTkx2alRHMk5OUmFKcERXR096Nk1HcHM1Ujc0RXJTMWhJSnE0em96b2ZyMTNwaW5KMVU?oc=5",
-   "source": "YTN star",
-   "pubDate": "2026-11-17T01:34:00.000Z",
-   "cats": [
-    "work"
    ],
    "regions": [],
    "events": [],
@@ -5830,66 +5420,6 @@
    "via": "google"
   },
   {
-   "id": "MBC임현주안경착용육아휴직후퇴사양날의검",
-   "title": "MBC 임현주, 안경 착용-육아 휴직 후 퇴사 '양날의 검'",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hM0pPOVBrX3NwU2RCckg5Q2MtSFpTQWFWajVMQkhSMlVBYU9jd3BrV3A0ZndDcTZFdnJ4alNqMk5xdDlxQWdFMDRqR3hkS0xXWmFzQlQ2RURLMldQemlMaUdFQlBKcTNwelhDM013?oc=5",
-   "source": "미디어파인",
-   "pubDate": "2026-11-17T01:24:06.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주아나운서육아휴직기간남아있었다퇴사관련보도",
-   "title": "임현주 아나운서 \"육아휴직 기간 남아 있었다\"…퇴사 관련 보도 바로잡아",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HUzIxb0FSb3RteWNUYUtRQlNQblBzSjZBVFR3Y0c5ZmhQb1JMYlFtamFCZjNxZVVaVGRZaVB0RjZTaFB5MW0tdUROQ0hSaUZ1U01aSnZsQm8wMUc1aThVckI5NTEzS3ZGal9F?oc=5",
-   "source": "한국사회복지저널",
-   "pubDate": "2026-11-17T01:21:12.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주육아휴직후퇴사오해바로잡아예정기간남기고마",
-   "title": "임현주, '육아휴직 후 퇴사' 오해 바로잡아… \"예정 기간 남기고 마무리\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03RC00MmI0MXBPWERYNUZVRS1UeVlIb0paRi1uLW9abUdjWVYzSlN3UVdKRC1GNHJXQzJBS2RxZjFRSjNGbWY5SXZRei1SZ0lTenRrNnJ1WnMzRjRLLUlhdDM3WHo0a3NFc3dkSFg1eDM4bTDSAXNBVV95cUxNN0QtNDJiNDFwT1hEWDVGVUUtVHlZSG9KWkYtbi1vWm1HY1lWM0pTd1FXSkQtRjRyV0MyQUtkcWYxUUozRm1mOUl2UXotUmdJU3p0azZydVpzM0Y0Sy1JYXQzN1h6NGtzRXN3ZEhYNXgzOG0w?oc=5",
-   "source": "한국일보",
-   "pubDate": "2026-11-17T01:14:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주두번의육아휴직끝나자MBC퇴사사실아냐",
-   "title": "임현주 \"두 번의 육아휴직 끝나자 MBC 퇴사? 사실 아냐\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kWmdvT2s2RjB2WmpDeHlQXzJBUEx2M2FJUFRvVW0zRlFSVUpFbXdqR1N2UWJ2QUpBUV9ZZTI0NTFLdGJGOUxkekgycGoya1dGTDV6QWZ5LW94dw?oc=5",
-   "source": "한국경제",
-   "pubDate": "2026-11-17T01:11:14.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "군산시아동기본수당단계적확대012세에월20만원",
    "title": "군산시 아동기본수당 단계적 확대…0∼12세에 월 20만원 : 사회",
    "desc": "",
@@ -5904,21 +5434,6 @@
    "amounts": [
     "월 20만 원"
    ],
-   "via": "google"
-  },
-  {
-   "id": "임현주육아휴직두번쓰고퇴사올해처음사용",
-   "title": "임현주, 육아휴직 두 번 쓰고 퇴사? “올해 처음 사용” [전문]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Dd3JxdFhERnZaNXY4T0FJYU1WSjlIMjBrcWd1b1lJMTJkdjYxaVA0a0VOdlpDS0E2N2lRRG1XVlhhR3Y3bmVCV2c3TXJGSnZudVhhTlVuMA?oc=5",
-   "source": "매일경제",
-   "pubDate": "2026-11-17T01:07:41.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
    "via": "google"
   },
   {
@@ -5973,36 +5488,6 @@
    "via": "google"
   },
   {
-   "id": "임현주MBC퇴사보도반박육아휴직1년9개월사실아",
-   "title": "임현주, MBC 퇴사 보도 반박…\"육아휴직 1년 9개월 사실 아냐\" [전문]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SaUlFVVRSOE9QMGNJSWpaVzkyaTBOVmlvMmhDdnMzejFNWURBMTRRTUJPTjVfYkdoYUFvRHlyS3FiTFlKUFc4Wl9kMVpocVdLeUIwbFZrakZmcGRINVdIWg?oc=5",
-   "source": "마이데일리",
-   "pubDate": "2026-11-17T00:58:01.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "육아휴직끝나자마자MBC퇴사임현주아나직접입열었",
-   "title": "육아휴직 끝나자마자 MBC 퇴사?…임현주 아나, 직접 입 열었다 \"사실과 달라\" [전문]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIMlljTllaS1hQRnNhNzlWb19NcFhXUEVjdDBzZjg5MTNNZ1ZFY2ZKYUpCWVFvMm92S25mX3dWMnExN3U3Vy1EeU56ZWR4OXhmbG56Tg?oc=5",
-   "source": "엑스포츠뉴스",
-   "pubDate": "2026-11-17T00:57:47.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "삼척고향사랑기금아동안전으로구조손수건1천25개",
    "title": "삼척 고향사랑기금, 아동 안전으로…구조 손수건 1천25개",
    "desc": "",
@@ -6047,21 +5532,6 @@
    "regions": [
     "경기"
    ],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "MBC떠난임현주아나운서육아휴직논란정면반박최선",
-   "title": "MBC 떠난 임현주 아나운서, ‘육아휴직 논란’ 정면 반박…“최선 다해 일했다”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11YlZldmg1SktzaTVWdTJiSGczWWFrSTVNZklGVFdkck5OVXFPX3oxYmZzVnlWWnZxZ2liblh6QTczT0wxQmluS1VWLWxmeENuMVB3TjBSRkE?oc=5",
-   "source": "스포츠서울",
-   "pubDate": "2026-11-17T00:56:19.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
    "events": [],
    "amounts": [],
    "via": "google"
@@ -6148,36 +5618,6 @@
    "via": "google"
   },
   {
-   "id": "임현주육아휴직후MBC퇴사논란반박내자리서최선다",
-   "title": "임현주, 육아휴직 후 MBC 퇴사 논란 반박..\"내 자리서 최선 다해\"[전문]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSVpVUFdCUldsNTYteUktVjgyMllnSmk0UlNrRHEzWkhXZjBDUGthMkdpV2lwQmw0VWFkeVZkQXA2SjgtOXp5U0F1N1M1aFNxNE91LWxnNFJOYmFQNnViQWo0X3QxSUdTRE91dnoySWdoamlFU2tWTTM5RmdNNFZyWjI1c1FmUFBXNE9SZUYtYWNmZmszX1BhUGVEUUdRcDVoQmZzeXMwNNIBpwFBVV95cUxPSVpVUFdCUldsNTYteUktVjgyMllnSmk0UlNrRHEzWkhXZjBDUGthMkdpV2lwQmw0VWFkeVZkQXA2SjgtOXp5U0F1N1M1aFNxNE91LWxnNFJOYmFQNnViQWo0X3QxSUdTRE91dnoySWdoamlFU2tWTTM5RmdNNFZyWjI1c1FmUFBXNE9SZUYtYWNmZmszX1BhUGVEUUdRcDVoQmZzeXMwNA?oc=5",
-   "source": "Chosunbiz",
-   "pubDate": "2026-11-17T00:39:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주아나육아휴직후MBC퇴사비난에반박1년9개",
-   "title": "임현주 아나, '육아휴직 후 MBC 퇴사' 비난에 반박…\"1년 9개월 육휴? 사실 아냐\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxZFlsczdpdVlCVnN4elNnNlB1alVFZlhjdWlrMFprT0lkVC11LVl0c2NJVEZ0YjVRZ0dWODUtX2Ewb0Via2NtRklrVGN6MGNBa1FaTGtWMG9wWXNFRlFUN3BhSEFwVjZEM3o0cy1HdHo?oc=5",
-   "source": "SPOTV NEWS",
-   "pubDate": "2026-11-17T00:37:21.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "초등평가10년만에부활움직임세종학부모반응은",
    "title": "초등 평가, 10년 만에 부활 움직임...세종 학부모 반응은?",
    "desc": "",
@@ -6190,21 +5630,6 @@
    "regions": [
     "세종"
    ],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주퇴사보도바로잡았다육아휴직1년9개월사실아",
-   "title": "임현주, 퇴사 보도 바로잡았다 \"육아휴직 1년9개월 사실 아냐\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43eEJGTjVjNnFqcFQwVk1XX0p4QUJxWEllaXg5THVVYlZMRjRPQnVFWG42NDgzOFlUdWpSbWtQZTA3aE52ei1wS3Z3LW1Oc1MwcHN1cjJ2ZjhJYmdXNEN5Mzh2QzB2Z2drREtIdm1lMEd2OG42WjNzRdIBeEFVX3lxTE43eEJGTjVjNnFqcFQwVk1XX0p4QUJxWEllaXg5THVVYlZMRjRPQnVFWG42NDgzOFlUdWpSbWtQZTA3aE52ei1wS3Z3LW1Oc1MwcHN1cjJ2ZjhJYmdXNEN5Mzh2QzB2Z2drREtIdm1lMEd2OG42WjNzRQ?oc=5",
-   "source": "뉴시스",
-   "pubDate": "2026-11-17T00:31:51.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
    "events": [],
    "amounts": [],
    "via": "google"
@@ -6259,21 +5684,6 @@
    "via": "google"
   },
   {
-   "id": "내자리서최선다했다임현주아나육아휴직후MBC퇴사",
-   "title": "“내 자리서 최선 다했다” 임현주 아나, 육아휴직 후 MBC 퇴사 비난에 반박[전문]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrSmtIWkczMm4tcThMNGxDdjFLUTZHNWZYOE1FUlhzZ1BpbWFjREN4dHQ2LWVfZ0NIUDhEYzhVOW1zdVJ2WWdhSWs3ZzQtUWtFMWxsTjBGVmxDMWRxVDNEWEFYRU04cFpS?oc=5",
-   "source": "뉴스엔",
-   "pubDate": "2026-11-17T00:20:31.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "원주녹색어머니연합회어린이안전골든벨성료",
    "title": "원주녹색어머니연합회, 어린이 안전골든벨 성료",
    "desc": "",
@@ -6282,21 +5692,6 @@
    "pubDate": "2026-11-17T00:15:03.000Z",
    "cats": [
     "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주육아휴직후퇴사논란에입열었다휴직기간남아있",
-   "title": "임현주, 육아휴직 후 퇴사 논란에 입 열었다 “휴직 기간 남아 있었다” [전문]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTBrdmFrYzNoTHVwVGhJRjRTeXAxOFJsdUIxNXNGSTRrSmN0RnFkOUs3eU5CT0hUWHl6MWhXRGhYWUZDd1B4blpsNUVseUVRbHdPT01hUzVNTkNOQzZMOWxRNEtzWHJHQmIxWm1YdmJOeF93SkN6WXlZejZ4ZU5FNEZ3SXU?oc=5",
-   "source": "스포츠조선",
-   "pubDate": "2026-11-17T00:10:21.000Z",
-   "cats": [
-    "work"
    ],
    "regions": [],
    "events": [],
@@ -6332,51 +5727,6 @@
    "regions": [
     "경기"
    ],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "육아휴직후MBC퇴사에갑론을박13년만에회사떠난",
-   "title": "육아휴직 후 MBC 퇴사에 갑론을박…13년 만에 회사 떠난 아나운서 임현주",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MY0JKV0ZHVWFRUW5FZ3FpNUNYaEpkWHdIdGZ5QkFlbzRXczZTZV9rdjFZdUhjNDBqTDZMV3lOcWNCcHFoZldlaVBTTlVERHpTMFJIOEpHZ0o0Vms?oc=5",
-   "source": "텐아시아",
-   "pubDate": "2026-11-16T23:58:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "육아휴직끝나자퇴사2번은사실아냐임현주아나운서민",
-   "title": "“육아휴직 끝나자 퇴사? 2번은 사실 아냐”…임현주 아나운서, ‘민폐’ 논란 해명",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85eVJaS0lNZ0steWFJdnlWQ242bmVDMG1EV3Q1MlFPRWlSWFRDNGdIZmFscmN5VF9nYjNUcmlvVThDejl1Z0E?oc=5",
-   "source": "매일경제",
-   "pubDate": "2026-11-16T23:57:47.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "법적권리vs민폐육아휴직끝내고퇴사한MBC아나운",
-   "title": "“법적 권리” vs “민폐”…육아휴직 끝내고 퇴사한 MBC 아나운서에 갑론을박",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZMkNnYWJVU2pOUVBFWDVwRUlkWV94OU5qOVZzNXNrY3RLVllKN2haTTlMR1l6ejRRY0JWUXBsNzg5Z2JXLUxDbHJwZ1BlXzdkRGVCWA?oc=5",
-   "source": "매일경제",
-   "pubDate": "2026-11-16T23:57:47.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
    "events": [],
    "amounts": [],
    "via": "google"
@@ -6460,21 +5810,6 @@
    "via": "google"
   },
   {
-   "id": "임현주아나육아휴직끝나자MBC퇴사논란속심경중요",
-   "title": "임현주 아나, 육아휴직 끝나자 MBC 퇴사…논란 속 심경 \"중요한 건 나 하기 나름\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGZ3Q25wbkN3d0JmYWt0blBJRmJYT0FnYWVLRTRrQ1Q2YWRzNE16NHFPOF9EaUhNektyVmJidHM4OWNBT2o5WE14Z1RlcS03dXpaNDJMaGhxc1Zwekh2SldLTTk5c3dHbGZJMVlIbmVkSEVBRy1PMm54MkVtdHo4SVR3X0g?oc=5",
-   "source": "스포츠조선",
-   "pubDate": "2026-11-16T23:22:33.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "강동구아이돌봄사200여명과2026힐링데이개최",
    "title": "강동구, 아이돌봄사 200여 명과 ‘2026 힐링데이’ 개최..\"토크콘서트·공연\"",
    "desc": "",
@@ -6491,21 +5826,6 @@
    "via": "google"
   },
   {
-   "id": "임현주MBC퇴사에엇갈린시선육아휴직후퇴사비판v",
-   "title": "임현주 MBC 퇴사에 엇갈린 시선…“육아휴직 후 퇴사” 비판 vs “개인의 선택”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SNDB4OWtMS0RmNU1MekZHUTlwLXRkejN6S3RkTFlXMXVjSnMtMEJKbmlFQnNURHNCSVVZWklYYnAzdVRBb2ZFaldFTlk1NkJlTmFfbFZKLXRmQ0duUEpLc1FrMEJTNzFUd2N1dGIySWpPZw?oc=5",
-   "source": "톱스타뉴스",
-   "pubDate": "2026-11-16T23:03:19.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "지자체의허술한어린이집원장자격정지통보법원취소하",
    "title": "지자체의 허술한 어린이집 원장 자격정지 통보…법원 \"취소하라\"",
    "desc": "",
@@ -6514,21 +5834,6 @@
    "pubDate": "2026-11-16T23:00:04.000Z",
    "cats": [
     "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "새출발응원vs시점아쉽다임현주아나육아휴직후퇴사",
-   "title": "“새 출발 응원” vs “시점 아쉽다” 임현주 아나, 육아휴직 후 퇴사에 ‘시끌’",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PcEVDdkpUR2hrbno1dTBmU09qYkEtNHZmTjdIQWxvUW94RFo2YXFIT05ERUFjVUtoaFV6VmZ5dUhUendyOTY2TUZNNUJmR0VJWUEtQ0hzMng?oc=5",
-   "source": "스포츠서울",
-   "pubDate": "2026-11-16T22:51:14.000Z",
-   "cats": [
-    "work"
    ],
    "regions": [],
    "events": [],
@@ -6599,21 +5904,6 @@
    "via": "google"
   },
   {
-   "id": "육아휴직후복직없이퇴사임현주MBC퇴사에나온이야",
-   "title": "육아휴직 후 복직없이 퇴사..임현주 MBC 퇴사에 나온 이야기들 [★FOCUS]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42UlZOT2drWXFfY01fSmpFcTdtblFOOW5ra09jUDB2Zy10ZWZEdFkzZTZNcy1jWFJPMmFvNVFqNUtjRFZFRzZaMzMzMDBnUTU2ZzRka3VsTHE3N19TUkQyNXIyQlQzRWZzNnBWc21SRU9HbkE?oc=5",
-   "source": "스타뉴스",
-   "pubDate": "2026-11-16T21:10:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
    "id": "뺨때리고머리가격하고씨익영아학대어린이집교사3명",
    "title": "뺨 때리고 머리 가격하고 ‘씨익’…‘영아 학대’ 어린이집 교사 3명 구속",
    "desc": "",
@@ -6643,21 +5933,6 @@
    "amounts": [
     "30만 원"
    ],
-   "via": "google"
-  },
-  {
-   "id": "육아휴직후MBC퇴사가왜잘못임현주소식에때아닌갑",
-   "title": "육아휴직 후 MBC 퇴사가 왜 잘못?..임현주 소식에 때아닌 갑론을박 [Oh!쎈 이슈]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlI2Vk9zekpsSFNNbV9NSWFjNlRNUnNiTXBORjNUQVNmUGFlSGNRcFU4b1RjeVItNHMtbTEyaDZYRUlZNVhmWjY3WllfZWtNeUJyZ1JQZVN2bmc3TzRqRnAwUktCaGI4bktVdFZWNzR3ZWxXdGVoLTl0dVZ6Ui1MTHhxeGIzTWxHQlgzTkNhZXZWS0tycEhIZDZaMHcyLTFpM1VuU2dKZ9IBpwFBVV95cUxPYlI2Vk9zekpsSFNNbV9NSWFjNlRNUnNiTXBORjNUQVNmUGFlSGNRcFU4b1RjeVItNHMtbTEyaDZYRUlZNVhmWjY3WllfZWtNeUJyZ1JQZVN2bmc3TzRqRnAwUktCaGI4bktVdFZWNzR3ZWxXdGVoLTl0dVZ6Ui1MTHhxeGIzTWxHQlgzTkNhZXZWS0tycEhIZDZaMHcyLTFpM1VuU2dKZw?oc=5",
-   "source": "Chosunbiz",
-   "pubDate": "2026-11-16T15:39:00.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
    "via": "google"
   },
   {
@@ -6990,21 +6265,6 @@
    "regions": [
     "경북"
    ],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "육아휴직후곧바로퇴사라니임현주MBC퇴직에시선싸",
-   "title": "\"육아휴직 후 곧바로 퇴사라니\"…임현주, MBC 퇴직에 시선 싸늘",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3B4R2NnZVNJWDRwVDVldEJyd3ltVDJHMFd6bkVrdUVxdE5JNHBmQmg0SWRkcHJJVWtfRW9maEtZUU9vX3VMX0t3dzRZRHFWZFdIN01aR0VoWlNEellFRGJ1X0U3eW8zRGdLQVljdkc2VThjTFozOG9yVWN4YTdvUEMwQlg?oc=5",
-   "source": "스포츠조선",
-   "pubDate": "2026-11-16T08:48:30.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [],
    "events": [],
    "amounts": [],
    "via": "google"
@@ -7550,27 +6810,6 @@
    "via": "google"
   },
   {
-   "id": "독감유행본격화영유아예방접종서둘러야",
-   "title": "[예시] 독감 유행 본격화…영유아 예방접종 서둘러야",
-   "desc": "소아과 전문의들은 영유아 독감 예방접종을 서두르라고 권고했다. 국가예방접종은 12월 31일까지 무료로 진행된다.",
-   "link": "https://example.com/news/6",
-   "source": "example.com",
-   "pubDate": "2026-11-16T05:10:00.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [],
-   "events": [
-    {
-     "date": "2026-12-31",
-     "type": "마감",
-     "text": "했다. 국가예방접종은 12월 31일까지 무료로 진행된다."
-    }
-   ],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
    "id": "고양시어린이식품안전보호구역표지판일제정비",
    "title": "고양시, 어린이 식품안전보호구역 표지판 일제 정비",
    "desc": "",
@@ -7594,21 +6833,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WUUJYUndMVUdDbDJoVHdJSHRiTDJCR0hUNUplSWYxNnRRRnByazRIb3l3WWR0YWFZY2tJRVdnV0ZGY21sMHgybE5VNS0xUVV2djdnUE1OOFM4anZaZ2tOZ1ZvZlpRc2c4aUctODZmVdIBb0FVX3lxTE1WUUJYUndMVUdDbDJoVHdJSHRiTDJCR0hUNUplSWYxNnRRRnByazRIb3l3WWR0YWFZY2tJRVdnV0ZGY21sMHgybE5VNS0xUVV2djdnUE1OOFM4anZaZ2tOZ1ZvZlpRc2c4aUctODZmVQ?oc=5",
    "source": "머니투데이",
    "pubDate": "2026-11-16T04:59:26.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주MBC아나육아휴직끝내고퇴사선언",
-   "title": "임현주 MBC 아나, 육아 휴직 끝내고 퇴사 선언",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RWGExclo5NGlyc0dzcHBXcHVVc1RyY1pyTm81Q2VnTDZtWXo2NkZDZnZGTWlvUWNnUUxWUmRHMS1BMHFGNlhWckFNOC0zS3VIOVRFdGNqZ1Z2djZjUVo3U0ZXVWktWXVZN3pQLTVB?oc=5",
-   "source": "미디어파인",
-   "pubDate": "2026-11-16T04:43:46.000Z",
    "cats": [
     "etc"
    ],
@@ -7689,21 +6913,6 @@
    "pubDate": "2026-11-16T02:25:17.000Z",
    "cats": [
     "policy"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google"
-  },
-  {
-   "id": "임현주MBC아나육아휴직마치고퇴사선언결심까지용",
-   "title": "[전문] 임현주 MBC 아나, 육아휴직 마치고 퇴사 선언…\"결심까지 용기 필요했다\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EY3Iwc0VyY1U4ZkZrR2VKRHhuZnhQZ0RZcnRBcXg5UWE4Q3BnbmlKN3JHOWkyMEl0X3diVl9SeEU5bDF6R3FlUUNRLXpsWVRLUkRHazNoN1lTQXZJV3lFUw?oc=5",
-   "source": "마이데일리",
-   "pubDate": "2026-11-16T02:15:06.000Z",
-   "cats": [
-    "work"
    ],
    "regions": [],
    "events": [],
@@ -7920,22 +7129,6 @@
    "events": [],
    "amounts": [],
    "via": "google"
-  },
-  {
-   "id": "어린이집보육료지원단가3인상추진",
-   "title": "[예시] 어린이집 보육료 지원 단가 3% 인상 추진",
-   "desc": "내년 0~2세 어린이집 보육료 지원 단가가 3% 인상될 전망이다.",
-   "link": "https://example.com/news/7",
-   "source": "example.com",
-   "pubDate": "2026-11-16T01:10:00.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
   },
   {
    "id": "대전사회혁신센터우리가족자원순환페스티벌개최",
@@ -8304,163 +7497,6 @@
    "events": [],
    "amounts": [],
    "via": "google"
-  },
-  {
-   "id": "늘봄학교2학기만족도조사결과발표",
-   "title": "[예시] 늘봄학교 2학기 만족도 조사 결과 발표",
-   "desc": "교육부는 늘봄학교 학부모 만족도 조사 결과를 발표했다. 초등 1~2학년 이용률이 크게 늘었다.",
-   "link": "https://example.com/news/8",
-   "source": "example.com",
-   "pubDate": "2026-11-15T04:10:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
-   "id": "세종국립어린이박물관겨울특별전12월10일개막",
-   "title": "[예시] 세종 국립어린이박물관, 겨울 특별전 12월 10일 개막",
-   "desc": "세종 국립어린이박물관이 12월 10일 겨울 특별전을 개막한다. 사전 예약은 12월 1일부터 받는다.",
-   "link": "https://example.com/news/9",
-   "source": "example.com",
-   "pubDate": "2026-11-15T00:10:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [
-    {
-     "date": "2026-12-10",
-     "type": "행사",
-     "text": "박물관, 겨울 특별전 12월 10일 개막 세종 국립어린이박물관이 1"
-    },
-    {
-     "date": "2026-12-01",
-     "type": "신청",
-     "text": "막한다. 사전 예약은 12월 1일부터 받는다."
-    }
-   ],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
-   "id": "다자녀가구자동차취득세감면2027년까지연장",
-   "title": "[예시] 다자녀 가구 자동차 취득세 감면 2027년까지 연장",
-   "desc": "2자녀 가구 50%, 3자녀 이상 면제 혜택이 2027년까지 유지된다.",
-   "link": "https://example.com/news/10",
-   "source": "example.com",
-   "pubDate": "2026-11-14T08:10:00.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
-   "id": "대전서구아이돌봄서비스이용요금추가지원",
-   "title": "[예시] 대전 서구, 아이돌봄 서비스 이용요금 추가 지원",
-   "desc": "대전 서구는 아이돌봄 서비스 이용 가정에 월 10만 원을 추가 지원한다.",
-   "link": "https://example.com/news/11",
-   "source": "example.com",
-   "pubDate": "2026-11-14T02:10:00.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [
-    "월 10만 원"
-   ],
-   "via": "fixture"
-  },
-  {
-   "id": "어린이카시트리콜해당제품사용중지권고",
-   "title": "[예시] 어린이 카시트 리콜…해당 제품 사용 중지 권고",
-   "desc": "한국소비자원은 일부 어린이 카시트 제품에 결함이 발견돼 리콜을 실시한다고 밝혔다.",
-   "link": "https://example.com/news/13",
-   "source": "example.com",
-   "pubDate": "2026-11-13T06:10:00.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
-   "id": "출산지원금경쟁지자체별최대수천만원",
-   "title": "[예시] 출산 지원금 경쟁…지자체별 최대 수천만 원",
-   "desc": "지자체들의 출산 지원금 경쟁이 치열하다. 첫째부터 지원하는 곳도 늘고 있다.",
-   "link": "https://example.com/news/14",
-   "source": "example.com",
-   "pubDate": "2026-11-13T00:10:00.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
-   "id": "유치원무상교육확대45세필요경비지원",
-   "title": "[예시] 유치원 무상교육 확대…4~5세 필요경비 지원",
-   "desc": "내년부터 4~5세 유치원 필요경비 지원이 확대된다.",
-   "link": "https://example.com/news/15",
-   "source": "example.com",
-   "pubDate": "2026-11-12T05:10:00.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
-   "id": "세종아이랑가볼만한실내놀이터3곳개장",
-   "title": "[예시] 세종 아이랑 가볼 만한 실내 놀이터 3곳 개장",
-   "desc": "세종시에 실내 놀이터 3곳이 새로 문을 열었다. 키즈카페형 공공 놀이시설로 운영된다.",
-   "link": "https://example.com/news/16",
-   "source": "example.com",
-   "pubDate": "2026-11-12T01:10:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
-  },
-  {
-   "id": "육아기근로시간단축급여신청안내",
-   "title": "[예시] 육아기 근로시간 단축 급여 신청 안내",
-   "desc": "육아기 근로시간 단축 급여는 종료 후 12개월 이내 신청해야 합니다.",
-   "link": "https://example.com/moel/1",
-   "source": "고용노동부(예시)",
-   "pubDate": "2026-11-11T01:10:00.000Z",
-   "cats": [
-    "policy",
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "fixture"
   }
  ]
 }
