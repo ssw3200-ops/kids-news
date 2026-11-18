@@ -1,0 +1,16 @@
+{
+  "name": "육아 소식 한눈에",
+  "short_name": "육아소식",
+  "description": "지원금·보육·육아휴직·나들이 소식을 30분마다 모아 보는 페이지",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#ea580c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -8,6 +8,8 @@
   const PREF_KEY = 'kidsNews.pref';
   const MYKW_KEY = 'kidsNews.myKeywords';
   const MAX_MYKW = 15;
+  const VISIT_KEY = 'kidsNews.lastVisit';     // 마지막 방문 시각 (localStorage)
+  const BASE_KEY = 'kidsNews.visitBaseline';  // 이번 방문의 기준 시각 (sessionStorage: 새로고침해도 NEW 유지)
   const $ = (s) => document.querySelector(s);
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const ls = {
@@ -21,6 +23,37 @@
   const state = { cat: 'all', region: pref.region || '', q: '', shown: PAGE, evShown: 5, onlyMine: !!pref.onlyMine };
   let saved = new Set(ls.get(SAVE_KEY, []));
   let myKws = ls.get(MYKW_KEY, []);
+
+  // ---------- ① 키워드 링크: ?kw=늘봄,세종 ----------
+  (function applyKwFromUrl() {
+    const raw = new URLSearchParams(location.search).get('kw');
+    if (!raw) return;
+    const incoming = raw.split(',').map((k) => k.trim().replace(/\s+/g, ' ')).filter(Boolean).slice(0, MAX_MYKW);
+    const merged = [...new Set([...myKws, ...incoming])].slice(0, MAX_MYKW);
+    const added = merged.length - myKws.length;
+    myKws = merged; ls.set(MYKW_KEY, myKws);
+    if (incoming.length) { state.onlyMine = true; }
+    try { history.replaceState(null, '', location.pathname); } catch { /* 무시 */ }
+    setTimeout(() => toast(added ? `링크의 키워드 ${added}개를 등록했어요` : '링크의 키워드가 이미 등록돼 있어요'), 600);
+  })();
+  function kwLink() {
+    return `${location.origin}${location.pathname}?kw=${encodeURIComponent(myKws.join(','))}`;
+  }
+
+  // ---------- ③ 새 소식 표시 ----------
+  let baseline = 0;
+  function initVisit() {
+    let b = null;
+    try { b = sessionStorage.getItem(BASE_KEY); } catch { b = null; }
+    if (b == null) {
+      b = String(ls.get(VISIT_KEY, 0) || 0);
+      try { sessionStorage.setItem(BASE_KEY, b); } catch { /* 무시 */ }
+    }
+    baseline = Number(b) || 0;
+    ls.set(VISIT_KEY, Date.now());
+  }
+  const addedTime = (it) => Date.parse(it.addedAt || it.pubDate);
+  const isNew = (it) => baseline > 0 && addedTime(it) > baseline;
 
   // ---------- 내 키워드 ----------
   const hayOf = (it) => `${it.title} ${it.desc}`.toLowerCase();
@@ -64,7 +97,8 @@
   function matches(it, { ignoreCat = false } = {}) {
     if (!ignoreCat) {
       if (state.cat === 'saved' && !saved.has(it.id)) return false;
-      if (state.cat !== 'all' && state.cat !== 'saved' && !it.cats.includes(state.cat)) return false;
+      if (state.cat === 'new' && !isNew(it)) return false;
+      if (!['all', 'saved', 'new'].includes(state.cat) && !it.cats.includes(state.cat)) return false;
     }
     if (state.onlyMine && myKws.length && !matchesMine(it)) return false;
     if (state.region && !it.regions.includes(state.region)) return false;
@@ -79,7 +113,8 @@
   function renderCats() {
     const base = DATA.items.filter((it) => matches(it, { ignoreCat: true }));
     const cnt = (id) => base.filter((it) => it.cats.includes(id)).length;
-    const chips = [['all', '전체', base.length], ...DATA.categories.map((c) => [c.id, c.name, cnt(c.id)]), ['saved', '⭐ 저장', base.filter((it) => saved.has(it.id)).length]];
+    const newN = base.filter(isNew).length;
+    const chips = [['all', '전체', base.length], ...(newN ? [['new', '🆕 새 소식', newN]] : []), ...DATA.categories.map((c) => [c.id, c.name, cnt(c.id)]), ['saved', '⭐ 저장', base.filter((it) => saved.has(it.id)).length]];
     $('#cats').innerHTML = chips.map(([id, name, n]) => `<button class="chip ${state.cat === id ? 'on' : ''}" data-cat="${id}">${esc(name)}<small>${n}</small></button>`).join('');
   }
 
@@ -95,9 +130,27 @@
       return `<li class="ev">
         <div class="d"><b>${d.getMonth() + 1}.${d.getDate()}</b><span class="ev-${e.type}">${e.type}</span></div>
         <div class="text-sm min-w-0"><a href="${esc(e.it.link)}" target="_blank" rel="noopener" class="font-semibold">${esc(e.it.title)}</a>
-          <div class="text-xs text-slate-500 mt-0.5">${dday === 0 ? '오늘' : `D-${dday}`} · ${esc(e.it.source)}</div></div></li>`;
+          <div class="text-xs text-slate-500 mt-0.5">${dday === 0 ? '오늘' : `D-${dday}`} · ${esc(e.it.source)}
+            <button class="cal-btn" data-cal="${esc(e.it.id)}|${e.date}|${esc(e.type)}">📅 캘린더에 추가</button></div></div></li>`;
     }).join('');
     $('#eventsMore').classList.toggle('hidden', evs.length <= state.evShown);
+  }
+
+  function renderTop() {
+    const top = DATA.top || [];
+    $('#topSec').classList.toggle('hidden', !top.length);
+    $('#top').innerHTML = top.map((t, i) => `<li class="flex gap-3 items-start">
+      <span class="rank">${i + 1}</span>
+      <div class="min-w-0 text-sm"><a href="${esc(t.link)}" target="_blank" rel="noopener" class="font-semibold">${esc(t.title)}</a>
+        <div class="text-xs text-slate-500">${esc(t.source)}${t.related ? ` · 관련 기사 ${t.related}건` : ''}</div></div></li>`).join('');
+  }
+  function topText() {
+    const top = DATA.top || [];
+    const md = (iso) => { const d = new Date(iso); return `${d.getMonth() + 1}/${d.getDate()}`; };
+    const end = new Date(DATA.updatedAt), start = new Date(end - 6 * 86400000);
+    return [`📰 이번 주 육아 소식 TOP ${top.length} (${md(start)}~${md(end)})`, '',
+      ...top.flatMap((t, i) => [`${i + 1}. ${t.title} (${t.source})`, `   ${t.link}`]),
+      '', `👉 매일 업데이트되는 육아 소식: ${location.origin}${location.pathname}`].join('\n');
   }
 
   function renderKeywords() {
@@ -113,7 +166,7 @@
       ...it.cats.filter((c) => c !== 'etc').map((c) => `<span class="tag t-cat">${esc(catName(c))}</span>`)
     ].join('');
     return `<article class="news">
-      <a href="${esc(it.link)}" target="_blank" rel="noopener"><h3>${highlight(it.title)}</h3>
+      <a href="${esc(it.link)}" target="_blank" rel="noopener"><h3>${isNew(it) ? '<span class="new-badge">NEW</span>' : ''}${highlight(it.title)}</h3>
       ${it.desc ? `<p class="desc">${highlight(it.desc)}</p>` : ''}</a>
       <div>${tags}</div>
       <div class="flex items-center justify-between mt-1">
@@ -129,6 +182,10 @@
     const list = DATA.items.filter((it) => matches(it));
     renderCats();
     renderMyKws();
+    $('#kwLinkBtn').classList.toggle('hidden', !myKws.length);
+    const newAll = DATA.items.filter(isNew).length;
+    $('#newBanner').classList.toggle('hidden', !newAll || state.cat === 'new');
+    $('#newCount').textContent = newAll;
     renderEvents(list);
     $('#count').textContent = `${list.length}건`;
     let html = '', lastDay = '';
@@ -195,6 +252,22 @@
     $('#list').scrollIntoView({ behavior: 'smooth' });
   });
   $('#more').addEventListener('click', () => { state.shown += PAGE; render(); });
+  $('#newBanner').addEventListener('click', () => { state.cat = 'new'; state.shown = PAGE; render(); $('#list').scrollIntoView({ behavior: 'smooth' }); });
+  $('#kwLinkBtn').addEventListener('click', async () => {
+    const url = kwLink();
+    try { if (navigator.share) { await navigator.share({ title: '육아 소식 — 내 키워드', text: `내 키워드: ${myKws.join(', ')}`, url }); return; } }
+    catch (err) { if (err && err.name === 'AbortError') return; }
+    toast((await copyText(url)) ? '링크를 복사했어요. 다른 기기에서 열면 키워드가 그대로 등록돼요' : '복사에 실패했어요');
+  });
+  $('#topCopy').addEventListener('click', async () => {
+    toast((await copyText(topText())) ? 'TOP 10을 복사했어요. 블로그·카톡에 붙여 넣으세요' : '복사에 실패했어요');
+  });
+  $('#events').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-cal]'); if (!b) return;
+    const [id, date, type] = b.dataset.cal.split('|');
+    const it = DATA.items.find((x) => x.id === id); if (!it) return;
+    addToCalendar(it, date, type);
+  });
   $('#eventsMore').addEventListener('click', () => { state.evShown += 10; render(); });
   $('#list').addEventListener('click', async (e) => {
     const sv = e.target.closest('[data-save]');
@@ -211,10 +284,61 @@
       try {
         if (navigator.share) { await navigator.share({ title: it.title, url: it.link }); return; }
       } catch (err) { if (err && err.name === 'AbortError') return; }
-      try { await navigator.clipboard.writeText(`${it.title}\n${it.link}`); toast('링크를 복사했어요'); }
-      catch { toast('공유를 지원하지 않는 환경이에요'); }
+      toast((await copyText(`${it.title}\n${it.link}`)) ? '링크를 복사했어요' : '공유를 지원하지 않는 환경이에요');
     }
   });
+
+  // ---------- 공통: 복사 ----------
+  async function copyText(text) {
+    try { await navigator.clipboard.writeText(text); return true; }
+    catch {
+      const ta = document.createElement('textarea'); ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+      document.body.appendChild(ta); ta.select();
+      let ok = false; try { ok = document.execCommand('copy'); } catch { ok = false; }
+      ta.remove(); return ok;
+    }
+  }
+
+  // ---------- ④ 캘린더 추가 ----------
+  // 아이폰: .ics 파일(기본 캘린더가 바로 열림, 전날 오전 9시 알림 포함) / 그 외: 구글 캘린더 일정 만들기 화면
+  function addToCalendar(it, date, type) {
+    const d = date.replace(/-/g, '');
+    const next = new Date(date + 'T00:00:00'); next.setDate(next.getDate() + 1);
+    const d2 = ymd(next).replace(/-/g, '');
+    const title = `[${type}] ${it.title}`;
+    const details = `${it.link}\n\n자동 추출된 일정이에요. 정확한 날짜는 원문에서 확인하세요.`;
+    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    if (isIOS) {
+      const icsEsc = (s) => s.replace(/[\\;,]/g, (c) => '\\' + c).replace(/\n/g, '\\n');
+      const ics = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//kids-news//KO', 'BEGIN:VEVENT',
+        `UID:${it.id}-${d}@kids-news`, `DTSTAMP:${new Date().toISOString().replace(/[-:]/g, '').slice(0, 15)}Z`,
+        `DTSTART;VALUE=DATE:${d}`, `DTEND;VALUE=DATE:${d2}`, `SUMMARY:${icsEsc(title)}`, `DESCRIPTION:${icsEsc(details)}`, `URL:${it.link}`,
+        'BEGIN:VALARM', 'TRIGGER:-PT15H', 'ACTION:DISPLAY', `DESCRIPTION:${icsEsc(title)}`, 'END:VALARM',
+        'END:VEVENT', 'END:VCALENDAR'].join('\r\n');
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob([ics], { type: 'text/calendar;charset=utf-8' }));
+      a.download = `${type}-${d}.ics`; document.body.appendChild(a); a.click(); a.remove();
+      return;
+    }
+    const url = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(title)}&dates=${d}/${d2}&details=${encodeURIComponent(details)}`;
+    window.open(url, '_blank', 'noopener');
+  }
+
+  // ---------- ② 홈 화면 앱 ----------
+  let installEvt = null;
+  const standalone = () => window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+  window.addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); installEvt = e; if (!standalone()) $('#installBtn').classList.remove('hidden'); });
+  window.addEventListener('appinstalled', () => { $('#installBtn').classList.add('hidden'); toast('홈 화면에 추가됐어요'); });
+  $('#installBtn').addEventListener('click', async () => {
+    if (installEvt) { installEvt.prompt(); try { await installEvt.userChoice; } catch { /* 무시 */ } installEvt = null; return; }
+    $('#installHelp').classList.remove('hidden');
+  });
+  $('#installHelpClose').addEventListener('click', () => $('#installHelp').classList.add('hidden'));
+  $('#installHelp').addEventListener('click', (e) => { if (e.target.id === 'installHelp') $('#installHelp').classList.add('hidden'); });
+  if (!standalone()) $('#installBtn').classList.remove('hidden'); // 설치 이벤트가 없는 브라우저도 안내 버튼 표시
+  if ('serviceWorker' in navigator && location.protocol === 'https:') {
+    window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => { /* 무시 */ }));
+  }
 
   // ---------- 시작 ----------
   function start() {
@@ -225,7 +349,7 @@
         const u = new Date(d.updatedAt);
         $('#updated').textContent = `마지막 업데이트 ${u.getMonth() + 1}.${u.getDate()} ${String(u.getHours()).padStart(2, '0')}:${String(u.getMinutes()).padStart(2, '0')}`;
         $('#sampleBanner').classList.toggle('hidden', !d.sample);
-        fillRegions(); renderKeywords(); render();
+        initVisit(); fillRegions(); renderTop(); renderKeywords(); render();
       })
       .catch(() => { $('#updated').textContent = '소식을 불러오지 못했어요'; $('#empty').classList.remove('hidden'); });
   }

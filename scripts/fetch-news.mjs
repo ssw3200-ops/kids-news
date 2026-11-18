@@ -132,19 +132,48 @@ export function toItem(raw, via) {
 // 끝 글자가 조사처럼 보여도 잘리면 안 되는 단어
 const KEEP = ['영유아', '어린이', '다자녀', '아이', '유아', '자녀', '늘봄', '부모급여', '아동수당', '육아휴직'];
 const JOSA = /(으로|에서|까지|부터|에게|이라|이다|하는|했다|한다|된다|됐다|은|는|이|가|을|를|에|의|도|로|와|과|만|서)$/;
-export function weeklyKeywords(items, now = Date.now(), top = 15) {
-  const stop = new Set([...CONFIG.stopwords, ...CONFIG.regions]);
-  const count = new Map();
-  items.filter((it) => now - Date.parse(it.pubDate) < 7 * DAY).forEach((it) => {
-    const seen = new Set();
-    it.title.split(/[^가-힣A-Za-z0-9+]+/).forEach((tok) => {
-      let t = KEEP.find((k) => tok.startsWith(k) && tok.length - k.length <= 2) || tok.replace(JOSA, '');
-      if (t.length < 2 || t.length > 8 || /^\d+(월|일|년|명|곳|세|개|만|억|차|호)?$/.test(t) || stop.has(t) || seen.has(t)) return;
-      seen.add(t);
-      count.set(t, (count.get(t) || 0) + 1);
-    });
+const STOP = new Set([...CONFIG.stopwords, ...CONFIG.regions]);
+export function tokens(title, { keepStop = false } = {}) {
+  const out = new Set();
+  title.split(/[^가-힣A-Za-z0-9+]+/).forEach((tok) => {
+    const t = KEEP.find((k) => tok.startsWith(k) && tok.length - k.length <= 2) || tok.replace(JOSA, '');
+    if (t.length < 2 || t.length > 8 || /^\d+(월|일|년|명|곳|세|개|만|억|차|호)?$/.test(t)) return;
+    if (!keepStop && STOP.has(t)) return;
+    out.add(t);
   });
+  return out;
+}
+const recent = (items, now, days = 7) => items.filter((it) => now - Date.parse(it.pubDate) < days * DAY);
+
+export function weeklyKeywords(items, now = Date.now(), top = 15) {
+  const count = new Map();
+  recent(items, now).forEach((it) => tokens(it.title).forEach((t) => count.set(t, (count.get(t) || 0) + 1)));
   return [...count.entries()].filter(([, n]) => n >= 2).sort((a, b) => b[1] - a[1]).slice(0, top).map(([word, n]) => ({ word, n }));
+}
+
+// ---------- 주간 TOP 10: 여러 언론이 같이 다룬 이야기 순 ----------
+export function weeklyTop(items, now = Date.now(), top = 10) {
+  // '화천군'↔'화천' 처럼 표기가 달라도 같은 말로 보도록 정규화
+  const norm = (t) => (t.length > 2 ? t.replace(/(군|시|구|도|청)$/, '') : t);
+  const list = recent(items, now).map((it) => ({ it, tk: new Set([...tokens(it.title)].map(norm)) }));
+  // 드문 단어(지명·고유명사 등)가 겹쳐야 같은 이야기로 판단 — 흔한 단어끼리만 겹치는 건 제외
+  const df = new Map();
+  list.forEach((x) => x.tk.forEach((t) => df.set(t, (df.get(t) || 0) + 1)));
+  const rareMax = Math.max(4, Math.round(list.length * 0.03));
+  const same = (a, b) => {
+    let n = 0, rare = 0;
+    for (const t of a) if (b.has(t)) { n++; if (df.get(t) <= rareMax) rare++; }
+    return n >= 2 && rare >= 1;
+  };
+  list.forEach((x) => { x.related = list.filter((y) => y !== x && same(x.tk, y.tk)).length; });
+  list.sort((a, b) => b.related - a.related || Date.parse(b.it.pubDate) - Date.parse(a.it.pubDate));
+  const picked = [];
+  for (const x of list) {
+    if (picked.length >= top) break;
+    if (picked.some((p) => same(p.tk, x.tk))) continue; // 같은 이야기는 하나만
+    picked.push(x);
+  }
+  return picked.map(({ it, related }) => ({ id: it.id, title: it.title, link: it.link, source: it.source, pubDate: it.pubDate, related }));
 }
 
 // ---------- 병합 ----------
@@ -154,7 +183,7 @@ export function merge(existing, incoming, now = Date.now()) {
   for (const it of incoming) {
     if (!it || !it.id || isBlocked(it)) continue;
     if (!isRelevant(`${it.title} ${it.desc}`)) continue;
-    if (!map.has(it.id)) map.set(it.id, it);
+    if (!map.has(it.id)) map.set(it.id, { ...it, addedAt: new Date(now).toISOString() }); // 'NEW' 표시용
   }
   return [...map.values()]
     .filter((it) => now - Date.parse(it.pubDate) < CONFIG.keepDays * DAY)
@@ -233,6 +262,7 @@ async function main() {
     categories: CONFIG.categories.map(({ id, name }) => ({ id, name })),
     regions: CONFIG.regions,
     keywords: weeklyKeywords(items, now),
+    top: weeklyTop(items, now),
     count: items.length,
     items
   };
