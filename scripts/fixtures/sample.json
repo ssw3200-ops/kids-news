@@ -1,0 +1,123 @@
+{
+ "items": [
+  {
+   "title": "[예시] 세종시, 겨울방학 <b>아이</b> 돌봄 프로그램 참가자 모집…12월 5일까지 접수",
+   "originallink": "https://example.com/news/1",
+   "link": "https://example.com/news/1",
+   "description": "세종시는 초등학생 대상 겨울방학 돌봄 프로그램 참가자를 12월 5일까지 모집한다고 밝혔다. 신청은 온라인으로 가능하다.",
+   "pubDate": "Wed, 18 Nov 2026 10:10:00 +0900"
+  },
+  {
+   "title": "[예시] 대전 어린이 과학 체험 축제 11월 29일 개최",
+   "originallink": "https://example.com/news/2",
+   "link": "https://example.com/news/2",
+   "description": "대전시는 11월 29일 엑스포시민광장에서 어린이 과학 체험 축제를 연다. 가족 단위 참여 프로그램을 운영한다.",
+   "pubDate": "Wed, 18 Nov 2026 09:10:00 +0900"
+  },
+  {
+   "title": "[예시] 내년 <b>부모급여</b> 인상 검토…0세 월 100만 원 유지 여부 촉각",
+   "originallink": "https://example.com/news/3",
+   "link": "https://example.com/news/3",
+   "description": "정부가 내년 부모급여 개편안을 검토 중인 것으로 알려졌다. 현재 0세 월 100만 원, 1세 월 50만 원이 지급되고 있다.",
+   "pubDate": "Tue, 17 Nov 2026 15:10:00 +0900"
+  },
+  {
+   "title": "[예시] 내년 부모급여 인상 검토…0세 월 100만원 유지 여부 촉각",
+   "originallink": "https://example.com/news/4",
+   "link": "https://example.com/news/4",
+   "description": "(중복 기사) 정부가 내년 부모급여 개편안을 검토 중인 것으로 알려졌다.",
+   "pubDate": "Tue, 17 Nov 2026 16:10:00 +0900"
+  },
+  {
+   "title": "[예시] &quot;아빠도 육아휴직&quot;…남성 <b>육아휴직</b>자 역대 최대",
+   "originallink": "https://example.com/news/5",
+   "link": "https://example.com/news/5",
+   "description": "올해 남성 육아휴직자가 역대 최대를 기록했다. 6+6 부모육아휴직제 효과로 풀이된다.",
+   "pubDate": "Tue, 17 Nov 2026 11:10:00 +0900"
+  },
+  {
+   "title": "[예시] 독감 유행 본격화…영유아 예방접종 서둘러야",
+   "originallink": "https://example.com/news/6",
+   "link": "https://example.com/news/6",
+   "description": "소아과 전문의들은 영유아 독감 예방접종을 서두르라고 권고했다. 국가예방접종은 12월 31일까지 무료로 진행된다.",
+   "pubDate": "Mon, 16 Nov 2026 14:10:00 +0900"
+  },
+  {
+   "title": "[예시] 어린이집 보육료 지원 단가 3% 인상 추진",
+   "originallink": "https://example.com/news/7",
+   "link": "https://example.com/news/7",
+   "description": "내년 0~2세 어린이집 보육료 지원 단가가 3% 인상될 전망이다.",
+   "pubDate": "Mon, 16 Nov 2026 10:10:00 +0900"
+  },
+  {
+   "title": "[예시] 늘봄학교 2학기 만족도 조사 결과 발표",
+   "originallink": "https://example.com/news/8",
+   "link": "https://example.com/news/8",
+   "description": "교육부는 늘봄학교 학부모 만족도 조사 결과를 발표했다. 초등 1~2학년 이용률이 크게 늘었다.",
+   "pubDate": "Sun, 15 Nov 2026 13:10:00 +0900"
+  },
+  {
+   "title": "[예시] 세종 국립어린이박물관, 겨울 특별전 12월 10일 개막",
+   "originallink": "https://example.com/news/9",
+   "link": "https://example.com/news/9",
+   "description": "세종 국립어린이박물관이 12월 10일 겨울 특별전을 개막한다. 사전 예약은 12월 1일부터 받는다.",
+   "pubDate": "Sun, 15 Nov 2026 09:10:00 +0900"
+  },
+  {
+   "title": "[예시] 다자녀 가구 자동차 취득세 감면 2027년까지 연장",
+   "originallink": "https://example.com/news/10",
+   "link": "https://example.com/news/10",
+   "description": "2자녀 가구 50%, 3자녀 이상 면제 혜택이 2027년까지 유지된다.",
+   "pubDate": "Sat, 14 Nov 2026 17:10:00 +0900"
+  },
+  {
+   "title": "[예시] 대전 서구, 아이돌봄 서비스 이용요금 추가 지원",
+   "originallink": "https://example.com/news/11",
+   "link": "https://example.com/news/11",
+   "description": "대전 서구는 아이돌봄 서비스 이용 가정에 월 10만 원을 추가 지원한다.",
+   "pubDate": "Sat, 14 Nov 2026 11:10:00 +0900"
+  },
+  {
+   "title": "[예시] 반도체 수출 3개월 연속 증가",
+   "originallink": "https://example.com/news/12",
+   "link": "https://example.com/news/12",
+   "description": "(관련 없는 기사) 반도체 수출이 늘었다.",
+   "pubDate": "Sat, 14 Nov 2026 10:10:00 +0900"
+  },
+  {
+   "title": "[예시] 어린이 카시트 리콜…해당 제품 사용 중지 권고",
+   "originallink": "https://example.com/news/13",
+   "link": "https://example.com/news/13",
+   "description": "한국소비자원은 일부 어린이 카시트 제품에 결함이 발견돼 리콜을 실시한다고 밝혔다.",
+   "pubDate": "Fri, 13 Nov 2026 15:10:00 +0900"
+  },
+  {
+   "title": "[예시] 출산 지원금 경쟁…지자체별 최대 수천만 원",
+   "originallink": "https://example.com/news/14",
+   "link": "https://example.com/news/14",
+   "description": "지자체들의 출산 지원금 경쟁이 치열하다. 첫째부터 지원하는 곳도 늘고 있다.",
+   "pubDate": "Fri, 13 Nov 2026 09:10:00 +0900"
+  },
+  {
+   "title": "[예시] 유치원 무상교육 확대…4~5세 필요경비 지원",
+   "originallink": "https://example.com/news/15",
+   "link": "https://example.com/news/15",
+   "description": "내년부터 4~5세 유치원 필요경비 지원이 확대된다.",
+   "pubDate": "Thu, 12 Nov 2026 14:10:00 +0900"
+  },
+  {
+   "title": "[예시] 세종 아이랑 가볼 만한 실내 놀이터 3곳 개장",
+   "originallink": "https://example.com/news/16",
+   "link": "https://example.com/news/16",
+   "description": "세종시에 실내 놀이터 3곳이 새로 문을 열었다. 키즈카페형 공공 놀이시설로 운영된다.",
+   "pubDate": "Thu, 12 Nov 2026 10:10:00 +0900"
+  },
+  {
+   "title": "<![CDATA[[예시] 육아기 근로시간 단축 급여 신청 안내]]>",
+   "link": "https://example.com/moel/1",
+   "description": "<![CDATA[육아기 근로시간 단축 급여는 종료 후 12개월 이내 신청해야 합니다.]]>",
+   "pubDate": "Wed, 11 Nov 2026 10:10:00 +0900",
+   "source": "고용노동부(예시)"
+  }
+ ]
+}

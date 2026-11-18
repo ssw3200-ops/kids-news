@@ -1,0 +1,335 @@
+{
+ "updatedAt": "2026-11-18T09:00:00.000Z",
+ "sample": true,
+ "categories": [
+  {
+   "id": "policy",
+   "name": "정책·지원금"
+  },
+  {
+   "id": "care",
+   "name": "보육·교육"
+  },
+  {
+   "id": "work",
+   "name": "일·가정"
+  },
+  {
+   "id": "health",
+   "name": "건강·안전"
+  },
+  {
+   "id": "outing",
+   "name": "나들이·행사"
+  }
+ ],
+ "regions": [
+  "세종",
+  "대전",
+  "서울",
+  "경기",
+  "인천",
+  "부산",
+  "대구",
+  "광주",
+  "울산",
+  "충북",
+  "충남",
+  "전북",
+  "전남",
+  "경북",
+  "경남",
+  "강원",
+  "제주"
+ ],
+ "keywords": [
+  {
+   "word": "예시",
+   "n": 14
+  },
+  {
+   "word": "인상",
+   "n": 2
+  },
+  {
+   "word": "최대",
+   "n": 2
+  }
+ ],
+ "count": 15,
+ "items": [
+  {
+   "id": "세종시겨울방학아이돌봄프로그램참가자모집12월5",
+   "title": "[예시] 세종시, 겨울방학 아이 돌봄 프로그램 참가자 모집…12월 5일까지 접수",
+   "desc": "세종시는 초등학생 대상 겨울방학 돌봄 프로그램 참가자를 12월 5일까지 모집한다고 밝혔다. 신청은 온라인으로 가능하다.",
+   "link": "https://example.com/news/1",
+   "source": "example.com",
+   "pubDate": "2026-11-18T01:10:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "세종"
+   ],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "type": "마감",
+     "text": "프로그램 참가자 모집…12월 5일까지 접수 세종시는 초등학생 대상"
+    }
+   ],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "대전어린이과학체험축제11월29일개최",
+   "title": "[예시] 대전 어린이 과학 체험 축제 11월 29일 개최",
+   "desc": "대전시는 11월 29일 엑스포시민광장에서 어린이 과학 체험 축제를 연다. 가족 단위 참여 프로그램을 운영한다.",
+   "link": "https://example.com/news/2",
+   "source": "example.com",
+   "pubDate": "2026-11-18T00:10:00.000Z",
+   "cats": [
+    "outing"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "type": "행사",
+     "text": "린이 과학 체험 축제 11월 29일 개최 대전시는 11월 29일 엑"
+    }
+   ],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "내년부모급여인상검토0세월100만원유지여부촉각",
+   "title": "[예시] 내년 부모급여 인상 검토…0세 월 100만 원 유지 여부 촉각",
+   "desc": "정부가 내년 부모급여 개편안을 검토 중인 것으로 알려졌다. 현재 0세 월 100만 원, 1세 월 50만 원이 지급되고 있다.",
+   "link": "https://example.com/news/3",
+   "source": "example.com",
+   "pubDate": "2026-11-17T06:10:00.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [
+    "월 100만 원",
+    "월 50만 원"
+   ],
+   "via": "fixture"
+  },
+  {
+   "id": "아빠도육아휴직남성육아휴직자역대최대",
+   "title": "[예시] \"아빠도 육아휴직\"…남성 육아휴직 자 역대 최대",
+   "desc": "올해 남성 육아휴직자가 역대 최대를 기록했다. 6+6 부모육아휴직제 효과로 풀이된다.",
+   "link": "https://example.com/news/5",
+   "source": "example.com",
+   "pubDate": "2026-11-17T02:10:00.000Z",
+   "cats": [
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "독감유행본격화영유아예방접종서둘러야",
+   "title": "[예시] 독감 유행 본격화…영유아 예방접종 서둘러야",
+   "desc": "소아과 전문의들은 영유아 독감 예방접종을 서두르라고 권고했다. 국가예방접종은 12월 31일까지 무료로 진행된다.",
+   "link": "https://example.com/news/6",
+   "source": "example.com",
+   "pubDate": "2026-11-16T05:10:00.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "type": "마감",
+     "text": "했다. 국가예방접종은 12월 31일까지 무료로 진행된다."
+    }
+   ],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "어린이집보육료지원단가3인상추진",
+   "title": "[예시] 어린이집 보육료 지원 단가 3% 인상 추진",
+   "desc": "내년 0~2세 어린이집 보육료 지원 단가가 3% 인상될 전망이다.",
+   "link": "https://example.com/news/7",
+   "source": "example.com",
+   "pubDate": "2026-11-16T01:10:00.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "늘봄학교2학기만족도조사결과발표",
+   "title": "[예시] 늘봄학교 2학기 만족도 조사 결과 발표",
+   "desc": "교육부는 늘봄학교 학부모 만족도 조사 결과를 발표했다. 초등 1~2학년 이용률이 크게 늘었다.",
+   "link": "https://example.com/news/8",
+   "source": "example.com",
+   "pubDate": "2026-11-15T04:10:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "세종국립어린이박물관겨울특별전12월10일개막",
+   "title": "[예시] 세종 국립어린이박물관, 겨울 특별전 12월 10일 개막",
+   "desc": "세종 국립어린이박물관이 12월 10일 겨울 특별전을 개막한다. 사전 예약은 12월 1일부터 받는다.",
+   "link": "https://example.com/news/9",
+   "source": "example.com",
+   "pubDate": "2026-11-15T00:10:00.000Z",
+   "cats": [
+    "outing"
+   ],
+   "regions": [
+    "세종"
+   ],
+   "events": [
+    {
+     "date": "2026-12-10",
+     "type": "행사",
+     "text": "박물관, 겨울 특별전 12월 10일 개막 세종 국립어린이박물관이 1"
+    },
+    {
+     "date": "2026-12-01",
+     "type": "신청",
+     "text": "막한다. 사전 예약은 12월 1일부터 받는다."
+    }
+   ],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "다자녀가구자동차취득세감면2027년까지연장",
+   "title": "[예시] 다자녀 가구 자동차 취득세 감면 2027년까지 연장",
+   "desc": "2자녀 가구 50%, 3자녀 이상 면제 혜택이 2027년까지 유지된다.",
+   "link": "https://example.com/news/10",
+   "source": "example.com",
+   "pubDate": "2026-11-14T08:10:00.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "대전서구아이돌봄서비스이용요금추가지원",
+   "title": "[예시] 대전 서구, 아이돌봄 서비스 이용요금 추가 지원",
+   "desc": "대전 서구는 아이돌봄 서비스 이용 가정에 월 10만 원을 추가 지원한다.",
+   "link": "https://example.com/news/11",
+   "source": "example.com",
+   "pubDate": "2026-11-14T02:10:00.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [
+    "월 10만 원"
+   ],
+   "via": "fixture"
+  },
+  {
+   "id": "어린이카시트리콜해당제품사용중지권고",
+   "title": "[예시] 어린이 카시트 리콜…해당 제품 사용 중지 권고",
+   "desc": "한국소비자원은 일부 어린이 카시트 제품에 결함이 발견돼 리콜을 실시한다고 밝혔다.",
+   "link": "https://example.com/news/13",
+   "source": "example.com",
+   "pubDate": "2026-11-13T06:10:00.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "출산지원금경쟁지자체별최대수천만원",
+   "title": "[예시] 출산 지원금 경쟁…지자체별 최대 수천만 원",
+   "desc": "지자체들의 출산 지원금 경쟁이 치열하다. 첫째부터 지원하는 곳도 늘고 있다.",
+   "link": "https://example.com/news/14",
+   "source": "example.com",
+   "pubDate": "2026-11-13T00:10:00.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "유치원무상교육확대45세필요경비지원",
+   "title": "[예시] 유치원 무상교육 확대…4~5세 필요경비 지원",
+   "desc": "내년부터 4~5세 유치원 필요경비 지원이 확대된다.",
+   "link": "https://example.com/news/15",
+   "source": "example.com",
+   "pubDate": "2026-11-12T05:10:00.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "세종아이랑가볼만한실내놀이터3곳개장",
+   "title": "[예시] 세종 아이랑 가볼 만한 실내 놀이터 3곳 개장",
+   "desc": "세종시에 실내 놀이터 3곳이 새로 문을 열었다. 키즈카페형 공공 놀이시설로 운영된다.",
+   "link": "https://example.com/news/16",
+   "source": "example.com",
+   "pubDate": "2026-11-12T01:10:00.000Z",
+   "cats": [
+    "outing"
+   ],
+   "regions": [
+    "세종"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  },
+  {
+   "id": "육아기근로시간단축급여신청안내",
+   "title": "[예시] 육아기 근로시간 단축 급여 신청 안내",
+   "desc": "육아기 근로시간 단축 급여는 종료 후 12개월 이내 신청해야 합니다.",
+   "link": "https://example.com/moel/1",
+   "source": "고용노동부(예시)",
+   "pubDate": "2026-11-11T01:10:00.000Z",
+   "cats": [
+    "policy",
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "fixture"
+  }
+ ]
+}
