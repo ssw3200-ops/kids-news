@@ -35,5 +35,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD G
 .kw { padding: .35rem .7rem; border-radius: 999px; background: #fff7ed; color: #c2410c; font-size: .85rem; font-weight: 700; min-height: 34px; }
 .kw small { color: #fb923c; font-weight: 600; }
 
+.mykw { display: inline-flex; align-items: center; gap: .3rem; padding: .35rem .4rem .35rem .75rem; border-radius: 999px; background: #ea580c; color: #fff; font-size: .85rem; font-weight: 700; }
+.mykw button { width: 1.6rem; height: 1.6rem; border-radius: 999px; background: rgba(255,255,255,.25); line-height: 1; }
+.mykw small { font-weight: 500; opacity: .85; }
+mark { background: #fed7aa; color: inherit; border-radius: .2rem; padding: 0 .1rem; }
 .btn-ghost { border: 1.5px solid #fdba74; color: #ea580c; font-weight: 700; border-radius: 1rem; padding: .75rem; min-height: 46px; background: #fff; }
 .toast { position: fixed; left: 50%; bottom: 2rem; transform: translateX(-50%); background: #1e293b; color: #fff; padding: .7rem 1.1rem; border-radius: 999px; font-size: .9rem; z-index: 60; }

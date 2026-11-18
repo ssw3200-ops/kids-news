@@ -27,6 +27,17 @@ scripts/config.json                     검색어·분류 단어·지역·RSS �
 > Actions 탭에 "워크플로를 활성화하라"는 버튼이 보이면 먼저 눌러 주세요.
 > Settings → Actions → General → Workflow permissions가 `Read and write`인지도 확인하세요.
 
+## 비밀번호
+- 기본값 `202611`. `js/app.js` 맨 위 `PASSWORD_SHA256`에 **SHA-256 해시**로만 저장됩니다.
+- 바꾸기: `printf '%s' 새비밀번호 | sha256sum` 결과로 그 값을 교체
+- 한 번 입력하면 브라우저 탭을 닫을 때까지 유지됩니다
+- ⚠ 정적 사이트의 '가벼운 잠금'입니다. `data/news.json` 주소를 직접 알면 열람할 수 있습니다
+
+## 내 키워드 (방문자별)
+- 화면의 "🔖 내 키워드"에 단어를 등록하면 해당 소식만 골라 보고 제목에 강조 표시합니다
+- 방문자 휴대폰(브라우저)에만 저장, 최대 15개
+- 수집된 기사 안에서 찾는 방식이라, 자주 요청받는 키워드는 아래 `googleNews.queries`에 추가하면 더 많이 잡힙니다
+
 ## 검색어·RSS 바꾸기
 `scripts/config.json`
 - `googleNews.queries`: 구글 뉴스에서 찾을 검색어 (예: `"세종 키즈카페"` 추가)
