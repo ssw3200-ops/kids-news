@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T05:19:26.249Z",
+ "updatedAt": "2026-11-27T15:32:33.214Z",
  "sample": false,
  "categories": [
   {
@@ -45,63 +45,63 @@
  "keywords": [
   {
    "word": "육아휴직",
-   "n": 126
-  },
-  {
-   "word": "유치원",
-   "n": 102
+   "n": 133
   },
   {
    "word": "선정",
-   "n": 100
+   "n": 109
+  },
+  {
+   "word": "유치원",
+   "n": 99
   },
   {
    "word": "안전",
-   "n": 64
+   "n": 67
   },
   {
    "word": "우수기업",
-   "n": 60
+   "n": 61
   },
   {
    "word": "기탁",
-   "n": 59
-  },
-  {
-   "word": "함께",
    "n": 56
   },
   {
    "word": "생활",
-   "n": 54
+   "n": 55
   },
   {
    "word": "균형",
-   "n": 54
+   "n": 55
   },
   {
    "word": "한국콜마",
    "n": 52
   },
   {
-   "word": "돌봄",
-   "n": 47
-  },
-  {
-   "word": "의원",
-   "n": 47
+   "word": "아이돌봄서비스",
+   "n": 51
   },
   {
    "word": "개선",
    "n": 47
   },
   {
-   "word": "사립유치원",
-   "n": 42
+   "word": "함께",
+   "n": 47
   },
   {
-   "word": "보육",
-   "n": 42
+   "word": "세무사",
+   "n": 45
+  },
+  {
+   "word": "합격",
+   "n": 44
+  },
+  {
+   "word": "장관상",
+   "n": 44
   }
  ],
  "top": [
@@ -111,23 +111,15 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83djFETTNYUTNyXzhraUdRaFd6N0RRZzZaVjk0Mk5HNnpzZWtwVk0wNWRybVlWU2JsRy1jRG41N1ViSzdkQTlOUTFHRmlTMWhSTEk5SHpyS1pvZmVERm40c0VsaE5kcTAyY2pwbUVKbnJxQdIBckFVX3lxTE83djFETTNYUTNyXzhraUdRaFd6N0RRZzZaVjk0Mk5HNnpzZWtwVk0wNWRybVlWU2JsRy1jRG41N1ViSzdkQTlOUTFHRmlTMWhSTEk5SHpyS1pvZmVERm40c0VsaE5kcTAyY2pwbUVKbnJxQQ?oc=5",
    "source": "경인종합일보",
    "pubDate": "2026-11-27T02:35:10.000Z",
-   "related": 59
+   "related": 74
   },
   {
-   "id": "육아휴직중아이맡기고세무사합격고용노동부에신고당",
-   "title": "'육아휴직' 중 아이 맡기고 세무사 합격…고용노동부에 신고당했다 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qelVxYnN2WldlX09WQ3h0bS03LUtoMmtaNEtLcWxrZklFYllHSUpQeDFSUW5ybUJNV0hLZHo1Mk42b0V2cEQxZEQzd09hM3dNblZGN29pTUx1bVp5cnZwY3R1RWk1dU9jQ0JSWkVVR3XSAXBBVV95cUxOanpVcWJzdlpXZV9PVkN4dG0tNy1LaDJrWjRLS3Fsa2ZJRWJZR0lKUHgxUlFucm1CTVdIS2R6NTJONm9FdnBEMWREM3dPYTN3TW5WRjdvaU1MdW1aeXJ2cGN0dUVpNXVPY0NCUlpFVUd1?oc=5",
-   "source": "머니투데이",
-   "pubDate": "2026-11-26T07:04:04.000Z",
-   "related": 46
-  },
-  {
-   "id": "이상일용인특례시장유치원현장고충청취통원주차난해",
-   "title": "이상일 용인특례시장, 유치원 현장 고충 청취…통원·주차난 해법 모색",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZS0xpVnJ4cHFGZTRIQ0FJd0VleGdFWFo1YnowQlBVYXA1b2V5TWZvYUV2UGpQM09kaUNDMEVDclF5YU1HN2IybDhOSFN4ZTJxWTVxLTdBU2ZISTE3VmNTd0Q3SEs?oc=5",
-   "source": "서울경제TV",
-   "pubDate": "2026-11-25T17:21:53.000Z",
-   "related": 38
+   "id": "육아휴직인데아기안보고공부세무사합격여성결국부정",
+   "title": "“육아휴직인데 아기 안 보고 공부?”…세무사 합격 여성, 결국 “부정수급” 신고 당했다 [이슈픽]",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcU43aVdFeUZpTmZ1emViQnRtbU80TGpkN290ZjlwdFVlTlJZeVpJWGtwMGdCNGtmcTlWWklDNTltc000enhxaU90d29hZ3ZZMmxDVkIzb0lJMnJ4UUVORU5KVFNpaVItYlZuSVFVUGY0dGZOWDFPcmcxUUNKT2xzSnNKLTQ?oc=5",
+   "source": "서울신문",
+   "pubDate": "2026-11-26T07:16:24.000Z",
+   "related": 50
   },
   {
    "id": "남성육아휴직18배늘고퇴직률은뚝한국콜마일생활균",
@@ -138,20 +130,12 @@
    "related": 37
   },
   {
-   "id": "인천서해구의회양환옥의원보육현장의견반영아이돌봄",
-   "title": "인천 서해구의회 양환옥 의원, 보육 현장 의견 반영·아이돌봄 지원사업 내실화 촉구",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0dndoaWh1Z20wRG9IQ3NwbjluR2VqYnFLTnE2U19RM1NPN0hqLXF1QmVYV180aEt4bURBclJZaExHalVNZjdFLUt5UTBqRGx1TDBVbkFNeHpfX20zcTlEeThNb1ZyQ2M4aFNN?oc=5",
-   "source": "연합시민의소리",
-   "pubDate": "2026-11-25T05:12:28.000Z",
-   "related": 36
-  },
-  {
-   "id": "수원시공공형어린이집연합회아나바다수익금100만",
-   "title": "수원시공공형어린이집연합회, 아나바다 수익금 100만 원 이웃돕기 성금 기탁",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtQ0Zwbk1RZE9CeXBmdEVtalN3RlVaYXgwMGJCWFVJeFpsVHd3NXRqZmt2aUFrOU0zUjZTV01UaDhZbWVUTDE2SUJZdE5sUDRaMFRpSllKSmppaFBmRGFaWW9VZm5uZ0JMZ2s2R2c3YUlXU1BfV0VOcS13?oc=5",
-   "source": "수원시 인터넷신문",
-   "pubDate": "2026-11-24T01:39:58.000Z",
-   "related": 33
+   "id": "이상일용인특례시장유치원현장고충청취통원주차난해",
+   "title": "이상일 용인특례시장, 유치원 현장 고충 청취…통원·주차난 해법 모색",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZS0xpVnJ4cHFGZTRIQ0FJd0VleGdFWFo1YnowQlBVYXA1b2V5TWZvYUV2UGpQM09kaUNDMEVDclF5YU1HN2IybDhOSFN4ZTJxWTVxLTdBU2ZISTE3VmNTd0Q3SEs?oc=5",
+   "source": "서울경제TV",
+   "pubDate": "2026-11-25T17:21:53.000Z",
+   "related": 34
   },
   {
    "id": "롯데웰푸드롯데건설수해입은거제장애아어린이집에의",
@@ -162,12 +146,28 @@
    "related": 32
   },
   {
+   "id": "인천서해구의회양환옥의원보육현장의견반영아이돌봄",
+   "title": "인천 서해구의회 양환옥 의원, 보육 현장 의견 반영·아이돌봄 지원사업 내실화 촉구",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0dndoaWh1Z20wRG9IQ3NwbjluR2VqYnFLTnE2U19RM1NPN0hqLXF1QmVYV180aEt4bURBclJZaExHalVNZjdFLUt5UTBqRGx1TDBVbkFNeHpfX20zcTlEeThNb1ZyQ2M4aFNN?oc=5",
+   "source": "연합시민의소리",
+   "pubDate": "2026-11-25T05:12:28.000Z",
+   "related": 32
+  },
+  {
+   "id": "수원시공공형어린이집연합회아나바다수익금100만",
+   "title": "수원시공공형어린이집연합회, 아나바다 수익금 100만 원 이웃돕기 성금 기탁",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtQ0Zwbk1RZE9CeXBmdEVtalN3RlVaYXgwMGJCWFVJeFpsVHd3NXRqZmt2aUFrOU0zUjZTV01UaDhZbWVUTDE2SUJZdE5sUDRaMFRpSllKSmppaFBmRGFaWW9VZm5uZ0JMZ2s2R2c3YUlXU1BfV0VOcS13?oc=5",
+   "source": "수원시 인터넷신문",
+   "pubDate": "2026-11-24T01:39:58.000Z",
+   "related": 30
+  },
+  {
    "id": "희망친구기아대책KB손보이주배경산모영아지원의료",
    "title": "희망친구 기아대책·KB손보, 이주배경 산모·영아 지원...\"의료·돌봄 공백 해소\"",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pRGVsSXd3R1Y2QUxYQ3R1Z1lyYlJwTjh5dy1KdEtPd19XZXZIWHlGdlExbXo3cFprcEhfQmRMR2FGcmtIMERGT25pWFhZTUFKRWdqRUQ0d21mYlplQ0lfa1dPeVdiUjlT?oc=5",
    "source": "팍스경제TV",
    "pubDate": "2026-11-24T01:20:18.000Z",
-   "related": 30
+   "related": 29
   },
   {
    "id": "이상일용인시장공립사립유치원원장들과교육현안논의",
@@ -178,16 +178,490 @@
    "related": 27
   },
   {
-   "id": "금호유치원연말바자회수익금굿네이버스기부지구촌나",
-   "title": "금호유치원, 연말 바자회 수익금 굿네이버스 기부…지구촌 나눔 동참",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JOG9tUzJWZ1l1amhNZ3JLMkoxdng3eG9BRUtEclVwY1E3djZscndJWGlwLTc0YWtsZkRQU3NYZmp1eXhoX3l1SFNFeVloTGp2MDkwYUR5ZXJzN3dIbjQ2ek9zd2U4akE4?oc=5",
-   "source": "제주환경일보",
-   "pubDate": "2026-11-25T00:19:42.000Z",
-   "related": 25
+   "id": "논산시아이돌봄서비스제공기관평가A등급",
+   "title": "논산시, 아이돌봄서비스 제공기관 평가 ‘A등급’",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KWTEyamM0VEpzNG9XRjNyaFZ5WmNiQkF3MG9ST1ZOSlFha2NwNi1CZ1JHNWRrTVpEbkFRVE16cnNCQmdzekVocTlYcnI4Q0tQVEk1MXl0azRVekhCS0pheTJ6SmdNYXlfTV9n0gFrQVVfeXFMTUpZMTJqYzRUSnM0b1dGM3JoVnlaY2JCQXcwb1JPVk5KUWFrY3A2LUJnUkc1ZGtNWkRuQVFUTXpyc0JCZ3N6RWhxOVhycjhDS1BUSTUxeXRrNFV6SEJLSmF5MnpKZ01heV9NX2c?oc=5",
+   "source": "서울매일",
+   "pubDate": "2026-11-26T04:11:48.000Z",
+   "related": 24
   }
  ],
  "count": 1500,
  "items": [
+  {
+   "id": "검단구육아종합지원센터한국복지경영원에위탁202",
+   "title": "검단구 육아종합지원센터, 한국복지경영원에 위탁...2027년 초 개소",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qZ1ZCckh1ZGU3akZBOVUwdFFtSmFTSHc2NEZPbkFYa1hDMkFvQnh1UEFtaXExTXFVcjkxM3oyaXZFOU1jNlRsVTBtbGJiWGZGSFpPV2JFWHZIaUY4SFdzcXh6UFpDODQ?oc=5",
+   "source": "경인신문",
+   "pubDate": "2026-11-27T15:15:01.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "영양군아이돌봄서비스제공기관전국평가우수기관선정",
+   "title": "영양군 아이돌봄서비스 제공기관, 전국 평가 우수기관 선정‘장관표창’",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91QkhXRWI5R0pnY092dmhnN2hGUVAwZ2g4TnBOUldTN0ZuZTlGM29wMXRTaXVlam5vNHluWFFpLWp1WUV1Y1hiSmdpQS1vNzBwVU5EWV9NMEZCdk9WRFJjWHYzc3J0V1BMMEFZ?oc=5",
+   "source": "열린정책뉴스",
+   "pubDate": "2026-11-27T14:58:19.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "서양화가김태희Youth다양한시선초대전참여전통",
+   "title": "서양화가 김태희, ‘Youth : 다양한 시선’ 초대전 참여…전통과 현대를 잇는 ‘별의 아이’",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5HcFRSakVLajA4X3paV2JFa3laRzNGb3U1d3BoRG1DYTl2RmZ3WWFjY3ZjSXFtOFU4ZGs2S2pkM21RZE0?oc=5",
+   "source": "한국공공정책신문",
+   "pubDate": "2026-11-27T13:49:36.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "정세현경북도의원사립유치원교원처우개선대체인력지",
+   "title": "정세현 경북도의원, 사립유치원 교원 처우개선·대체인력 지원 확대",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mbUE2QnluX3FGb010eW5obDkyRi1YeWhKSWhzcnlZYnFLOWdhRjJETGtJWU9JbGNQSi1wRzl3b1lLQ3FIZGZQRFUzQmN5bXVycjZUcjZBZFpVMG5DRVQxUXlXNFdOam84eGpmN1dR?oc=5",
+   "source": "국제뉴스",
+   "pubDate": "2026-11-27T13:21:16.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [
+    "경북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "대전중구의회이진웅의원어린이활동공간환경안전강화",
+   "title": "대전 중구의회 이진웅 의원, 어린이활동공간 환경안전 강화 촉구",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83emhWNW1EM194ZXVBcHFDUFFmYkhoaFNxcS1Gb1BwX3gxZWpIMXJxU09PZ251bEVEU1l2dzhaUUt6eFM1Z3VPTHZTalVTWDlZUmxBWTJubGZTb3M0Wm92VElxWWlwaUhWQ1lxNkttLVh1UQ?oc=5",
+   "source": "웹이코노미",
+   "pubDate": "2026-11-27T13:14:56.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "서산시립합창단육아종합지원센터서찾아가는음악회",
+   "title": "서산시립합창단, 육아종합지원센터서 ‘찾아가는 음악회’",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iYmJRc2s3anQ4QXZuTDdjQ3NNSXlfcnVYdmJTUXVSdXZoNG94MkhmVUJ6TFlGTEs3dEl6RjV4dDJEbmJJWXg4OTJpbnp1Ui1iR29SaU03ckRnRUx2ZEMtdGFwb3h5clJKNFBiY1dQV0pBS3Jx?oc=5",
+   "source": "아시아뉴스통신",
+   "pubDate": "2026-11-27T13:09:39.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "타이어뱅크세종출산가정에3년째아이선물안겼다",
+   "title": "타이어뱅크, 세종 출산 가정에 3년째 '아이 선물' 안겼다",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJMnJDMkVZc01odjFmYW53b3VKQS1KN0Y1MWtiWEtUQUV4bWZ0VE9BSFlBNUFVczh1M3VHTmpxUF9mZ1prcjQzNWUxSzJoSkZMaC0tNTR6T3dmYUd5bFROUjEtWG5YcUE?oc=5",
+   "source": "팍스경제TV",
+   "pubDate": "2026-11-27T13:07:46.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [
+    "세종"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "조부모돌봄수당월30만원부터주말보육까지함평군양",
+   "title": "조부모 돌봄수당 월 30만원부터 주말 보육까지…함평군, 양육 지원 확대",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00Y25mZFA5ZGVBVUxHWTBLNmp4OUthb2xCVXpYZndCTmgtY1RwcW1fTFdfcWs2OWJKejVsMHNTU2MwVVhkR3JiaS1DbDVVYXNBNlZPMWNSQTBZQXJuektCYUM3SlQ?oc=5",
+   "source": "베타뉴스",
+   "pubDate": "2026-11-27T13:03:42.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [
+    "월 30만 원"
+   ],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "영양군아이돌봄서비스제공기관장관표창우수기관네번",
+   "title": "영양군 아이돌봄서비스 제공기관, 장관 표창…우수기관 네 번째 선정",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OZF9BaElrTloxamdGV1lsc3dwUjllTXdMQUpyaExENG1pVHVaRjBoQkNlZGhBVU1nN2ZRV3dsLWs4VGx5LWNReE5GUVhSWVUzb1BGLUVBX241R2JsaFpFRVRGMzB4RWhuVVpmdWJ3?oc=5",
+   "source": "국제뉴스",
+   "pubDate": "2026-11-27T12:30:20.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "통영시2026년아이돌봄지원사업성과보고회개최",
+   "title": "통영시, 2026년 아이돌봄지원사업 성과보고회 개최",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5VDVtbzhpVmNRV1NJWk5CSEtXOFRUWHh1OVBnWWRRTzdObDNUbG5wZVdlVlhRQ1hGbkFKVVo0WUh3ODNURGlWblVXdFNnQVpVSVBvMEFkbDZrdWZHak1mSA?oc=5",
+   "source": "www.newsgb.co.kr",
+   "pubDate": "2026-11-27T12:30:01.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "전북자치경찰위원회하굣길어린이교통안전캠페인실시",
+   "title": "전북자치경찰위원회, 하굣길 어린이 교통안전 캠페인 실시",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LLUVUSjkycnNUVG5MLXFxbmszN2NoZVpNZXZRSXRTRENYakJRWTRfY3RtSG03VGJPTC04aTJOWHBTR2VFYTE3Wm1yQkFINHpJcFVqcUFXQThlcWdwTTFLdElzMWJ2RUh1dXhGd1Y1M3V5UQ?oc=5",
+   "source": "웹이코노미",
+   "pubDate": "2026-11-27T11:38:33.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [
+    "전북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "경상북도아이돌봄화합의날개최",
+   "title": "경상북도, 아이돌봄 화합의 날 개최",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ubGxha1Fnd0ZsY0hYYnMwYmVHZW9rMjVfMkFvUFVteVRFNmZqQ21hZFlJajRFQ21CWHoyYnpORUJpQmh5dFFQWGFhZU4wOGtscXhGVFRIOC04bk9uTG9NODBVcktmZkE?oc=5",
+   "source": "국제i저널",
+   "pubDate": "2026-11-27T11:38:03.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "혼인출산지원금지방은끊길수도정책뉴스뉴스",
+   "title": "[정책 바로보기] 혼인·출산지원금, 지방은 끊길 수도? - 정책뉴스 | 뉴스",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHAxZmxYWlk0NndBRWxfQXhXVjE1dnBCdVVOQzN3VzVBYkJMSEEzWWRUbG1MbldFVkFiX0pwZ280bUk5WTFCOUxkMVM1eVBkMldzZDBWWDViTkN6cmI5VGJFblh5YVhtZDZJZ0dMV2lwRjVsdW5BSWxwOEdTZElYOHRpTkd4R2I0Vmc?oc=5",
+   "source": "대한민국 정책브리핑",
+   "pubDate": "2026-11-27T11:26:15.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "김은영의왕시의원셋째이상출산장려금1000만원확",
+   "title": "김은영 의왕시의원, 셋째 이상 출산장려금 1000만원 확대 조례안 발의",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PVFAyb19ubjNENG9FWDBkVTcxTjdZM1RlemFEbWIxNGNjNlpyd1c1STl2TkNFU2tCRlA3Z1E2ejh4NGRFV3p4TXozcWdmRnh4dmJmd0dJbmhybGpRYWxHQ0lXWDZUZzgxa1E?oc=5",
+   "source": "뉴스티앤티",
+   "pubDate": "2026-11-27T11:20:33.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [
+    "1000만 원"
+   ],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "담양군아이돌봄센터전국서비스제공기관평가우수기관",
+   "title": "담양군 아이돌봄센터, 전국 서비스 제공기관 평가 우수기관 선정",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZVjhiWTVUWk1DRE14OTFhYzVpYk9uTWxIWFJQdjgyNk9TYlptS2xGelB3TlFIN1BsV1A2WWFpLUlMNWFlQkt4WDNGZw?oc=5",
+   "source": "뉴스체인지",
+   "pubDate": "2026-11-27T11:20:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "아이돌봄이바꾼한가정의일상엄마에게는희망을아이에",
+   "title": "“아이돌봄이 바꾼 한 가정의 일상… 엄마에게는 희망을, 아이에게는 성장의 시간을”",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43OGVxbVdBVnhta3FjTVhUSU5RcS1tMklfcGh6NV95WmpyN0ExZmhOZHdrM2trT0FVdUtnN25nUl8zLVdPMGxEVS1IVkJ5MTlDNzNF?oc=5",
+   "source": "유스연합",
+   "pubDate": "2026-11-27T11:04:48.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "함평군촘촘한보육지원으로양육공백해소",
+   "title": "함평군, 촘촘한 보육 지원으로 양육 공백 해소",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oaWFTTkxPTEpvRmVjMUMwbk1aaGpGT1ViYUFUTDBZUzZQb01hMDVIUXdVeDBPSVVlMGNOQzBNb0hlWHA5dkx4SzNudXAtM1Fic2Vwd3VETlF3S3Nsc1IzUUYxTEhwTVAxYkVYRGtlOS1HUEXSAXdBVV95cUxOdVlfREVDQkVTYXYyc1QyazVBOW5sTFZYYUdZY0RWV1BHRm9ud2RWelZQSHBiQ0JvTjNkLUdjWWJFdUl0d1lGNUZWVGdvUDJTLUFEWDdPY2RwNWZvNDJ2ZmtoenY1dkZDc0Jwak05OGZjR2FpTG9jUQ?oc=5",
+   "source": "핀포인트뉴스",
+   "pubDate": "2026-11-27T10:59:02.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "육아휴직중세무사합격축하대신갑론을박",
+   "title": "“육아휴직 중 세무사 합격”…축하 대신 갑론을박",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pYVVQNFRRLWxjaVFKZFl3eGNFVlJPbDdYSnA2aWtsR001OHFsMS1FWG9jOWFQanpTLXFwNjBXTWEwbWg2c0VYeFpheHV5Ry10OGNlZ1R2cGpUbldLaHfSAWNBVV95cUxQNWJZbFNFaVkxV2o2cGNHbm1oSXdFdzJQTVVaak1EdE5ieFlXRm5fRkxDM0s5dmJZLWFZZ2IzNlBCb2VoamRfa25TYzMycVdVeWh5Sk82MERKY3cyeWJzSU1PVnc?oc=5",
+   "source": "채널A",
+   "pubDate": "2026-11-27T10:48:00.000Z",
+   "cats": [
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "담양군아이돌봄센터전국우수기관선정장관상받아",
+   "title": "담양군아이돌봄센터, 전국 우수기관 선정, 장관상 받아",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXR19Vb2FrTU9EcklBajJ0NFVDZzFKaXJSWUJWUzdSMjY5TER5RFZNdjlZc2VkakJOeU5BMGM4Ul9kVVhyNmx4QnNwOU4yRHBZcnlGU1Y3M1NSVzQ0aGFFMTYxUjNQU1h6Y1pPTDFR?oc=5",
+   "source": "https://www.theleader.co.kr/",
+   "pubDate": "2026-11-27T10:35:55.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "원주상상놀이터놀비숲행안부우수어린이놀이시설선정",
+   "title": "원주 상상놀이터 놀비숲, 행안부 '우수어린이놀이시설' 선정",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VUWRkaElCTy1kLVF3U2F6Z0Y3cXR6Vko2Sk5leGViejg0amNfUUMza2hZZ1Y1RzcyRDNmaHo5bTh2MGJjVnVIcXZ5UVpQWW03VDg3MGJOSmNoQ1p2alpMekxSRUxHTkxyRVhj?oc=5",
+   "source": "프레시안",
+   "pubDate": "2026-11-27T10:27:39.000Z",
+   "cats": [
+    "outing"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "양주시가족센터전국아이돌봄서비스우수기관선정",
+   "title": "양주시 가족센터, 전국 아이돌봄서비스 우수기관 선정",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mVFJVSnhDVm9pai1aWWpCQk9fNkFWRDRsSjJIcUdNSWw1bU5fYUpLVXFiVi02QUltM19tbVdEV3NmbUJQN3RMdVJIOE1rNDlLbHh0TEU4Yi13NF90WWVha2h2MFpUOEp4VUE?oc=5",
+   "source": "뉴스티앤티",
+   "pubDate": "2026-11-27T10:12:05.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "출산육아휴직부정수급130명검찰송치",
+   "title": "출산·육아휴직 부정 수급 130명 검찰 '송치'",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SajN0eXJHb0pNcThYNklzWTRoVGI4ZktvR2VVeTBBbG1XQWJ4SGpoeTJyUTY0TE1pYWdnanpMdmNMZHZlcE9MTGo3bGQxSnBtNTI3cTdIQTJEcnc5a1JPOVlQTlpfN0dXU3VNci1xa9IBc0FVX3lxTE44aVREc0pQVVNGSXVIQ0I0enRaY0dQbzJIOE1MTmtDRTBXcWZleHlmcmNHcHhkZ2RpaGVFbXRjY2FtcGhhS1Q4eE0wR1VJcXRYMEZqOHFUTmNlLUowX1RjQjlVQms5dzF1eElKM0dPSVpidEk?oc=5",
+   "source": "세이프타임즈",
+   "pubDate": "2026-11-27T10:09:38.000Z",
+   "cats": [
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "경북아이돌봄이용아동1만8200여명전년보다11",
+   "title": "경북 아이돌봄 이용 아동 1만 8,200여 명… 전년보다 11.6%↑",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGdHNDN3FhRjFKN1NfMTIta2Zua3B5N3lqdWFhbDFPT3JHZ2t3c0VLa2JNcFZCNGpWZUJkSTJhaE9QVjZQRF9fM3RHSXNNNE1GbHRlX3JCdFlobldYT1FqVUg3Vk5CX3I0TjVZ?oc=5",
+   "source": "BBS불교방송",
+   "pubDate": "2026-11-27T10:09:35.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "경북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "무고성아동학대신고제도개선앞으로무엇이달라지나",
+   "title": "무고성 아동학대 신고 제도 개선... 앞으로 무엇이 달라지나",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UWncxMUpSc3hTODA3bTN2MHpBTENrM1kyS280anVwX0ZveHZ1NWx1cUI4Q0tEdy1NcWZ5RHFzb012ZEJGVkNGS0d3TVpweW9JcW9jVnEtcTBzdFpaSHFlUXZxV3R6NzFTNEtoeA?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T10:07:52.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "예천초등학교병설유치원이음교육블록체험활동실시",
+   "title": "-예천초등학교병설유치원, 이음교육 블록 체험활동 실시",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5WGF0TDl0Uk5ZQ3RsRTZRMko5SHdCN1NxUF9idndTOV9kMGh6TlMwanY2emNWV1FaQ2tjby02c2tEVUlSSDR2UzlkSmZacUdZX1hNeGZHYi1vR3ZITHBFVHhrWlR2Tm9l?oc=5",
+   "source": "예천연합뉴스",
+   "pubDate": "2026-11-27T10:02:51.000Z",
+   "cats": [
+    "care",
+    "outing"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "나침반AI의진보아이들의안전을삼켜서는안된다",
+   "title": "나침반｜AI의 진보, 아이들의 안전을 삼켜서는 안 된다",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50T0IxS21fVkxlMkJfVGpiVEM2cjdtUUp1dV9tUXFFWnVVODlvTlh3RDJGZlVncDFKN0JnR2VSUWdDUXhBaUNuNEpQSE5PZjJmcUpZbGo1OW50bjBwZTQ4MFA1R2c1MGNRamc?oc=5",
+   "source": "OBC 뉴스",
+   "pubDate": "2026-11-27T09:59:22.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "군산대창업보육센터입주기업3곳전북창업기술혁신대",
+   "title": "군산대 창업보육센터 입주기업 3곳, 전북창업기술혁신대전 나란히 수상",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zUEFkNXlpYVhkNFRlaUxEWldNa184VHJsV0xGT2FMSWxaMEFVc1dXa2ZWME5leDgxZHB3TVdJRjlsRGs4Sm5US0dqSEtSZFpnYnRfaVZxcTA2MTloNjlINU9JUkY3ak8zSkI5eHVyTQ?oc=5",
+   "source": "투데이 군산",
+   "pubDate": "2026-11-27T09:49:08.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "대전",
+    "전북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "대전중구의회이진웅의원어린이활동공간환경안전선제",
+   "title": "대전 중구의회 이진웅 의원 “어린이활동공간 환경안전 선제 대응해야”",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFZ3NGVTV1aXhTc253TTM0Wno2cWlpc1RNVERVMFN5ZVdZd2VIUGZQc3lOdlc2LWNzQlZZak5qNWo0b1A0WkxFRk93?oc=5",
+   "source": "미디어투데이",
+   "pubDate": "2026-11-27T09:47:00.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
   {
    "id": "20261127부터시행되는직장내성희롱제재대상",
    "title": "2026.11.27..부터 시행되는 '직장 내 성희롱 제재 대상확대, 난임치료휴가, 육아기 단축등 개정사항' 안내 자료입니다.",
@@ -203,6 +677,1373 @@
    "amounts": [],
    "via": "rss",
    "addedAt": "2026-11-27T05:19:26.249Z"
+  },
+  {
+   "id": "담양군아이돌봄센터2년연속전국평가A등급",
+   "title": "담양군 아이돌봄센터, 2년 연속 전국 평가 A등급",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55ZkRVVFJ4eW9rQUV4UHFLRmhFQ1R6ZEVEcHhXV05CRHpzYmZpdmhFRzAyX1RYS0dIdlp2N2pQTkNCcGZZRG13cXU4bkpzdEI3dkJjdTgwVDVWUThUb09MamxBUVFVc1F4ZE90U2Nn?oc=5",
+   "source": "전남인터넷신문",
+   "pubDate": "2026-11-27T09:26:54.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "어린이놀이시설무단촬영제한조성운강원도의원발의조",
+   "title": "어린이놀이시설 무단 촬영 제한…조성운 강원도의원 발의 조례",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JWmlYdHBHZXVfOVlEQk9IWmZrQUVtVTRzNW1hY2w5N0FoYnQxSmR1V0FCX2I3ZUo1QWFNalpwU1pfMnBacklFeGNBQTAxRm94QktJY1N1a0RZeVI4TGU2ZXdTcktwMkZxdEFB?oc=5",
+   "source": "프레시안",
+   "pubDate": "2026-11-27T09:17:49.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [
+    "강원"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "논산시어린이안전골든벨개최초등생200여명참여",
+   "title": "논산시, 어린이 안전골든벨 개최…초등생 200여 명 참여",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZDdfeEZNbkxXVU5YM2NJMGZWUkZ0OVJsaEkwblJjV2FoYTEtWXBNQ3lZYW1lLWtsNTY3SlBpaVhLZjZWaDlQSlhVTlhIUTdkR0lfQWVFdU0zUXZRSzRwc1cyLVJ4RFVCd2o00gFuQVVfeXFMTUdqVGNwdFRoUEYxdU0wcTFzVVFpdmVjVTM5Y1dfM3huRWFtZkdwVU1JNkxkanpsX2dad3hZUWhUc2tfbW1kbmNSZk82VmVJZ09yVlJVN0ZieUlrMC1QdFE5ZzJLRWhLVDVZRXFXU2c?oc=5",
+   "source": "금강투데이",
+   "pubDate": "2026-11-27T09:15:34.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "담양군아이돌봄센터2년연속A등급에장관상까지",
+   "title": "담양군 아이돌봄센터, 2년 연속 A등급에 장관상까지",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44aFpLU2JPMEw4dFVxaGk4amNmTkN1eHNMX19zZ0cyZnBadGlIVFRsbTZrdV96WWs0aUtNZFhFVk1TRGFPTlhQekpNWUExc1MyT0Jmd29JUEU3aUQ4bHZSVHBlMHF4RHZNVGtn?oc=5",
+   "source": "한국사회복지저널",
+   "pubDate": "2026-11-27T09:07:07.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "허위취업으로출산육아휴직급여챙겨사업주등130명",
+   "title": "허위 취업으로 출산·육아휴직 급여 챙겨…사업주 등 130명 송치",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51djBaamNja3MwTlBGYS05UUVEUnZqUTByUUwyN2U4TmZXQ3kzZmEyYjYtRGRrTE1QcS1yQUlFMUxLNmJMbmh4Q2hQcFB2OVlPMnBuMWNYbWpweWVXUWxORGlNcmFjOWs?oc=5",
+   "source": "연합뉴스TV",
+   "pubDate": "2026-11-27T09:06:00.000Z",
+   "cats": [
+    "policy",
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "농림축산식품부아이들과함께과일왕국에서만나요",
+   "title": "농림축산식품부, 아이들과 함께 과일왕국에서 만나요!",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzN0JFTm5hUnlkNVNaVGI3T1lkT1pEbXNSUF9RLVNNakk2czVZVVZSLWxfQ1FLeXBJaVp1dURLVVNLMXBLX1J2ZFJROTBCem4xdm8yV2dYSEFHblJIcUdlbjQ5UWRkdlV2?oc=5",
+   "source": "OTN뉴스",
+   "pubDate": "2026-11-27T09:02:40.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "충청북도아이돌봄광역지원센터전국우수기관선정쾌거",
+   "title": "충청북도 아이돌봄 광역지원센터, 전국 우수기관 선정 쾌거",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0N3hqb0VZNEhranMyc3dtWFBCLTRJNl9uQU8xSFlLOTR4Tk16MTNPcFlfYWM4LW1NTjdjVFU1aFFlaWRVTjVaS2pYUi1va251dEtjNUJzNHhYek02X0tVeVdCd0tSUmJhS2c4?oc=5",
+   "source": "시정일보",
+   "pubDate": "2026-11-27T08:55:00.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [
+    "충북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "영양군아이돌봄서비스제공기관2026년전국평가A",
+   "title": "영양군, 아이돌봄서비스 제공기관 '2026년 전국 평가' A등급 - 머니투데이",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KY0FHakZocnFTYm9VNXBTY0Uzbnp5VXhWTG1xNHNlaW1JYnFVWGt4MXRodC1GUGlaQnFNSGFFYy1TNk40LXgxWHhjSTJVVGExX0xySUcxb1ZaRWZXUnl6NnhQeXdVZHVEeEVuaEdKQdIBb0FVX3lxTE5KY0FHakZocnFTYm9VNXBTY0Uzbnp5VXhWTG1xNHNlaW1JYnFVWGt4MXRodC1GUGlaQnFNSGFFYy1TNk40LXgxWHhjSTJVVGExX0xySUcxb1ZaRWZXUnl6NnhQeXdVZHVEeEVuaEdKQQ?oc=5",
+   "source": "머니투데이",
+   "pubDate": "2026-11-27T08:54:34.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "경북아이돌봄이용아동1만8200명작년대비116",
+   "title": "경북 아이돌봄 이용 아동 1만8200명…작년 대비 11.6% 증가",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oTmxRem1zRFpHdldZUkNfNzBrZE1Eb3h6VzZKZmdaelRGWmJSaVZiMlY3eVdORUlzZnRwVi1Kenh0czBHRXdEUmI1Zm1IY3ktemg3bG40SzYxeS01TTBWYWRTNk5jZlRFWUE?oc=5",
+   "source": "경북도민일보",
+   "pubDate": "2026-11-27T08:39:06.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "경북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "장현태미추홀구의원영유아발달검사부터청소년자살예",
+   "title": "장현태 미추홀구의원, 영유아 발달검사부터 청소년 자살예방까지 생애주기별 건강안전망 점검",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tVHoyWFRMeVFHakJld1FhTTZEUFI1OXB5RmJRN0xhYkZZOTEwVEV3WEN2LTdGU3RGSzdxOWpGcExwQWdEOWhpSS1FQjFUZVpYVjkyYV8tYjRZYm9nM0c4?oc=5",
+   "source": "자치의정브리핑",
+   "pubDate": "2026-11-27T08:36:47.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "영양군아이돌봄서비스제공기관평가성평등가족부장관",
+   "title": "영양군, 아이돌봄서비스 제공기관 평가 성평등가족부 장관 표창 수상",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByZnZaUFdBb21naGg2a0doMjg5NkNfRnZvWWZtbmdabjdicS1DM2tOQUs3NXNFbWF4dGtNdWgxV09YLTRDTzBRWTBoMi1KUks5RElaMzlFcnAxMGVtNTZ1eA?oc=5",
+   "source": "NSP통신",
+   "pubDate": "2026-11-27T08:24:09.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "진교훈강서구청장서울교육가족안전채움한마당참석",
+   "title": "[가족뉴스] 진교훈 강서구청장, 서울교육가족 안전채움 한마당 참석 外",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xaTRKT3hFUGVweUp4cUhPaTEzLUNnX040RlloQzBSZ180cnpuSjFiUktYTGlrR0FNR3ppMWRDT3VoMnFGR2szZEVjTWRoalFMcnFVcDk1Nkdrc2lvTzlfcU1JOW9qZk5qZlM5Tg?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T08:13:50.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [
+    "서울"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "KG파이낸셜일생활균형우수기업선정유연근무육아지",
+   "title": "KG파이낸셜, 일·생활 균형 우수기업 선정…유연근무·육아 지원 강화",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YRW1DTXU2Z2xkcFZhdnB1dUc0eWV5bTA5dXhYZTdmYVRqWnZveHRhQjB4Y1lyRnd4V2tPXzh5RmttMkJxMk9YamRyVC1UWnlYYWRvaFNDYll1Q29qeG1TcVE0bkxkc1VNbzRJSHdlRQ?oc=5",
+   "source": "이코노미사이언스",
+   "pubDate": "2026-11-27T08:12:01.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "강남구육아종합지원센터AI시대자녀양육부터긍정적",
+   "title": "강남구육아종합지원센터, AI 시대 자녀 양육부터 긍정적 훈육까지 부모교육 운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sWXUyWFIzcHlWMkVvM1FaczNLQ2dqTG94RWVueDZyM3ROWFVvWWpscVphckhtVmxuSUtfUGZLNVYwTEIyaXRFZGtxZ3d2RUoyNk4yUUl5aFJoUXkzZnFPV2VXVnFtcW41eEtXZA?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T08:12:00.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "마더케이멘토리임신주차월령맞춤육아정보부터0원체",
+   "title": "마더케이 멘토리, 임신 주차·월령 맞춤 육아정보부터 0원 체험단·토리박스까지 … 출산·육아 통합 플랫폼 운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4weFFXM0RtaHUycjg0ZG80R21ZWlhsUjJQbEVmQWNTSm1rTFptRXRqNlhjNDc0V2M1T25NYjZKdnljM3lnR3ZNcm5Ya0IybUFxbmRFTlI4U2ZGdzRZckhCZTg3WEN3cGlpeGZGYg?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T08:11:00.000Z",
+   "cats": [
+    "outing"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "담양군아이돌봄센터성평등가족부장관상2년연속A등",
+   "title": "담양군 아이돌봄센터, 성평등가족부 장관상…2년 연속 A등급",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Pb1dXb1IwaTFaMFUyS0o5VHJJOGtxd1lwdGZRempWWEdDcVFLWVBPMWVMRWxOcUc3SkxxU1FiRUtFaHYwSEE?oc=5",
+   "source": "일등방송",
+   "pubDate": "2026-11-27T08:11:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "은평구우리가족양성평등부모학교2학기마무리성료",
+   "title": "은평구 우리 가족 양성평등 부모학교 2학기 마무리 성료",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tVTNUMzBoa1JiWnI5OVpSS05oTkJBLUdnRzRxZWJTNE5XT0J3amJwbUhKbXFzRnpueWdqZXVOTmxVa0tNaG50OVdYM0YzNEhZTG0xelFTaVRRaUh2UDEyRHpmSHFHMHR1VmR6Ug?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T08:10:52.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "강북구육아종합지원센터미아공동육아방놀이공간새단",
+   "title": "강북구육아종합지원센터, 미아공동육아방 놀이 공간 새단장",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpcXRiempIRHE5YTlmZlhTMTlJdXJvRnBsRGRaRm9WQWpURUZIMmhZOVNERUFmXzh2Q1hmU0RrcWlpamNpY1lESEVxR0M5WWhWWTk5eW5TTzRmbjdxSDRwSVJrWVZ1OU1hQkx6Zw?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T08:10:34.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "강북구육아종합지원센터2026강북보육피날레개최",
+   "title": "강북구육아종합지원센터, 「2026 강북보육피 날레」 개최",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQUlrT2hidGtJMm9EanZ2UmhKVWFJbDlrM3lYU2pkdDJaY21rY01iTlM0ZnJ0bVZNNmxyMGYwT1hfLWpxUlhIeDFoc1JQSmxaX1dxNkJZRFdlaC05SFpXN09rSHl1Q0Y3QlhEeA?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T08:10:14.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "2026어린이안전골든벨개최외",
+   "title": "[논산소식] '2026 어린이 안전골든벨' 개최 외",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBVC1OcFd0cmlPdnFOVFNzTFpBNGhCVVlYMzdIVjZwNW1wMm5OT0pUc2g5MDRYdldPc0E1VXNiMVpmOG9aSzVnYTZIN3N4VDJNdlpMQl9ieUxINndQOWFnMjVpN285S01keUg1QnFTNNIBc0FVX3lxTE1YQmRYWGQzRXY0YnRDLVlZRkwwdVJjOUF1SmJBaVlleFUtRUFWcVdJLUNLcS1wd0g3Y2N0Q05qY3lGa1l6TFpuSjczWk5XZlNrN2JJRzZjM09fOUk1Z3kzcEpLd2N0Yzd4VmI2T1pYMmw4YVk?oc=5",
+   "source": "데일리한국",
+   "pubDate": "2026-11-27T08:09:30.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "검단구육아종합지원센터운영한국복지경영원에맡긴다",
+   "title": "검단구, 육아종합지원센터 운영 한국복지경영원에 맡긴다",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YSGIyS1VXRURtaWFlOGhQaU42VlFfdVhVejRha2g4LXQyNHhDaGVhZjdsb0VCYi1QeEhmdENvaW5xZnQzU0E3eUREWXUyNWcyME1RMlVzVnhIbFRIb0c2TlN2YWxXSzRl?oc=5",
+   "source": "일간경기",
+   "pubDate": "2026-11-27T08:07:44.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "부산아이돌봄결합한가족형워케이션42가정91명참",
+   "title": "부산, 아이돌봄 결합한 가족형 워케이션… 42가정 91명 참여",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uRTd2cjhzNDc5N1RsUUhHR1VTbkRDcU9OR0lkQmRsSkpFWWhndzFJR3ZfVldjQV9qQUU5NEduc014NHVjdUFSajBuT25vSV9CYXZMX284RVdGUQ?oc=5",
+   "source": "브릿지경제",
+   "pubDate": "2026-11-27T08:04:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "부산"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "울산병원이레유치원상호발전업무협약등",
+   "title": "[울산소식]울산병원·이레유치원, 상호 발전 업무협약 등",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iWFlzXzREMXZJbHl6YWMydks1LXp0UGFjNFdlOG1tS2VKN2FmcHpleldsVkYwZFVMWXlXZDlPT0h4dVBCVVBQdWRmOFp1LVFZNW1MbEYxUG0zMEdlcklrONIBeEFVX3lxTE1lN3o4UDAtMkFyVGQ4SEgtYUNiYzRVZVNfMVRDc3hlSmUyNjVITVliTTM1STluYjJqenFTbmNkR1dRaHFTSXB6N2RiX2JJT2RPWUo3dmJoR21uYlJXXzN1VkY0RnM2VXlsRnRGTjdtZ0Q5ek1LZG91Tw?oc=5",
+   "source": "뉴시스",
+   "pubDate": "2026-11-27T07:49:15.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [
+    "울산"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "저출산시대사립유치원공교육화더는미룰수없다",
+   "title": "저출산 시대, 사립유치원 공교육화 더는 미룰 수 없다",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wWFFhaDc4cFByZ3dvTEtMWllrMkZnVmN6YVlIQ2pXTzNnT25Vd1dueVdpMk9xQTR6YTVsUXlGS0dNSVJ5M2htMnY5dU53WmNsWEJuUUk2dER5M2dIUU1MZlBTQjRsNHhtaWpV?oc=5",
+   "source": "열린정책뉴스",
+   "pubDate": "2026-11-27T07:46:24.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "다이닝브랜즈그룹다인어스서울대전대구서영케어러아",
+   "title": "다이닝브랜즈그룹 다인어스, 서울·대전·대구서 영케어러 아동권리 체험 운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RUWU1VkdoZnhoSHR6OEJBOE5EU0xvQnJBV0R3QzhPTDBGbXpKZkU4Z3BqNXYwcmJJdnlmUVNiTzZHaHFnUmlHT3FtVVJlWlluUDUtbmxRNEdTZmR0bUFHT3o5eWFfZ2M2UkVz?oc=5",
+   "source": "퍼블릭뉴스통신",
+   "pubDate": "2026-11-27T07:44:37.000Z",
+   "cats": [
+    "outing"
+   ],
+   "regions": [
+    "대전",
+    "서울",
+    "대구"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "이진웅중구의원어린이활동공간환경안전선제대응해야",
+   "title": "이진웅 중구의원 “어린이 활동공간 환경안전 선제 대응해야”",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aQ042c0pBNERHcFRscG1TYlBBT1M0MGJNLXB2Y0s3Y0RMZW9fd2g1RWdOSmFZQTlwaXhjek5PQk9SMno4X0JFYXhvLW9HS3VTUG1GMFF5V3c0aG9venJuYWN2OElfVnFEQ3NGNg?oc=5",
+   "source": "충청뉴스",
+   "pubDate": "2026-11-27T07:33:45.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "청주진흥초병설유치원텃밭가꾸고김장체험유아생태교",
+   "title": "청주 진흥초병설유치원, 텃밭 가꾸고 김장 체험…유아 생태교육",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80TFZCVzc4M2VCVGJaWGdmRm5hTlI1MVpKVEYxU05LcXFrMlBwYjFaN3Jwck5taW9vTnZjR000aXNaTHNaWS14WnpweU5IdWI0amh4V1Nkb3FkcURpZjhKNHpFX2M1R2ZYQnVyQkpB?oc=5",
+   "source": "국제뉴스",
+   "pubDate": "2026-11-27T07:31:12.000Z",
+   "cats": [
+    "care",
+    "outing"
+   ],
+   "regions": [
+    "충북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "대전동구아동학부모500여명함께한축제희망콘서트",
+   "title": "대전 동구, '아동·학부모 500여 명 함께한 축제'... 희망콘서트",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95Y3I3Z3Y2eF9wa0ZoNWNQTHppWl9ERndNUnJDSlpzM3JqemRjekxuOWFZV0h3YlNydHBGc3VhODEwUmR4S3F0cHAtdHBuWUZySUJkSzBEZlF0cFhWRzNESkdBQ2djYU5aQlhtYW5QVXRyaS150gF0QVVfeXFMT3ljcjdndjZ4X3BrRmg1Y1BMemlaX0RGd01SckNKWnMzcmp6ZGN6TG45YVlXSHdiU3J0cEZzdWE4MTBSZHhLcXRwcC10cG5ZRnJJQmRLMERmUXRwWFZHM0RKR0FDZ2NhTlpCWG1hblBVdHJpLXk?oc=5",
+   "source": "뉴스워커",
+   "pubDate": "2026-11-27T07:31:00.000Z",
+   "cats": [
+    "outing"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "출산육아급여부정수급자무더기적발130명공소청송",
+   "title": "출산·육아급여 부정수급자 무더기 적발…130명 공소청 송치",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPZVVUczV2TWk1ZVpVeFRaQmlZeGl4bG1sZlRBN3NYNFZiMFVxNTdDWFY0cVE2YzdvbWU0a1RGX2VuLXJTallDc01vdFRyUjlzRFRSVUotMW5PcGo5Wnhwa0M3Mjh4eDR5Wmc?oc=5",
+   "source": "경북도민일보",
+   "pubDate": "2026-11-27T07:25:15.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "강원어린이놀이시설관리사각해소도의회안전조례통과",
+   "title": "강원 어린이놀이시설 관리 사각 해소…도의회 안전 조례 통과",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmM0trNEdyc0pyTHpGXzJiMV9SSWMwZ2hmWm9zMndRWGRtbk9fbGtQTGZ6MTNHOGNic0ZGdzk4ejNHb25kNXJERERoZ05DR3ppNEdtZ2FVMFV3dU15YWF1SNIBYEFVX3lxTFBmM0trNEdyc0pyTHpGXzJiMV9SSWMwZ2hmWm9zMndRWGRtbk9fbGtQTGZ6MTNHOGNic0ZGdzk4ejNHb25kNXJERERoZ05DR3ppNEdtZ2FVMFV3dU15YWF1SA?oc=5",
+   "source": "연합뉴스",
+   "pubDate": "2026-11-27T07:20:54.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [
+    "강원"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "허위취업으로출산육아휴직급여12억9600만원챙",
+   "title": "허위 취업으로 출산·육아휴직 급여 12억9600만원 챙긴 130명 공소청 송치",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5b3NCb3VjZWp5N1loN3dvZ2ppVkZ6eVdlQVVQZkFJMHVZZ29vNUNOX2lDUjVfTE5GYzB5amx1dExBZk9lR0wxYjZVOGY0dVJ2cmlmNFRVVEYxWTMtQmhmSHU0Smt0Z2I5?oc=5",
+   "source": "대경일보",
+   "pubDate": "2026-11-27T07:10:58.000Z",
+   "cats": [
+    "policy",
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [
+    "9600만 원"
+   ],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "이진웅대전중구의원어린이활동공간8곳중3곳환경안",
+   "title": "이진웅 대전중구의원 \"어린이 활동공간 8곳 중 3곳 환경안전기준 초과\"",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oVVBpOWFsRDF6OXZIV21haUdiaVhuNnpRZjF1VG0yVHJHS3BiTl9vWVdJdmQyYVNZcEpDOUxXNUNPLTJITHZhNi1zMDZuZFpOWS02SWVyV0hWWDVlaFV3OFdMN2dBLXZ2TzBSUUp3?oc=5",
+   "source": "국제뉴스",
+   "pubDate": "2026-11-27T07:10:44.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "출생아늘자부모급여예산바닥전국45개지자체서지급",
+   "title": "출생아 늘자 부모급여 예산 바닥… 전국 45개 지자체서 지급 차질",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaWhzbExDX09rZXNRVW9fMHdFY2NQanN4S0VPMkdDTmpZa3J0clcycldzckdsQ2lkUHFLX0o2NVhyLThKX3JyWFU2Zk9EYlZETWhYZ0Z0Si1vckhwOEQ0SlVuM01RS3hmRWwzUVlYV1dBYjBoaHFLSHZ3UHJRc1pFdkVvZUJNZ3VZeVHSAZ4BQVVfeXFMUHJFdE1VSmhuZHl1TmpxN0g4dlJmc290dGlDZG4wdjREOWIyZWYtSnlfSTJPQjd3SWFrSFhFZHJGTmdDOHFySDU4ZTJEbzZ2TUlxcVpmMk9mOURKRmlqa2t2QnJJSExqZUVnb1RJekY2N3REMGg1ZW9reXZ2cTMtMVJHQnkxMEppd1FhN1dwN1Rld3BQM2tHVlR4bi1TVUE?oc=5",
+   "source": "Chosunbiz",
+   "pubDate": "2026-11-27T07:08:00.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "네번째장관상쾌거작은농촌영양군이전국돌봄모범도시",
+   "title": "네 번째 장관상 쾌거…작은 농촌 영양군이 전국 돌봄 모범도시 된 비결",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUWtNa21PbUEtc0hyVmpKNGVnRjNWRDREWmRTaGpIRThGdFNmbmEtSklhb0hZTmdqZ21uVEl4RmlxWmppVUFzVU11akxkaThQRWRMVTRqVEpQTFdma0RLTUFyQXo0RnJMaktIZXA2b0dPUQ?oc=5",
+   "source": "http://www.reporternside.com/",
+   "pubDate": "2026-11-27T07:01:59.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "아이씨티이음5G4K영상기술로산업시설보안혁신",
+   "title": "아이씨티, 이음5G·4K 영상기술로 산업시설 보안 ‘혁신’",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uSEpnTm5DVUNFTEwyZUpGM04zR052WC1DRENyYU12czdyV0dVSjhFMjQzM2o0RkxWWnpCRnhrLWpGN1R5QnNkY05panFaQkhXUk5GcnR4QXVpV0R2QUdvc29BRjZWWGVyZHUyTFV6dkxMdw?oc=5",
+   "source": "에너지신문",
+   "pubDate": "2026-11-27T06:51:25.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "2026대한민국과일산업대전대전서개막어린이가족",
+   "title": "‘2026 대한민국 과일산업대전’ 대전서 개막…어린이·가족 체험 프로그램 운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDSnV3N2JOQjZkUlBQOWlaczB5ZTJLWDNWMVdESG9FVmYyYkRCUHlmVUVPbDh5S2NXblQtejNLWUg2RXhRS3FLaGVRZ1d5OGZ60gFUQVVfeXFMUC1rdVhtdVFYRzVWRWdTMnc3V1NVWC00eGpIT0RnNWRyYVdJSWdOb3VZYnUwV2NXSkZHSEEtbXF1ekdEb2pMNnl6MW40V1I3a0p5cGM4?oc=5",
+   "source": "세계일보",
+   "pubDate": "2026-11-27T06:51:09.000Z",
+   "cats": [
+    "outing"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "부산사상구부모들의생생한육아목소리를듣다",
+   "title": "부산 사상구, 부모들의 생생한 육아 목소리를 듣다",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3hQZ0d6WHdJUVBSNDY2eDRVMVdubUJrV2I3bndvYkNub0EzYmR1YXd5T0xKc2trdEgzcS1DNTd4VXBsa2l2d2QzbW5PcjhmQjFOLTVma0Q2MGdhdEprX1l3LWlERHphWV9oUl8za1p6WGprWXN0TVpVQm1lSGQxVXdPaURCNVZxZkJMczNn?oc=5",
+   "source": "국제신문",
+   "pubDate": "2026-11-27T06:46:00.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [
+    "부산"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "아이키우는걱정덜어주는영양아이돌봄서비스네번째장",
+   "title": "아이 키우는 걱정 덜어주는 영양, 아이돌봄서비스 네 번째 장관상",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMnVqSXY5SngxVWJrM3JnSjJQM0tKODEtZ0hNZ2dLSEh3UGNEZm5ta21icEg2TDE5cnB6UDN5NFBjbEdWUkhtTVdJS3VITmE5Um91RzlBcHVkc0ExYlVsRDJVWHdvRk0?oc=5",
+   "source": "씨원뉴스",
+   "pubDate": "2026-11-27T06:42:23.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "김제시365일24시간아이돌봄센터시범운영",
+   "title": "김제시, 365일 24시간 아이돌봄센터 시범운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5FaGxaT3lvb2xCTlZzWTVyQVUzeGMwb3pnZTFpNHh3eS1qSFFQVHlCcDYxNlhxVGhTRDRJWmo0Wng?oc=5",
+   "source": "전북금강일보",
+   "pubDate": "2026-11-27T06:42:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "우리아이들을더안전한밥상을대전동구집단급식소17",
+   "title": "‘우리 아이들을 더 안전한 밥상을’... 대전 동구, 집단급식소 176곳 위생점검 완료",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oSWlzWUR5TjNzRXRIVGlPeEptcDBBZ1lEOHB4T0NnVXFqZkw3V3hQZ2Z2eUM2NzR4N3RiRE9sVGdHelk1TGd2cXJjb21SQUdVazZGWlRha3RNSFRublA4QjlmSlRNcGFUNVBJTWRkYmlwblE?oc=5",
+   "source": "충남일보",
+   "pubDate": "2026-11-27T06:38:11.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "입사하자마자출산휴직출산육아수당부정수급공모한1",
+   "title": "입사하자마자 출산휴직?…출산·육아수당 부정수급 공모한 130명 송치",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55WGZlVjhkSnhnWm5RMmdDaHRxVXZieU44NXdyaUNXb3gwQW91MGhiRmtuOUhUUGYzZUNqNHdkcTJVRW5yRjA3Y3VxbEQwOG4xekE?oc=5",
+   "source": "노컷뉴스",
+   "pubDate": "2026-11-27T06:37:16.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "부산119안전체험관미취학아동대상찾아가는안전체",
+   "title": "부산119안전체험관, 미취학 아동 대상 ‘찾아가는 안전체험교육’ 운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxV2ZxMUxjdWtmRnUwb3BZNGt6Ym5CQWpzR3Y3ZjFhZERvOEhDcWVpMUpsTXUtaXBUUVhmU01ock1RbjBrY0p4c3BidF81RGc3Vl83R1Baek1zWEFoNi05YTZya2hrQ0p4VXIxN2puU1pQSUZZ?oc=5",
+   "source": "부산일보",
+   "pubDate": "2026-11-27T06:30:54.000Z",
+   "cats": [
+    "care",
+    "health",
+    "outing"
+   ],
+   "regions": [
+    "부산"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "대전동구12개지역아동센터아이들희망콘서트무대에",
+   "title": "대전 동구 12개 지역아동센터 아이들, 희망콘서트 무대에 올라",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KcTFBUExnTzM3eEFJeTFDdTFBM2tVOEZMWVBxRzZnTGlSRFAxejNVZVZFaHlNNlFxMG90Zi04bjFoOEdpc09wSG1sQ0FuTm5nZnUyZEVacEE4Y0FrdVN3V3JXOWppWFRCckJzUQ?oc=5",
+   "source": "뉴스인뉴스",
+   "pubDate": "2026-11-27T06:30:52.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "대전동구제11회파랑새아동복지포럼희망콘서트개최",
+   "title": "대전 동구, ‘제11회 파랑새아동복지포럼 희망콘서트’ 개최",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNzRjZ3k5a2oyeGd5eV9EbDJjMjNqVE5WdUx1STNnb1ZtU2RfM2dSV1d1Mnk2VmdyMi16RmNLMmhTeEhDc1BoQlVFbmwzTjJNM25YTEwtV0NjUFA0UE1ReWxtT0FGUG5NS3VwQjU2OA?oc=5",
+   "source": "다원뉴스",
+   "pubDate": "2026-11-27T06:30:00.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "의왕시의회김은영의원출산장려금최대1000만원확",
+   "title": "의왕시의회 김은영 의원, 출산장려금 최대 1,000만원 확대 추진",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGT01SWml6NFZ4SlJPelE5cXVnanVzY3YzLUR6cjlkMzVOZFNyemFIVHlNRVdmODdzQnkwNjRvTHJmX3RycXo0RTFka2F5LTFlclZ6RElFeml1UQ?oc=5",
+   "source": "브릿지경제",
+   "pubDate": "2026-11-27T06:28:00.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [
+    "1,000만 원"
+   ],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "옥천군남초병설유치원세계문화체험학습실시",
+   "title": "옥천 군남초병설유치원, 세계 문화 체험학습 실시",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DZ0cySUl2b2dRWXRBN3ItODR4aElnaHl0aTJ2VURrbGdTczlSaF82NHFkVEFDN241cnQ5MUttbTVoZmc5NjRhbWZCZ3RzZ2w0UDBjMDJhdi1BckZDWW5GeDYtc2dITjl5ZXBBZS1B?oc=5",
+   "source": "국제뉴스",
+   "pubDate": "2026-11-27T06:26:52.000Z",
+   "cats": [
+    "care",
+    "outing"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "논산시아이돌봄서비스제공기관평가장관상",
+   "title": "논산시, 아이돌봄서비스 제공기관 평가 ‘장관상’",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QNEtYNkE0M0x5MmR5TjZrcU5KREIzaWx2QUVtV0ZJcGlwaXhHaHRfbktad3dNT05DS1VRekRfWXVoQTA2bWd0Y0hhdVhaSEdCTHFYVmd4YW1XbmRRb3pEMDNhOXFOQdIBakFVX3lxTFBEQ2psdG1lRlVrVXBMT3hZcnZJemx6LVBzMFlqQ3lpMFNSSmdOdkc5VE9YRHlPQXQ4bmFSWVg5YU9BN0NzVzl0Z0ktQU1JbklDbW1yZUxSMjB6NTRDXzBuUUI3Ymc0QzlDWUE?oc=5",
+   "source": "세종매일",
+   "pubDate": "2026-11-27T06:22:08.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "화성시아이돌봄센터2026년사업보고회개최돌봄사",
+   "title": "화성시아이돌봄센터, 2026년 사업보고회 개최…돌봄사업 성과 공유",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iUDExem52cHRReGdydzFmc2VjdFZNaTlJbEtfUldaaE5TUHVXb1UzR1dxaUVUTGdmaDN0aThtRHhEUXBwbzJZNVAzN1FqSjhUQUVWcjV1MFppbFgyX01UUnhiZER6b1NQMnFB0gFvQVVfeXFMUFYwM0I3QjY2eVdyY3Q0azVQSzdDeVBPVGVNaDBib25FMi14VXVTc2trbmtpX0R1TE1zS2FKVFhvUjRYcnBBVVg2SzlYNXl6SE5QcllVbkZnRVNUbXJMWGQ5UWtyN1JsSFBLelVyNVhR?oc=5",
+   "source": "뉴스로드",
+   "pubDate": "2026-11-27T06:20:48.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "경기"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "화성시아이돌봄센터2026년화성시아이돌봄센터사",
+   "title": "화성시아이돌봄센터, ‘2026년 화성시아이돌봄센터 사업보고회’ 개최",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBbHZDQUZRNWFfdUFmX2JtNzdXbXM1aHYyTXM3WW9IT1Fkd1YyY1FfU2djNnc5QjZ0OVltSFFOWFJXUDRHdGljc293YmR3bHdTeURUNG54aldFOUVfUjg3OThwQ2ZobTZK?oc=5",
+   "source": "공감신문",
+   "pubDate": "2026-11-27T06:16:40.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "경기"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "논산시퀴즈풀며안전상식쑥쑥어린이안전골든벨열려",
+   "title": "논산시 “퀴즈 풀며 안전 상식 쑥쑥”…‘어린이 안전 골든벨’ 열려",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWekx6ZTE3WlFabUpHQ3UzMVZyVkxTblJ4QVh2RGI2VHBWVzZzYmItRUxyNFFGRkJNQkNPZm4zeENZQTdaVXFYNkdHY0ZGbFptM2gxZ1g3OFZ3NklYZkR0SzdWOUpKUdIBakFVX3lxTFAzcTBBcXpYZ3NoTWpzdFBPZnZ0UFYwaW16anE4UWV5TWYzLVRYRWYzZWpOZXpOcWpOdDUyaC1EZl9xR3g4NFVyOVAzTmg4bnpUUzFNNXg5bHZqU1dJMHBBcENWT19nMC1ubmc?oc=5",
+   "source": "세종매일",
+   "pubDate": "2026-11-27T06:12:59.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "용인신갈초병설유치원가정과함께하는그림책독서교육",
+   "title": "용인 신갈초병설유치원, 가정과 함께하는 그림책 독서교육 운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10dF9xaVVVUERjWHdMenF1SThCd29HeTJPWWRPNVZ4TGMwYUtoZXQzTmVvMHlESWVGb001Mzc3OEVCeWZMMkJ5Vko4bE9rRFpTakt2RVlYU2Z4RG11bmNsbTJlVXFFa1R0S2ZR?oc=5",
+   "source": "일간투데이",
+   "pubDate": "2026-11-27T06:12:43.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "경기"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "남원시가족센터아이돌봄지원사업성평등가족부장관상",
+   "title": "남원시가족센터, 아이돌봄지원사업 성평등가족부 장관상 수상",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Kdi03ckZMY295WENLNk1QRFpEQkxaV2U4WmUwaUtQbXRGaUowU19lVEFqc0JTR3dMYldKQW9zenpTRS1mOVRSTHNRRnAzQU15RkpiM0Y2ZmZyZ09lb0tzVU44a3p3Z000Qm1QTlJ3?oc=5",
+   "source": "전라매일",
+   "pubDate": "2026-11-27T06:12:00.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "남부지방산림청산림분야규제개선다자녀혜택확대민원",
+   "title": "남부지방산림청, 산림분야 규제 개선…다자녀 혜택 확대·민원 간소화",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMMTRBX18ybGVneXlzVlFSSXJ1ckVBREJ2X3JoSWVNVkRlR2hMdXdCSDVFWFVoU05xbTlCR1oyTUNLOVdwSEdkdzZkVGoxaE1RR3ZoZU16bk82X242NDZfSWVsaTdyV0xXMjZjQ1E3QdIBc0FVX3lxTFBIcFRlNzRJbEV1YVVoM3ZRWlZHQ0ZPd3hsTEVldDZ2N19fX3VRc1I4N1NFTmZFWGl3aDRGM2tWSnF1aTN4Uy1HbVZaVEt5ZWxsUW1SelM0NGphMWxjaWZiRm9zV0ZiYXlrOVZfWkhBUmFDczA?oc=5",
+   "source": "데일리한국",
+   "pubDate": "2026-11-27T06:08:10.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "교통안전넘어범죄예방까지부평구초등학교6곳아동보",
+   "title": "교통안전 넘어 범죄 예방까지… 부평구, 초등학교 6곳 ‘아동보호구역’ 지정",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdHdsZ1hhOWsyRnhHUlpMNVdKaVFqWHFHemwyNTBWWUgtdm94clByTHBiNHlzb2pOWl9KMVZmaUQ1VzNta1JuTlBuOTlTQmVQUkkwRmxlWmFUajFIVFFtUDVmWlRtbXlFcFRvaA?oc=5",
+   "source": "복지투데이",
+   "pubDate": "2026-11-27T06:03:44.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "대구노동청허위로출산육아휴직급여챙긴130명송치",
+   "title": "대구노동청 허위로 출산·육아휴직 급여 챙긴 130명 송치",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wWl8wR1JDVGVsYkNkSjNvYl93Q3FGUi02QnNHblBkbWpWRXFTSlBaeDViYkdtX1g2bXBRamIxTTVPR0ppRnlVbG1vaFhDVVdaQUVHNy11cy0?oc=5",
+   "source": "국민일보",
+   "pubDate": "2026-11-27T06:02:34.000Z",
+   "cats": [
+    "policy",
+    "work"
+   ],
+   "regions": [
+    "대구"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "조성운강원도의원어린이놀이시설안전관리강화조례안",
+   "title": "조성운 강원도의원, 어린이놀이시설 안전관리 강화 조례안 상임위 통과",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yZGxVMWdRaWlMNDFibm1aVTlSV0k4U2FZZGJkLWZJajM0YjBLVThxckJYbG90NlVrVlZEWllXbDVIWXNsNU5kWUR1bnh4VlY2X0E2cHA1N1IyTVQ1MnJnUGN1TlA1UGcwLVlLRXpGaUsyUQ?oc=5",
+   "source": "웹이코노미",
+   "pubDate": "2026-11-27T06:01:19.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [
+    "강원"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "원주시시설관리공단찾아가는어린이교통안전교육실시",
+   "title": "원주시시설관리공단, 찾아가는 어린이 교통안전교육 실시",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SbUhmdHJkYW1jV2NfeXQ0TWVnVHl6aHBSVi0tM1l2anVhaGN1bUduZkR6WXhhNmVUeFJGSVFydmc0eDlGcFJ6QnVMRERxbU91bEVDT1cwNjg3dzIwNWtJakhzb1VqOEl1dXFzWm5n?oc=5",
+   "source": "전국매일신문",
+   "pubDate": "2026-11-27T06:01:04.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "초중등교원은보호하고유치원교원은제외유치원교사노",
+   "title": "초·중등 교원은 보호하고 유치원 교원은 제외?…유치원교사노조 반발",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MWXRBcWxfZVprM1c2VU1fdmlqSThvZHpkNmhNZUpsV2lQNjJra3diZUYyc2tBSlVkV3c1WjVHd1pBZHczRnR3SHBHTjNnOE1SeXo3cWlqcHFIY2tIdjB0cHQ4bnFnUXBMLVJMOA?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T06:00:35.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "부산광역시육아종합지원센터독박육아탈출육아공동체",
+   "title": "부산광역시육아종합지원센터, 독박육아탈출 육아공동체 사업 성과보고회 및 공모전 성료",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aFJOQ2pPNElRd2VIb2NBNzQ2M1U3T1lpUzQwTHlzTDhKa1puLUU4N2hrQnduVEtZYzJqODlqUWgtNTZLQW5kazAzRlNHTmhjQVUxMjlxQ29RZTFBR0pYZEpJV2FlajRnUEZLNA?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-27T06:00:10.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [
+    "부산"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "시흥시모아건강센터영유아발달진단평가운영",
+   "title": "시흥시 모아건강센터, 영유아 발달 진단평가 운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tX3RCY1JHaUZnOFlvOFRJem1WZm5sMUk4OXJ4ZGVKRXJXbWoxWEgxQ0VtTlNmSUdSelpGN1Vub0NKS3d1TUo5bm9kT19RZDlSVmpPU1JFaVAxRXZCeTNkMFV3?oc=5",
+   "source": "경인미래신문",
+   "pubDate": "2026-11-27T05:59:23.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "논산시어린이안전골든벨수상자20명도왕중왕전출전",
+   "title": "논산시, 어린이 안전골든벨 수상자 20명 도 왕중왕전 출전",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3N0UwSGFJazJIemUxTkJHdFBxUFFtb1ZCaHkxRFhIeXhYS1l5WEZVbkxjMWcwTGhkblBraE5laklrOU82TldWamtneUpYd2ozeU92cldLWTlVVS0yc3BvcjBPZVN4MFF6OGdrcA?oc=5",
+   "source": "뉴스인뉴스",
+   "pubDate": "2026-11-27T05:57:38.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "유치원교사노조교육부대책에유아교육법제외유감",
+   "title": "유치원교사노조 \"교육부 대책에 유아교육법 제외 유감\"",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zbFdSSXpEOG9ZVFJnbXN4MC1Obm94bDJpMnMyaWI2S3RDV3VzSW03UUpvZS1KVDZxcXl2bDBmQ3FfNVRLRk9yRzhmTXNZN2Q5MTR1eFg2ekktSk96QnA2dWR0ckF6V01RdU1HYnRSdEY?oc=5",
+   "source": "뉴스클레임",
+   "pubDate": "2026-11-27T05:57:14.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "경북아이돌봄서비스이용아동전년대비116증가",
+   "title": "경북 아이돌봄서비스 이용 아동 전년대비 11.6% 증가",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEYURUeEIyOVJZdXUzRnNnX01TT2MtTG1xX2FZZG1sSFJpX09fNzd0dW1mdjZ3aDBJRGlGNy1DbWFxR3BHeThFSmdLR0xKeWVIREVLQ3lnUXZrQ2g5QTF6aHYxZFBiMVNSTlVuYmFVMFZrZ9IBdkFVX3lxTE5Kam9nUEdhZmdzRUhLTVJ3Rm5EdUdQTHVuU2ZFZUFaQU1GTTlfX2FrRkF3OGpnQ2tyUHQwV0w4TElCMHVpUEJ4ckdKWG1zMXA0dnc5WndKbVNDVXNWUml0ZWYtRkxCUnpkdldVWkh2Vk9KQmxXbmc?oc=5",
+   "source": "LG헬로비전",
+   "pubDate": "2026-11-27T05:55:49.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "경북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "백석대유아교육과협력유치원서동극사라진사랑을찾아",
+   "title": "백석대 유아교육과, 협력 유치원서 동극 ‘사라진 사랑을 찾아라’ 공연",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55ZFBBNzBtN3h0ZDJ3YVBDRmFzMi1jekpDT1RPRUFST0RRY1MtZVUteUNiMDlZbzIzQ3YwWTVEVXBmVG5aMkVvcVBGM0NlNzNoZFhvUkJUWWhTaDhXTWxXWVZjbC1YZw?oc=5",
+   "source": "백석대학교 인트로",
+   "pubDate": "2026-11-27T05:55:48.000Z",
+   "cats": [
+    "care",
+    "outing"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "출산육아휴직급여12억원부정수급130명송치사회",
+   "title": "출산·육아휴직 급여 12억원 부정수급…130명 송치 : 사회",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00dmwwVEQwWk9MbUJ6amlSQjgwNnJpdWwxbmFUOWpSSzFYVUFxcTZya2pQWWZzLW5xUkhfSGdpZ21yWl9FbHJreHdtNA?oc=5",
+   "source": "재경일보",
+   "pubDate": "2026-11-27T05:52:07.000Z",
+   "cats": [
+    "policy",
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [
+    "12억 원"
+   ],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "학교비정규직총파업여파울산유치원학교117곳급식",
+   "title": "학교비정규직 총파업 여파…울산 유치원·학교 117곳 급식 차질",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xZC1nSjVTQUtUX2VVeFBud1p3VV9vWkt0OTlJN3g4R1Y0eWtGVVlsNnRIemdpZWg5eGw3a0JBQ3RJSE9jRUpoajBOX2NKelhQUmc?oc=5",
+   "source": "노컷뉴스",
+   "pubDate": "2026-11-27T05:51:41.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "울산"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "일하지않고육아휴직급여챙겨대구노동청부정수급13",
+   "title": "일하지 않고 육아휴직급여 챙겨…대구노동청, 부정수급 130명 적발",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6NTYtSEM1YW9GMmoxMkV6VXYwQnRNZmRxTTZ1UTlPTDd6TzdSSE54Y21oVEtjY2dZa0dXME41QTVTekFmUmRxbjZud2ZzLXZEUGZ2bGgxdXdQZUpsN1lfNk1QSW96dXQtVmd5VFJQYS11Ylk?oc=5",
+   "source": "코리아이글뉴스",
+   "pubDate": "2026-11-27T05:48:00.000Z",
+   "cats": [
+    "policy",
+    "work"
+   ],
+   "regions": [
+    "대구"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "충남아이돌봄서비스전국최고수준입증공주논산계룡홍",
+   "title": "“충남 아이돌봄서비스, 전국 최고 수준 입증”… 공주·논산·계룡·홍성 ‘장관상’",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04aWRaaDJsUlE4eXAwT191aWRCd0V4UjVleTdHRVpOUEdFRWJBRnFONzJzSFpESWFTd0Y4ZkhEd05sTGFUSHFNZ0g3NTRyZkd3c1NUNlZQNi1yTE1zejVGaWRjd05jOG9TbVBvVHF3?oc=5",
+   "source": "투어코리아",
+   "pubDate": "2026-11-27T05:45:45.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "충남"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "출산육아휴직급여허위로챙긴일당130명공소청송치",
+   "title": "출산·육아휴직 급여 허위로 챙긴 일당 130명 공소청 송치",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IdTdiSWI0ZlNTSnhwTTlQUTRpS2N4bmV4TDFyOGdVMHI1eDg2Z0QxVjR6TlFKTFZhN2ZoOHp6NG1SdW1DeVREMlZ2YmVIenhfdzFUM1NBNUlTYWw2Znc1SNIBYEFVX3lxTE1IdTdiSWI0ZlNTSnhwTTlQUTRpS2N4bmV4TDFyOGdVMHI1eDg2Z0QxVjR6TlFKTFZhN2ZoOHp6NG1SdW1DeVREMlZ2YmVIenhfdzFUM1NBNUlTYWw2Znc1SA?oc=5",
+   "source": "연합뉴스",
+   "pubDate": "2026-11-27T05:41:53.000Z",
+   "cats": [
+    "policy",
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "용인운학초병설유치원작은텃밭에서자라는큰배움",
+   "title": "용인 운학초병설유치원, 작은 텃밭에서 자라는 큰 배움",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yS3JpUFV3TU9NZWJ6U05rVGFENzR4T2NBcEZzc1VLX1p5NUJ0MWE1bUF4eFdCSzV6cXVRT0dBUXByVThwZ19hd3pCNDZTa25DUURjemxzOEMxRTVacXpkLXlmRdIBZ0FVX3lxTE1ZMGFhMTVJTm9nd00tMDFiT3dScG45bnFMWlNYTU5GSmgtaElMZGtxV0JGSkplQmNRU2dwUEJUNHYtMlJoYjBVVzdJZ3huSjVTNzJXN1E5TEd2OFpsNmRXeFp5LTQ0d2M?oc=5",
+   "source": "국민기자뉴스",
+   "pubDate": "2026-11-27T05:40:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "경기"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "여야미래기금평행선여당서도아동수당편입에갸우뚱",
+   "title": "여·야, 미래기금 '평행선'⋯여당서도 아동수당 편입에 '갸우뚱'",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MSzBZNTVhTFFLNy1VWGlsWWZMeHNtb19DTWx5R0Z4LWRWSmFDSC1relNZMTY4eWtkOUdwdnYxQm9ySkJVaWRvNzBjWQ?oc=5",
+   "source": "아이뉴스24",
+   "pubDate": "2026-11-27T05:39:12.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "영양군아이돌봄서비스전국평가A등급장관표창",
+   "title": "영양군 아이돌봄서비스, 전국 평가 A등급…장관 표창",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IVl9NYzU1QkhIemdoTHRIS2dvdU9GaThBY0xmdDRLeGRSNmxzSFBUM2Y3N0lyR0JuYnIwdk1SUWQwZmxXbzdPNGNRV3cxT2h2QXNJd0M1LU1mTmd4a0NYNUZMdEN3dFY3dlM4b2pmUdIBc0FVX3lxTE9LUi12WjZrVVdoeG5mcHVUVHJQemx5UFh3OFFaRkszS3IxcWZvUVVJLWRMTmRYcnowU0h1YU9CeDZjcXdHaG5xejNjcEtEQmg2SnAzaXZSQ3BodHI1al9rMnkxY2E2M1JXRlZDT3FadW5pSkE?oc=5",
+   "source": "데일리한국",
+   "pubDate": "2026-11-27T05:37:43.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "한시적미래대응기금에아동기본수당이맞아민주당도지",
+   "title": "한시적 미래대응기금에 아동기본수당이 맞아?…민주당도 지적",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BemdNYWFUWmJCX3p4SDMyN2toVzdTeUd0VjczcXJsUG5aNXpkUzJkMTFTUndvU1R1T3VxMENfcEhZNVBRa3N0Z1lmYy1LRklDOGtPNVRzTXdUOEVVLXJwclg4ZXJvZk42UXc?oc=5",
+   "source": "SBS 뉴스",
+   "pubDate": "2026-11-27T05:33:40.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "놀이중심보육현장안착울주육아지원센터컨설팅사례공",
+   "title": "놀이 중심 보육 현장 안착…울주육아지원센터, 컨설팅 사례공유",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zY0NfVjBzNlRiUHl3QnRwOFJoal92S0lISGE2cWtFZjUzUFZNX3JxVURXUG9LZWJ2ZThET3g1ajIxaGhITTBZSkpDNElmbEhyNWdzYTNvZXRXTjctWHg0atIBYEFVX3lxTE0zY0NfVjBzNlRiUHl3QnRwOFJoal92S0lISGE2cWtFZjUzUFZNX3JxVURXUG9LZWJ2ZThET3g1ajIxaGhITTBZSkpDNElmbEhyNWdzYTNvZXRXTjctWHg0ag?oc=5",
+   "source": "연합뉴스",
+   "pubDate": "2026-11-27T05:30:31.000Z",
+   "cats": [
+    "policy",
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "영양군아이돌봄서비스네번째장관표창",
+   "title": "영양군 아이돌봄서비스, 네 번째 장관 표창",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KYTVOZER1SU5EOGVSeUxFMmVUOExWMV8zLTFVTVN0YlZzM0o2SEJkREhDU2c0R1lheUtJSDB1bHdCMzZ3cC1FVGYtQzJwQmJoRTRlSXdsNmE5VGtvM1VQNXZfMjh5azJCakNBNUp3?oc=5",
+   "source": "전국매일신문",
+   "pubDate": "2026-11-27T05:29:19.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "애플미니맥스AI동반자토키앱스토어에서삭제아동안",
+   "title": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43UEt3UWtfV1FveVZUSndnR29kVXNXLXNIQVNaTEdCWU9hRFAzS0NGUmlaSlNIQWE4OTZmOHV5UmdCZXZTUXNxNDc2MGFQS1E3NXJ6VGNseTRyUnpPNmIwZDFRRl9Pa3BBUlE?oc=5",
+   "source": "AI타임스",
+   "pubDate": "2026-11-27T05:25:00.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "임자남초병설유치원캠핑장에서지역친구들과가을을즐",
+   "title": "임자남초병설유치원, 캠핑장에서 지역 친구들과 가을을 즐기다",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02NGxsUFVHdlRTaVFOc1Bjakw4ejdfOHN0alFXejAxQjBJZWZxOE9ONXhwZ0VIMUVyYlZZemw4bTNXNVhUQmE5VDlkbmpBa0FDZ09DZjdEQ083c3UydTJoNnpzSnU1aVB4?oc=5",
+   "source": "전남교육통",
+   "pubDate": "2026-11-27T05:21:39.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "하루16시간공부해세무사합격육아휴직활용두고갑론",
+   "title": "하루 16시간 공부해 세무사 합격… 육아휴직 활용 두고 갑론을박",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HZnE4RGh6VzlWWHF0OWMzcW43T0syX0E3MWRHTEV6aWtBdlhlbG5BYmVMX3VCSG81MHJ5elIyZU9yRjV6TWhqa0Q3NzZYbmRwVlJyUFBEQUN5bEtZcDNNcGE1cnloQTZOMUE?oc=5",
+   "source": "금강일보",
+   "pubDate": "2026-11-27T05:19:16.000Z",
+   "cats": [
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "양주시가족센터아이돌봄서비스했다",
+   "title": "양주시 가족센터, 아이돌봄서비스 通했다",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tYTVDd3V2WjlLbXRWNmhEYTNYZEtRU1hkeWtwQmNpUVRjcFAwUUp4WXI1bGg0ZlBRUnNybDU2WlA5NmxtdEJKUkhXRzBGbl9udWEyNUhPZXhfRnJMLVlSZnE1WTNZNXY3YlV0TFF3?oc=5",
+   "source": "현대일보",
+   "pubDate": "2026-11-27T05:18:04.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "임용시험부터늘봄학교까지광주여대특수교사특강눈길",
+   "title": "임용시험부터 늘봄학교까지…광주여대 특수교사 특강 눈길",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iOFNPb3hxZ2RpcW5Md1FZVmpIWDhnbUtoUXV6TXl5UzMxYzlSWFZPaG9WTEFqNXQwR0dWTGZibm8tdzVrUWplUEtSYUdNTXZQR3QwQVd5S2JhWFBKNk8yMHVBNjQ1MFA4MWpyWG4xOA?oc=5",
+   "source": "진일보 | 전남일보",
+   "pubDate": "2026-11-27T05:16:07.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "광주"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "국원유치원전문도예가와함께하는찾아오는도예체험운",
@@ -434,6 +2275,22 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-27T05:19:26.249Z"
+  },
+  {
+   "id": "부평구초등학교6곳주변500m이내아동범죄예방활",
+   "title": "부평구, 초등학교 6곳 주변 500m 이내 아동 범죄 예방 활동 강화",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1N1ZVbWhGT092ZTM2MFlDbFBxRmRteWpwU0FRN004elY2OEt5LVdhU3BvVFBnLWRJM05Hc04taGVMOUNqem5TZUxGY3haaXBOSW9SemJBcWVUZl9HXzln?oc=5",
+   "source": "자치의정브리핑",
+   "pubDate": "2026-11-27T04:20:46.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "한국생활개선진천군연합회어린이집연합회민간분과진",
@@ -776,6 +2633,25 @@
    "addedAt": "2026-11-27T05:19:26.249Z"
   },
   {
+   "id": "인천부평구초등학교외곽경계선반경500m이내아동",
+   "title": "인천 부평구, 초등학교 외곽 경계선 반경 500m 이내 아동보호구역 지정해 생활공간 안전 확보",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14d0E3dmh6M3lQYmRzdWI0MEpJU1Y4SjNFc21oZTc2Zm9yMkV4T1Y4LUxUYzlGU0tkaGN1ZEJMal9qOWFibzB3V3dSRi1tVTZZcDJpb1VhdW1yaUtuRks2QjNBVHBkUlVZ?oc=5",
+   "source": "경인매일",
+   "pubDate": "2026-11-27T03:22:44.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [
+    "인천"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "은평구응암2동구립백련산힐2차어린이집겨울나기성",
    "title": "은평구 응암2동-구립 백련산힐2차어린이집, 겨울나기 성금 전달식 개최",
    "desc": "",
@@ -909,6 +2785,22 @@
    "addedAt": "2026-11-27T05:19:26.249Z"
   },
   {
+   "id": "퀴즈로배우는안전논산어린이안전골든벨개최",
+   "title": "퀴즈로 배우는 안전, 논산 어린이 안전 골든벨 개최",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hcTFxem13SEtxeE85eWNKTVVDMU5WX1FtZHNRV3RNeEJXemotN29TSjhtajQxcjlxaHVQWEcyYVNVVG1MbXhESktEY0d5amkxalpGaW5ZSUhURWQ1clpET2h6aVZlY1UwWHd3ODQ0a29RQQ?oc=5",
+   "source": "웹이코노미",
+   "pubDate": "2026-11-27T02:58:33.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "영유아화장품안전성보고가장많아사용전전성분확인해",
    "title": "영유아 화장품 안전성 보고 가장 많아…사용 전 전성분 확인해야",
    "desc": "",
@@ -958,6 +2850,38 @@
    "addedAt": "2026-11-27T05:19:26.249Z"
   },
   {
+   "id": "유초이음교육호서남초등학교방문",
+   "title": "유·초이음 교육 호서남초등학교 방문",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvNzRkQXBuQmlzNTJZQWNQMXBESW5lWmR6b3Ewa29MY3RWVEJFWExlalE5YW9HUk05T1E0VmpKUGN2OVdIQVRCcDhkelRyV0xHVURRc3lHMWQ4WHg0NzFNVUFCN0NIUGx4YV9kZjc5ZDhpWTRhdnZBdzBUNA?oc=5",
+   "source": "문경시민신문",
+   "pubDate": "2026-11-27T02:50:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
+   "id": "부평구초등학교주변6곳아동보호구역지정",
+   "title": "부평구, 초등학교 주변 6곳 아동보호구역 지정",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UcFEyYlhHcXdHYlYwMlRSMGVkVjhreFpLMG5VVkpKcGUxemlXazhRUG1UWnpKVkNLYUw5RWVZc2pTQUxiaXdJa1NmTXVGdV9Pb2J1U3hkdkgzTVBRS0FxWVYxekl0VDZ1aUZ5VXcyaw?oc=5",
+   "source": "미디어생활",
+   "pubDate": "2026-11-27T02:49:34.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "정세현경북도의원사립유치원교원복지조례개정발의",
    "title": "정세현 경북도의원, 사립유치원 교원복지 조례 개정 발의",
    "desc": "",
@@ -974,6 +2898,23 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-27T05:19:26.249Z"
+  },
+  {
+   "id": "한국가스공사김해시지역아동센터에서재난안전교육실",
+   "title": "한국가스공사, 김해시 지역아동센터에서 재난안전교육 실시",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54TlFxcWF2OGprc1hONFZfa3ByeXdVaXhDLU9SNWNaZkh3OC1EdDFMN2Npd2wxMDBTNGIyMGxnTXdRU2RxazZn?oc=5",
+   "source": "코리아투데이뉴스",
+   "pubDate": "2026-11-27T02:48:00.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "강진군아빠와함께하는육아골든벨성황리개최",
@@ -1449,6 +3390,23 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-27T05:19:26.249Z"
+  },
+  {
+   "id": "한국영유아보육교육진흥원이주배경부모20명응급처",
+   "title": "한국영유아보육교육진흥원, 이주배경 부모 20명 응급처치 교육…안전 사각지대 해소",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CcGtFWGxncWU2YjQ2aHZvaTVxSHBJazR5RHpHR0Z3R0YwNEZnZmo0Y2hhSDVrTGZzVzBrRk5uUDlUZUR5SEdqWGZMRXBveDFyU0d2WkVWUEhVc24waXRfTUlNczVCR2hGUDhWTllBNTEwQdIBckFVX3lxTE1CcGtFWGxncWU2YjQ2aHZvaTVxSHBJazR5RHpHR0Z3R0YwNEZnZmo0Y2hhSDVrTGZzVzBrRk5uUDlUZUR5SEdqWGZMRXBveDFyU0d2WkVWUEhVc24waXRfTUlNczVCR2hGUDhWTllBNTEwQQ?oc=5",
+   "source": "메가경제",
+   "pubDate": "2026-11-27T02:16:46.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "한국장애인개발원부산센터사립특수학교3곳과장애아",
@@ -2190,6 +4148,22 @@
    "addedAt": "2026-11-27T05:19:26.249Z"
   },
   {
+   "id": "육아휴직중세무사합격수기온라인갑론을박",
+   "title": "육아휴직 중 세무사 합격 수기 온라인 갑론을박",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoRm1ZMUx4TldCTXB2NXZqSWhRSnMyNTZqbTl5R1kwTkNFSEFhR1ExOGhnX3VTU0Q4ZWRfc0UzNHhva1BNTU9TQlpHT204WDdDQVQtYnl5Z9IBXEFVX3lxTE5iN3BCS0pjR3MyTmI2MldVSFB6MlF4alBoSUZmeWY5TVJwSGFQWXNaZ2NZWU5nU2tIbEVwMjFXVk54TDNyZmtfdlpLMlZHZ3kxOHdyeVQ5SHJ6cXo3?oc=5",
+   "source": "기독일보",
+   "pubDate": "2026-11-27T01:31:31.000Z",
+   "cats": [
+    "work"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "경기도가바꾼우리가족의일상세가지이야기",
    "title": "경기도가 바꾼 우리 가족의 일상, 세 가지 이야기",
    "desc": "",
@@ -2288,6 +4262,22 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-27T05:19:26.249Z"
+  },
+  {
+   "id": "왕전초안녕유치원반가워초등학교",
+   "title": "왕전초, “안녕 유치원, 반가워 초등학교”",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ELXhsdGgxdGhFU2Y3OTdDNWpQdnQ3YTBWRUFVaXVpMU5xWnE1TVRjZ0JUN3dEZGZFd1JkaFFYOElQNTZJTXNDVXl6SWxpbE81dW1PYXJSYURtN0dSdUE?oc=5",
+   "source": "놀뫼신문",
+   "pubDate": "2026-11-27T01:16:50.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "어린이집급식시설7곳건강진단미실시조리장위생불량",
@@ -2531,6 +4521,24 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-27T05:19:26.249Z"
+  },
+  {
+   "id": "아이들AI안전학교가정교육과상담지원함께마련해야",
+   "title": "“아이들 AI 안전, 학교·가정 교육과 상담 지원 함께 마련해야”",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iN0tqYllZa0wxdHBXcEVZd2tKV3RkVDBBOGlyNXBVSUtvUTZOU1Z3TVVKTWFobl9VXzhOYlZ5MXE2UVNqVjk2eFFpNEhzVXNlTzc3X3FtQ2VGSnMxSmFfTC1aVjZYdw?oc=5",
+   "source": "한국대학신문",
+   "pubDate": "2026-11-27T00:58:15.000Z",
+   "cats": [
+    "policy",
+    "care",
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "롯데건설수해입은거제어린이집복구러브하우스101",
@@ -2864,6 +4872,22 @@
    "addedAt": "2026-11-27T05:19:26.249Z"
   },
   {
+   "id": "장애인취업부터국공립어린이집운영까지양양군행감서",
+   "title": "장애인 취업부터 국공립어린이집 운영까지…양양군 행감서 쏟아진 현안 점검",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpM3I5d0RPNFpUUGtSRFI2LUwySXBoTUJXVjBrY05DUWs3UXozZlhBcW1CZ0ZBalF6U1diM2V0ekJUQW4tbDlydmlXeXdRYmxGQVlsOXBUX0tZS2VTazlQOWNwY3B1VHlzYkdmb1ptUDNOUQ?oc=5",
+   "source": "http://www.reporternside.com/",
+   "pubDate": "2026-11-27T00:30:38.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "롯데웰푸드닥터자일리톨버스거제수해어린이집서치과",
    "title": "롯데웰푸드 '닥터자일리톨버스', 거제 수해 어린이집서 치과 진료 봉사",
    "desc": "",
@@ -3051,6 +5075,23 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-27T05:19:26.249Z"
+  },
+  {
+   "id": "논산시초등학생200여명참여어린이안전골든벨개최",
+   "title": "논산시, 초등학생 200여 명 참여 어린이 안전골든벨 개최",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vTXJoZ1BnSlExT0FEd1dUbktYRFZPZENfLUc2c0UwbEdTV2xQNXRybDd0Q1RnLUNUWC1lMlh0b184WjlKWDRSYnhNd19lNGJiYXJ0SEZvak5aOGFROTJwNmNwd1B2MHZB?oc=5",
+   "source": "투데이플러스",
+   "pubDate": "2026-11-27T00:22:00.000Z",
+   "cats": [
+    "care",
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "어린이집급식시설7곳위생관리위반조리식품대장균초",
@@ -3519,6 +5560,24 @@
    "addedAt": "2026-11-27T05:19:26.249Z"
   },
   {
+   "id": "정세현경북도의원사립유치원교원처우개선제도적기반",
+   "title": "정세현 경북도의원, 사립유치원 교원 처우개선 제도적 기반 마련",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSjMyUURrTGxZRVFydnFETTdhNzZsWGYtTkFsTW1nZVJwX3M2V0tYMTUwSmJ1RXExc3BGcXlDWnAxUWtVSFlhSmZBd3V6b1JPM0tvUjlSS1Z4c0oxTm9zTVVQVE1DZy1NYWxn?oc=5",
+   "source": "웹플러스뉴스",
+   "pubDate": "2026-11-26T23:05:00.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "경북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "수원시0세아전용어린이집연합회취약계층아동위해사",
    "title": "수원시 0세아전용어린이집 연합회, \"취약계층 아동 위해 사용해 달라\" 수원시에 100만 원 후원",
    "desc": "",
@@ -3649,6 +5708,22 @@
    "addedAt": "2026-11-26T23:15:33.274Z"
   },
   {
+   "id": "탁아소유치원물자공급차량정비하는북한노동자들",
+   "title": "탁아소·유치원 물자 공급 차량 정비하는 북한 노동자들",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZeVBET3FWWkVGQzhKZVBGQXVfTG4xZE1jbHBUUUhHdWJVOXFCX05ibWF1d0Fkbm1vQjlYTE8zdkFEYUpBbVZ6dHRMMA?oc=5",
+   "source": "뉴스1",
+   "pubDate": "2026-11-26T22:33:54.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "출생아수크게늘자지급늦어진부모급여",
    "title": "출생아 수 크게 늘자…지급 늦어진 '부모 급여'",
    "desc": "",
@@ -3695,6 +5770,22 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-26T23:15:33.274Z"
+  },
+  {
+   "id": "경력단절여성의인력손실유리천장과육아부담의이중고",
+   "title": "[韓경제 아킬레스건](65) 경력단절 여성의 인력 손실 : 유리천장과 육아 부담의 이중고",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5semxWV1ozci1qaGFGRGxtSW5pN3hmTTVNaUc2Z1RBZDItUElxbzdfOERfZUctZ1RPVk5JX0tkdTR2bk5oLWowQl85QnAxWGRLdmU1dmZTWndFV1F4aXhMNkNZaE5oM0NKeXc?oc=5",
+   "source": "금융소비자뉴스",
+   "pubDate": "2026-11-26T22:00:00.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "영동군드림스타트과학안전체험으로아이들의꿈과역량",
@@ -4957,6 +7048,22 @@
    "addedAt": "2026-11-26T14:23:08.677Z"
   },
   {
+   "id": "해외직구겨울용품285개조사31개안전기준부적합",
+   "title": "해외직구 겨울용품 285개 조사… 31개 안전기준 부적합, 어린이 제품 유해물질 검출",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoY3p2end3Y2RPS3FwdU8ta3d0WUFlSTF1cFFpQnBnRXljQjBJTXFnS0RoZ3dnYm54RWJZOWtiTUZmUVlOb2hNNDA5dzBiYkoyZHFfT05DSVJUUEplcFdUOWxpT29RZTZOeWpmVjB30gFyQVVfeXFMUHFTZ1BSRDNES0wxVTNRZE9lZ2NibV9menQyaWNzS1Y1aXM5TmVnTFJPN1R2Y1VBbjVjVXVGb3BXN1ctMzdnNU9SaUU4eVBDSExzbW9zOWZxNlhTN2pBcW5NaXV2VDVPYXBqVnF0UDV2c3Vn?oc=5",
+   "source": "테크데일리",
+   "pubDate": "2026-11-26T09:07:56.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "토니모리노동부평가우수기업에선정일육아병행지원",
    "title": "토니모리, 노동부 평가 우수기업에 선정...\"일·육아 병행 지원\"",
    "desc": "",
@@ -5226,6 +7333,30 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-26T14:23:08.677Z"
+  },
+  {
+   "id": "경북어린이안전골든벨왕중왕전12월14일세명고서",
+   "title": "경북 어린이 안전골든벨 ‘왕중왕전’ 12월 14일 세명고서 개최",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Mbk1SMmdxazF5UWlQRHhLbzVfWGxaVUp2dmxuaklJY2VuSWkxLWVjLXlVQ2U2OXV0NHl2OG1qVlRFUE5rbDVkZ2pFMy1LSjA5OWlYS2RzV0g2SEpjd0Y3b3ByR1NPVlRBZEhFUnJ5WQ?oc=5",
+   "source": "경북일보",
+   "pubDate": "2026-11-26T08:18:02.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [
+    "경북"
+   ],
+   "events": [
+    {
+     "date": "2026-12-14",
+     "type": "행사",
+     "text": "전골든벨 ‘왕중왕전’ 12월 14일 세명고서 개최"
+    }
+   ],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "울산유치원학교116곳학교비정규직파업에급식차질",
@@ -7656,6 +9787,22 @@
    "addedAt": "2026-11-26T14:23:08.677Z"
   },
   {
+   "id": "해남군어린이안전대상행정안전부장관상수상",
+   "title": "해남군, 어린이 안전대상 ‘행정안전부장관상’ 수상",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tRkJ3WDRPNFlOX3FVZ2FyZ0h5X0tXYldHLWFaekZKcF9obWo4bjZWZ0xPM1hha1h1UlM1SmlRWFFsaENrNFRqZ0hPeU5wREZxM2ZjMTVBaDRMYlNRZDY5NHBobXhxcEt1eVdV0gFrQVVfeXFMTi1GQndYNE80WU5fcVVnYXJnSHlfS1diV0ctYVp6RkpwX2htajhuNlZnTE8zWGFrWHVSUzVKaVFYUWxoQ2s0VGpnSE95TnBERnEzZmMxNUFoNExiU1FkNjk0cGhteHFwS3V5V1U?oc=5",
+   "source": "전국도민일보",
+   "pubDate": "2026-11-26T05:02:16.000Z",
+   "cats": [
+    "health"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "아주일생활균형우수기업선정육아지원제도확대",
    "title": "아주, '일·생활 균형 우수기업' 선정…육아지원 제도 확대",
    "desc": "",
@@ -7723,6 +9870,22 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-26T14:23:08.677Z"
+  },
+  {
+   "id": "무안군가족센터아이돌봄서비스우수기관선정장관상수",
+   "title": "무안군가족센터, 아이돌봄서비스 우수기관 선정 ‘장관상’ 수상",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45QTNnZ09oTGMtckJ5TFJ2U2VCZmhaek9LaWM5RHRhZk45V0xQRjNxdFlxalhfVTI5bTAzQm05Z1dLTkh1ZS1VZThsclZFQnBBZmR6N2ppVV85YjQ3TTJneEU4QmNoazRPV1HSAW5BVV95cUxNYVJBYjZxcEl3Vm5NblN6YzNPOUNOenM5aXJ3VV9JNWthalJWUXlvQ0lhM0gyMmhQQUV6eHU5anhySUNpSTNNbkZLeFdGemdJM0hLOTZrTmxhRGpwaGhhZWpxTWl5TFIxTExoN2ZJUQ?oc=5",
+   "source": "무안신문",
+   "pubDate": "2026-11-26T04:58:01.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "세종달빛어린이집아나바다장터수익금기탁",
@@ -8622,6 +10785,25 @@
    "addedAt": "2026-11-26T04:21:02.299Z"
   },
   {
+   "id": "대전시교육청2026학년도놀이통합교육학부모연수",
+   "title": "대전시교육청, 2026학년도 놀이통합교육 학부모 연수 운영",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oeUQ5djAtVG5Xb1JScGJFMng5a2xER0RTSW9Ja3lnVmdHYjZPNTladGExdGg1OE1zMHlIcUdrM043VTRodWJsNzgzVlB6S2o0OElGWFFqX2JJc1N6eHVWWGN6NDM3QXJycDBLWV9KU19oYXFUZ2F30gF3QVVfeXFMTmh5RDl2MC1UbldvUlJwYkUyeDlrbERHRFNJb0lreWdWZ0diNk81OVp0YTF0aDU4TXMweUhxR2szTjdVNGh1Ymw3ODNWUHpLajQ4SUZYUWpfYklzU3p4dVZYY3o0MzdBcnJwMEtZX0pTX2hhcVRnYXc?oc=5",
+   "source": "뉴스프리존",
+   "pubDate": "2026-11-26T02:22:55.000Z",
+   "cats": [
+    "care",
+    "outing"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "캐논코리아일생활균형우수기업선정유연근무육아지원",
    "title": "캐논코리아 '일·생활 균형 우수기업' 선정...유연근무·육아 지원 성과",
    "desc": "",
@@ -9174,6 +11356,24 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-26T04:21:02.299Z"
+  },
+  {
+   "id": "초등학생단원45명이빚는연말의화음세종사계절하모",
+   "title": "초등학생 단원 45명이 빚는 연말의 화음… 세종사계절하모니합창단 정기연주회",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ta0dJX2w1ejc1OUhYbDlMdEJrQUNZR2dGcEZLUEs4UkRXVG5JS0JiTGxoejg2MnZTcXZENkJXNUVGUkMzVVkwOUpqXzJWUW1feVM5endmQlhDT2hKZl9GVXpwQ1dweHg5M3fSAW5BVV95cUxQVzBpNGtFWFJmN0N0Z0hZZUctV29hMFphbGM2NlRzX3ByZTJCNEpqZXo5SktodmVXcm9JLUFNVzE2VXUtMWNCMm5uOVRsdzBOSHRjYThDUmdlVDZHTUlmTXJFT01hc1dkMTMtYUNpdw?oc=5",
+   "source": "뉴스피치",
+   "pubDate": "2026-11-26T01:54:04.000Z",
+   "cats": [
+    "care"
+   ],
+   "regions": [
+    "세종"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "이천시장호원읍두루말어린이집아나바다행사수익금기",
@@ -14796,6 +16996,24 @@
    "addedAt": "2026-11-25T12:41:31.788Z"
   },
   {
+   "id": "지역아동센터대전광역시지원단아동가족의변화와지역",
+   "title": "지역아동센터 대전광역시지원단, 아동·가족의 변화와 지역사회 협력 사례 공유",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fR3R5UkVrdjczSVN4V084RUgyakRnSGlXYkRTeTdSRnotOEluV0czdjVqZ2pNbzdobmtBV2NXZ1ZCWW9ldkxLRmFROUN5MlBMZmxwTnhvbnI2TkJlX2U5Uk5vSdIBbEFVX3lxTFBOdU1HNENMd0hUUDJQenhReVJjczZYcGYyT3Rrc01vVE4zXzJqWUNkM1RDZkZqeUd0ZnpLOXcyY0cxekJXYWRBVVgyS3Z2TVVUZHBKWkNzN2xyaDhMVzZ1c2xqU3hyeXBpa3V2Sw?oc=5",
+   "source": "소셜밸류",
+   "pubDate": "2026-11-25T06:40:27.000Z",
+   "cats": [
+    "policy"
+   ],
+   "regions": [
+    "대전"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
+  },
+  {
    "id": "센텀해운대유치원나눔바자회수익금굿네이버스에기부",
    "title": "센텀해운대유치원, 나눔 바자회 수익금 굿네이버스에 '기부'",
    "desc": "",
@@ -17465,6 +19683,24 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-25T03:01:01.752Z"
+  },
+  {
+   "id": "충북충주시국립충주기상과학관아이랑나들이가기좋은",
+   "title": "충북 충주시 국립충주기상과학관, 아이랑 나들이 가기 좋은가요?",
+   "desc": "",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1Vm9LZkFOVHBMV1ZfMVg2aGNHWTAzeGxxTWlwdHl2QmpZM1B6b2FUQXQxb3RBbWp2MzQ1UW5ybjJNeGVBcW96M0FUaFRhckdsZ1hR?oc=5",
+   "source": "베이비뉴스",
+   "pubDate": "2026-11-25T00:00:00.000Z",
+   "cats": [
+    "etc"
+   ],
+   "regions": [
+    "충북"
+   ],
+   "events": [],
+   "amounts": [],
+   "via": "google",
+   "addedAt": "2026-11-27T15:32:33.214Z"
   },
   {
    "id": "옥천군24시어린이집돌봄사업2년연속선정총986",
@@ -23633,2292 +25869,6 @@
    "amounts": [],
    "via": "google",
    "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "충남예산군아그로랜드태신목장아이와가면어떤가요",
-   "title": "충남 예산군 아그로랜드 태신목장, 아이와 가면 어떤가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91aWw0MEIxUXVZZDJ4YTVYQzFEV0s2aXYxY2hTb0hWQjM5RFhvckNKTEV4SG5BV0gzcjd1ZEpwaWhzd0xHR1IwYkxSVmEyNE9MMHc?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [
-    "충남"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "전남무안군파도목장아이와함께가볼만한가요",
-   "title": "전남 무안군 파도목장, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40WHc4VWJaZXk0bXNGM2RORWNGc09pVFJLcGpDVmtRR0l6ZFJlSTNBd3NaRVJMT282akZjbndYTmpVTWZXOERaMnJFY3B5T3pvUnZj?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "전남"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "강원평창군한국전통음식문화체험관아이와함께가볼만",
-   "title": "강원 평창군 한국전통음식문화체험관(정강원), 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52bGpneGJRNmZJalczckQ3WmVmckdyWHBBLU92cktsdThPcWtKamJlUE5PZUNOUXlpTzBDVDQwZzBtb3JZNUFidlRDSWt1d2hxSk5B?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "강원"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "경기평택시평택삼촌농장아이와함께가볼만한가요",
-   "title": "경기 평택시 평택 삼촌농장, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwNms0NnZ2NGR5dDZiQVB6SlQ2Szc3UHFOb0N0VGVUeXNlWF9reUhwaFFFVWtRbG1lLWFoQ0F4Q282UWlpVGZncFFMa1R6V21IRjRV?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "울산남구울산대공원동물원아이와함께가볼만한가요",
-   "title": "울산 남구 울산대공원 동물원, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EY0huemhpWmMxR2VKOEtMeGwxM1JfdXhYRjZwdndRcFA2SHFNVTZTMGx5NWt2eDhEWjNaaTdhcW5uMWYwTjFhOUJfTHFPTXd5RVI0?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "울산"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "세종도토리숲키즈파크아이와함께가볼만한가요",
-   "title": "세종 도토리숲키즈파크, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55YTQ2LWNBa25ENTc0R09VTkZ2OHJUTHQwcWEtS1NUTFRONVN0dmVMQ2dVcUxLT2tUT011R3RRamlCSTFraHVKVkM4VVByZHJ1UG1Z?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "경북청도군청도소싸움미디어체험관아이와가면어떤가",
-   "title": "경북 청도군 청도소싸움미디어체험관, 아이와 가면 어떤가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZamVPYVd3MHFUUzFaV1dOalI2djdtcVNnTlVsRi1BSWFvWGpDanNqY2I2ZXFJX3kyZDM4TTRqZVFuYjc0TG1tRUs1bHJGWVhXcEZB?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "경북"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "대구수성구대구어린이세상아이랑나들이가기좋은가요",
-   "title": "대구 수성구 대구어린이세상, 아이랑 나들이 가기 좋은가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rb2NuSGU0ZURLckxpaGNRV3FpeFRnUHNpMzg5UHdwY1I0NUgzU2ROYVhtR1NESEZUUEZPc2RsN2pySi1XLXMxeU9PdHVUc2w1VFE?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "대구"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "울산중구울산중구어린이역사과학체험관아이와함께가",
-   "title": "울산 중구 울산중구어린이역사과학체험관, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ERk85aUtZZGZSXzRWV01RZDIyRU5vUVlyZ1Iwb0FLZGFZS2ZvaGNMT3BKb2tZWUdWSmEyblNBZC1Wd2ZsNFBOYXBDYWpReXFaSUZN?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "울산"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "대전서구대전곤충생태관아이와함께가볼만한가요",
-   "title": "대전 서구 대전곤충생태관, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iOGpRREpscFFWaUoteV9HX1BtTlFGeXQ1cHdyU1NOOEZsWDQ0Rm54RDZrRkxlRi1ldlF2NGp6NmVBcUkxUFlOMjRWVEhRNlp5azZN?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "충북충주시충주고구려천문과학관아이와함께가볼만한",
-   "title": "충북 충주시 충주고구려천문과학관, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Jb3IxVUUzNVJPcURwd3d0WE1odUZhM1d2eE85SVI4ekFBeWkyQmF5ZHFQYlhsWGxnbUQ1WnNXVmRuM0NaaWtQdHRqTkdqV2hJZ29N?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "충북"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "대구달성군송해기념관선비체험관아이와함께가볼만한",
-   "title": "대구 달성군 송해기념관 선비체험관, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wVVpxSFZKZzBIOXFfcEJkTl9XX1k3Skp1V0R5Zzl1enFoWmVBelloRTQzUnI4ZEZyQjZacXlSbVo5M3ZpakotN1RPaE13N1hrQkVN?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "대구"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "제주서귀포시뽀로로앤타요테마파크제주아이와가면어",
-   "title": "제주 서귀포시 뽀로로앤타요 테마파크 제주, 아이와 가면 어떤가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pamVyMjJmamp1RHh5N0VaOTBPWVZZek1WbUhqWF9QalpsN3RFSHc1VERLUVRjQ1V1T3h0a0dEcHRIRHBkVnUzRjZuT0VyRGs3eTZF?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "제주"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "경북구미시구미과학관아이랑나들이가기좋은가요",
-   "title": "경북 구미시 구미과학관, 아이랑 나들이 가기 좋은가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zN0RZeGg2a2IxcEg5RDB2N3FJVXNpU2J5ZVdyVEl4LU9yeUc0MVhGZ3V6b2pQOWZqdFoxN05WUE85STJVU19yTG4tTENLd0IxODZR?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "경북"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T03:01:01.752Z"
-  },
-  {
-   "id": "제주제주시성이시돌목장아이랑나들이가기좋은가요",
-   "title": "제주 제주시 성이시돌목장, 아이랑 나들이 가기 좋은가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwUTZtMXp0NWdaMDMxMmhhdi13dVptRlBUZjgxOEpRWGMzTjdfZnlCdnkwZG00d291c3N1V0VGMVhLU3hlLVlrcmZPampsMXVFOFl3?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "제주"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T03:01:01.752Z"
-  },
-  {
-   "id": "전북전주시전주동물원아이랑나들이가기좋은가요",
-   "title": "전북 전주시 전주동물원, 아이랑 나들이 가기 좋은가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSFB5YWpMclcycnFsUWpERjNTcllpR01HSGxfSkhNMHktVEZEZXdHUUJYWWRkcXB0OUNsNy1VZnl6OHpndHd2ajRGT3hNYVJ1Unc?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "전북"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T03:01:01.752Z"
-  },
-  {
-   "id": "인천남동구늘솔길공원양떼목장아이와가면어떤가요",
-   "title": "인천 남동구 늘솔길공원양떼목장, 아이와 가면 어떤가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80cFJjVnd5dDluWEs3ZmtuX1M4bU9pMVlPRnFRS2hZRVFaLUFldndnR29DeWVtLTc2dGVkUDZCbDNxakR1VXMtR1ZfR2xEZExVY2hj?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "인천"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T22:27:05.080Z"
-  },
-  {
-   "id": "경기화성시아기농부아이와함께가볼만한가요",
-   "title": "경기 화성시 아기농부, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91My1rRm5aR0loT25qdEMtZFRBUnZ6d2QwRjFpTHhrM25SSkVTTktob3NMZEp0TFJfZFRIRE1ZZENHX2FJdEptSVQxNHpoelQtREww?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T22:27:05.080Z"
-  },
-  {
-   "id": "경북영천시말문화체험관아이와함께가볼만한가요",
-   "title": "경북 영천시 말문화체험관, 아이와 함께 가볼 만한가요?",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vWnFZVlhaNGxUWllLWExnaFlXZVk5aERjR0tDTy1aQURjeWZvTWRyRWJIOWpfUk1wcWlxdVozTkpQS0xHZFpqRWIwdFo2Y0xoZlJR?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-24T00:00:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "경북"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-26T04:21:02.299Z"
-  },
-  {
-   "id": "남해군아동위원협의회11월달빛지킴데이활동경찰연",
-   "title": "남해군 아동위원협의회, 11월‘달빛지킴데이’ 활동:경찰연합신문",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55bFVRQUw4RWZOOE5NYlc2cXhiRXZUSDNuQzJJMVNLWGxieVBOa3FWcGo4WnlaQ1g1ZW9KWnNzOFpFZ2doTm84aUI0V3hQZXFjRngzd1NQRjdSUlFJYUd5VG9tVG9lbTU2WUZTVHpUT2U1QmZveEhPStIBbEFVX3lxTFBaSHRjeEdYdXBEV2JuYkdVXzcwd1cxSVlNNkNMdUttZXZQTUZlNUxrVjQ4RlBvUnVOc3U0YTFsSVFYQl9EaEsyWWtVSmZqRGxtUENPQW4zREl5MHhQeW02T2RiQlYwUXRvMzZHag?oc=5",
-   "source": "경찰연합신문",
-   "pubDate": "2026-11-23T23:55:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "대구북구의회어린이등굣길교통안전연구회연구용역최",
-   "title": "대구 북구의회 ‘어린이 등굣길 교통안전 연구회’ 연구용역 최종보고회 개최",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tLV9Sa3BxdGpsbDF4Z2JDOVZ2U21qenhKUkJqZnRYcm9YNXl3OGM1M08tR0p6VDd0MHNXY3J1QU5WSlFDb1BHdGlMYnQxQUtqck5wYU9SSzdjblF6SDdLZGtXVTZrWU03?oc=5",
-   "source": "강북인터넷뉴스",
-   "pubDate": "2026-11-23T23:54:19.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [
-    "대구"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "KB손해보험이주배경산모영아20가구의료돌봄지원",
-   "title": "KB손해보험, 이주배경 산모·영아 20가구 의료·돌봄 지원 나서",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE95Nm5sMDJ2enVmeHYtQTFFWHhrWVNGSUpCdm9hak96U0dhbTFkZXFoRXpFWUNrMW5aV1BBV1pjRTE1ZVVIRGc?oc=5",
-   "source": "시사코리아",
-   "pubDate": "2026-11-23T23:50:00.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "기아대책KB손보이주배경산모영아지원사업맘이음추",
-   "title": "기아대책·KB손보, 이주배경 산모·영아 지원사업 '맘이음' 추진",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WejUxYjgzS0d5Rm9zcjV4NEplNVJmal84bWxZSE9rYXRSMVRBR3RqVk0ySFduWG5YZVZGLXBGZjdMa0ZqLWpUbGh2QjUxcmRDTVlNUk9yN3F5Zw?oc=5",
-   "source": "파이낸셜뉴스",
-   "pubDate": "2026-11-23T23:44:41.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "중소돌봄기관퇴직연금수수료낮춰KB국민은행기업형",
-   "title": "중소·돌봄기관 퇴직연금 수수료 낮춰…KB국민은행, 기업형 연금 체계 개편",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11a2QwSEF2NWpTRmpuckpWcktyd3c0VWw3LVN1LWZpUURuRDA1SEhsbHZqNEtfWlhNZVdLQ3pzRTY5VzlQSkIwdlJFUWxHOTJhZXJZNDlGQWw0LUo1b3JwUHdEMGlRZ3EwYVhhM1VjckbSAXRBVV95cUxNWS1kdXlUenJTa2UzQ2xMS0JUbWN1OVdPUWhEcFBJOXJOblUwU2RLVVBBYlYydF9nd09TUldnX1BEa2xtNEpzVElIbVlBeEYtdG1ZamNyWEp3cldnby12UlRrM1E5dzhNTG5RTVlvYTV3a2p3Zw?oc=5",
-   "source": "더페어",
-   "pubDate": "2026-11-23T23:39:32.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T03:01:01.752Z"
-  },
-  {
-   "id": "아이돌봄학교만의몫아니다제주대충남교육청초등돌봄",
-   "title": "\"아이 돌봄, 학교만의 몫 아니다\"…제주대·충남교육청, 초등돌봄·교육 해법 모색",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qTjd1Ml9WTHJtZElHaTVDY19ndGYzb0FjTVUzd3ZOQThkNTBIQk02WFl6SzBvaG9GSWNsdUJaNWhMQTJHLVN3SHFSMVFwWnd0U196QW5YRm5VWW53RkVySVdVMVllbkM3Rkd4Tw?oc=5",
-   "source": "뉴스N제주",
-   "pubDate": "2026-11-23T23:12:18.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "충남"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "영유아건강검진은8번모두무료",
-   "title": "[카드뉴스] 영유아 건강검진은 8번 모두 무료",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMzhVM2MyaDZacFpnd3c1LUItV3RxRlQzZFM3M0taTERsRUdJdnlsQUs3T3hMdnZmbTJoV2w4TmRYN0FERzJIdjF5RUgwWjR5RkluSXRtYXR2dGdXVFJjQ1BGVGhFZnhrY0NESA?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-23T23:09:17.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "육아휴직급여첫3개월은월최대250만원",
-   "title": "[카드뉴스] 육아휴직급여 첫 3개월은 월 최대 250만원",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yOWlDcENuSFZzeEtzSS1aMHBUeFRxNjA3aGxmM3AwSjFwU08tOG0tUl9lUXV6Rmw1YzVRRm5RTUM1bkp6X2psRjBZNngxUEVYYVBoQUdRSFluYjBGc1dWVHlzempfdGJoUm1reQ?oc=5",
-   "source": "베이비뉴스",
-   "pubDate": "2026-11-23T23:08:36.000Z",
-   "cats": [
-    "policy",
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [
-    "250만 원"
-   ],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "이진웅중구의회의원어린이집아동학대조사지연의혹제",
-   "title": "이진웅 중구의회 의원, 어린이집 아동학대 조사 지연 의혹 제기",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yVUlEX0JDRzZKOXZ0aXZyTDBuYzlNR2ZidUFiOVF1andRYm84enRkTDJ3WDhjMDVwVmEtRS1tTmxEVFQ4bzd0dTZsQ2RfQ3NXUDIyMw?oc=5",
-   "source": "타임뉴스",
-   "pubDate": "2026-11-23T23:07:32.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "안동고향사랑기금으로사립유치원식판세척시범사업",
-   "title": "안동, 고향사랑기금으로 사립유치원 식판세척 시범사업",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00c2hELU8xNTFURy1ZREhXVjE0c1J1TE1JWHBHQU9QeUNVTUlWdWUydkNWMUxZMEV4TzMxSG5ETndzeUdzUHdkdThBRTRwdmNxSzVTLQ?oc=5",
-   "source": "세명일보",
-   "pubDate": "2026-11-23T22:48:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T03:01:01.752Z"
-  },
-  {
-   "id": "성남시학교학원가어린이기호식품조리판매업소487",
-   "title": "성남시, 학교·학원가 어린이 기호식품 조리·판매업소 487곳 점검",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYMS1rQlR2OHNKY1FmNTdNSURZZjY0dndPd1A4aTdfZ0tadW1HakZ1Y0xGTmZ1b1ZEZUJXQUhrT1pScldzQzQwMjdOMmJ5aExseV9jazhkVVhINFkzZElCdlZQU0g?oc=5",
-   "source": "매일일보",
-   "pubDate": "2026-11-23T22:36:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "아들열경기로유치원서기절이현이스모키화장한채화보",
-   "title": "\"아들, 열경기로 유치원서 기절\" 이현이, 스모키 화장한 채 화보 촬영장 뛰쳐나간 사연",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TdjVvYXN5eVJNa1FMMDZINEU2LTlFMTJqb3hXUmc1bFE4czhyMVVYVG1yQ3owa2ZMU2NtM1pKMFNaX2ZwbTJyQmJXT2pmNjJEUEw0bE11Ti16Z1A2Skw2eGtfZE51QQ?oc=5",
-   "source": "마이데일리",
-   "pubDate": "2026-11-23T22:32:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이현이워킹맘쉽지않다화보촬영중유치원서기절",
-   "title": "이현이, ‘워킹맘’ 쉽지 않다..“화보 촬영 중, 子 유치원서 기절” (‘말자쇼’)",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtUzVhT19PeDR2VVZGOHVtX05mYm1XM3RUd0E0QmZXUVh1bnVBLUhxUWwyRkFBamNEYUhzMlpOS3lnR3ZUWnQ4NjFqLWRDWlczMHQtNQ?oc=5",
-   "source": "OSEN",
-   "pubDate": "2026-11-23T22:17:00.000Z",
-   "cats": [
-    "care",
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "계획에만머문육아종합지원센터건립서둘러야",
-   "title": "“계획에만 머문 육아종합지원센터, 건립 서둘러야”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95ejJKWFhRMThWTnVOYnZuc3hGSUlvQjU0dzNuWVQzUnA5S3hwMTFKVzlqTjRKWmlpbWF3dzBuLTJVbER6NVZicTEzUTJyTXE2OVFEbFNGVFZVeUtBem5hT2hyV1RVekNo?oc=5",
-   "source": "영주시민신문",
-   "pubDate": "2026-11-23T21:48:52.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "꿈씨앗어린이집푸드트럭판매수익금기부",
-   "title": "꿈씨앗어린이집, 푸드트럭 판매 수익금 기부",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kc2l5bHBBWTJJeFo1UlBqa2J0OGxlakNCVDUwSTJuMnJWQjFXNjJnRmt4R05rVGhrOTRJNkV2WWw2UVd1cVlEaUwzVjNOVlY3YmVQaWwwai1KYlBqZ2FqU2Fack1uRzdhVEROSg?oc=5",
-   "source": "메가충청뉴스",
-   "pubDate": "2026-11-23T21:45:30.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "성남시학교학원가어린이먹거리판매업소487곳위생",
-   "title": "성남시, 학교·학원가 어린이 먹거리 판매업소 487곳 위생 점검",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaMXR2ek5hbWNnYldCcHU5Mi1USkNvZGJQSFNOVkEzZk5nRGZycnZoZEw0WWtiVlduWVMybjBkQmd0TmxwenlkSkxVOWJtLWt5clRNRHY5cm5TdHRYbURvYVBGRUliTXRyOXVwX3VfYw?oc=5",
-   "source": "서프라이즈뉴스",
-   "pubDate": "2026-11-23T21:34:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "원아에깨물린교사가아동학대또피소",
-   "title": "원아에 깨물린 교사가 ‘아동학대’ 또 피소",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRRFBNUm4wLXh5a1B1cHVvaDFIaTZ3bnIzbWFPaFM0NS1WcFg1VFQ5c0RHTHZPOU5Wbm5zYnBJSEN0V2JXWHlQWHc1a1FHbmM5SEFlZkx4eFZuN3VqSzZKbzBMa1lZblRvem5valJ2ZWw?oc=5",
-   "source": "매일노동뉴스",
-   "pubDate": "2026-11-23T21:30:04.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이진웅대전중구의원어린이집아동학대관련관리감독적",
-   "title": "이진웅 대전 중구의원, 어린이집 아동학대 관련 관리·감독 적정성 집중 질의",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiQUEzaEpTakxrR19rUWRNcEtKbVZFMklvb2pkX0sxUGFsVWNJaVhHT2pyUjBHNERmLWQzaG9WbDdvd0tyZ1FtZGdRTmRBOU1iNnJicnB6dHdKTUZGUzdQd1BqNUVSRzdsV0E?oc=5",
-   "source": "뉴스티앤티",
-   "pubDate": "2026-11-23T21:30:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이현이영어유치원다녀도문가영처럼영어유창해지지않",
-   "title": "이현이 \"영어유치원 다녀도..문가영처럼 영어 유창해지지 않아\" 소신 발언 [말자쇼][별별TV]",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTQ2azIzTkN5eThYU1p2WHVEOEhYOHF6c3A2amJKZFN3UVZZWEU2cXJSckdhLXlMdm9idFZ0VUczZEJIQUJ1dlJDQk1JMm5vN0cxd0FfN3A0QlIxNGNHcjE2LXlTejNxMGFQRDl3NFFlTUdBeXE5blVYLXh5bUp5VQ?oc=5",
-   "source": "스타뉴스",
-   "pubDate": "2026-11-23T21:00:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "인천시교육청2년연속돌봄방과후학교우수사례대상배",
-   "title": "인천시교육청, 2년 연속 돌봄·방과후학교 우수사례 대상 배출",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85YTNIWWhfQ3p2OUxsLWpqUHh0OWhvY3VUMndiTmliZngxdERxeF9ucXpFZjg0WHNUVE00bTNfTnNKc2RVZk81bk9RZUtHSUl4aVZENGpQYjZ1dVBlSlNQanlpNm5vZ2FEaHc?oc=5",
-   "source": "컨슈머타임스",
-   "pubDate": "2026-11-23T20:25:15.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "인천"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-26T14:23:08.677Z"
-  },
-  {
-   "id": "물리치료사5명중1명휴게시간대기로갈음쉴곳없어연",
-   "title": "물리치료사 5명 중 1명 “휴게시간 대기로 갈음·쉴 곳 없어”…연장수당·육아휴직도 사각지대",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTmNQbHBNeUNZQVRVSDFEZFpYU2MxeHRXOWwzT21yeWpQU0o0U3E2VFFySVFrMUEwOVoxN2QzZ1gtNDV3UW5yb3piaTMyYWhEb1owYnp4UWo3YXJ4RXdTNjc4WnFmcTBpWXJ0Q1MwOGQ?oc=5",
-   "source": "medicalworldnews.co.kr",
-   "pubDate": "2026-11-23T17:17:00.000Z",
-   "cats": [
-    "policy",
-    "work"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "인제군어린이집연합회2026보육교직원품질향상프",
-   "title": "[포토]인제군어린이집연합회 '2026 보육교직원 품질향상 프로그램'",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rR0prU2w0a1l0dF9kVUJtVm0wbjVyY3lyVnNlWV92Z295Wnd1aTNnMkJDM0oxSkRrR1djSTdDMWljRnprYmV5SVlsWjBXRFJ4TGdJTXJ6eS1Ec2lPeDUtS1dLaXF6aFpiczRB?oc=5",
-   "source": "CNB뉴스",
-   "pubDate": "2026-11-23T16:30:07.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이현이두아들영어유치원보내국공립적응못해",
-   "title": "이현이 \"두 아들 영어유치원 보내…국공립 적응 못해\" (말자쇼)",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lR1FBQnVFVF9NUTNYeDlTdlJqRGowVXJ6Zjk3S201ZkFLNk15ak4xMERrTzZ5UXZjOFNHM2ZkbTh1cVpGMzBHVjRvckd1bWszckNiTlEwd2N2VW5XMkt2cA?oc=5",
-   "source": "iMBC 연예",
-   "pubDate": "2026-11-23T16:05:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "광산구어린이집아이들의눈높이로만나는초등학교뉴스",
-   "title": "광산구, 어린이집 아이들의 눈높이로 만나는 초등학교 > 뉴스",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pWnViS1luMF9DRGlxdEZQN2JLTld5aEhiZnU5ZnR4LTV1TWd5Q0ZpZUVINWRaX1hoRGh2M2RYamh1TXVkQ0o2Z05rZw?oc=5",
-   "source": "더코리아",
-   "pubDate": "2026-11-23T16:01:36.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "위즈키즈어린이집바자회수익금기부",
-   "title": "위즈키즈어린이집, 바자회 수익금 기부",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85aVBscG9IZS1KS2tiQjZ1azlZYWJJbG12RXpSYjFGMmFnZ1AydWxsN2d4TTdTMDNjbk8tYloySnFwMDdpSmVDaHRSMlVXSndKQVJWbFNraTk?oc=5",
-   "source": "대구광역일보",
-   "pubDate": "2026-11-23T16:00:17.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "광산구12월4일까지아동권리체험형미술전개최",
-   "title": "광산구, 12월 4일까지 아동권리 체험형 미술전 개최",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE83U0F0RHNKZ0hVTU1VQldvSWl3OFNtVnlHMTA1ZWJ6SmdEVkV5SnN3NWJra0JHcVA2REFBRFpMdnhHNVRK?oc=5",
-   "source": "일등방송",
-   "pubDate": "2026-11-23T15:16:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [],
-   "events": [
-    {
-     "date": "2026-12-04",
-     "type": "마감",
-     "text": "광산구, 12월 4일까지 아동권리 체험형 미술전 개최"
-    }
-   ],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "동화나라어린이집아나바다수익금기탁",
-   "title": "동화나라어린이집, 아나바다 수익금 기탁",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QSjJ3VUY2MkM5bUwwczFmOGVtTlN1ZTNBR0VwNWhqLXRZYnZ3Zm1rVFQ0bEF2Rl96NTlqOG1IVXhaemFpbWhpMlo0TE05NExkVW5Zc25MMkdZRE1oX0MtbTRmMGNmel84VEVESnZJaVgtZVE?oc=5",
-   "source": "세종시민일보",
-   "pubDate": "2026-11-23T15:10:49.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "공진혁시의원민간어린이집지원간담회",
-   "title": "공진혁 시의원, 민간어린이집 지원 간담회",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aUzZvcFNJVXJFYWg3OUVmWVlWRTdER1g0dTRsbXA0cjBmbWFRN2oxeGNuUDh0YktHQVd0NXpaQzNiSTdoSkRZbHpNQ0hUZ0lnU0d5U0JCUlFNT0p5bXdBNndCaVVxUFV1SzR0cw?oc=5",
-   "source": "경상일보",
-   "pubDate": "2026-11-23T15:00:02.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "아이와가볼만한곳대전대덕구대청공원유아숲체험원",
-   "title": "아이와 가볼만한 곳, 대전 대덕구 대청공원 '유아숲체험원'",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54LTZiS1MzVmpCN0F2UFBGX3lMYTZUTlR6ZXhaWEZoSi1tUk83V3dJai0zaXh6VDdYZXBmc3BBZEpBdGNiQnhFdEJwY0w3V2VqdGdZcmJHdVZ2UGRCQUJ0a0dQdTFzREQxT2c?oc=5",
-   "source": "비알뉴스",
-   "pubDate": "2026-11-23T14:46:55.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이현이두아들모두영어유치원출신국공립등원거부탓영",
-   "title": "이현이, 두 아들 모두 영어유치원 출신 “국공립 등원 거부 탓‥영어 목적 아냐” (말자쇼)",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQVd6c2kxdzNieHI3VUFxTWVNRkZ2WkpMcEZhWWpVNF9tLUljWXFsbkRWeU0wcko4MHlkRTdmVGgxUXd4VEJmSGViWDN1c0lwcW82cWRRUGVUOVVoTTVBQ01wNUc4UXlv?oc=5",
-   "source": "뉴스엔",
-   "pubDate": "2026-11-23T14:38:29.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "이현이아들유치원서기절화보촬영중단",
-   "title": "이현이 “아들 유치원서 기절…화보 촬영 중단”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXN5Rm5POG42VzllS2Y5eDRuRElMNTlDUWFocUtSWlJ3YURpSFEtdENoRlVRUE1NTGVHX0FiZzl6WTB2dWZVYVV2MFpnaUJ2aGFVc2dONF81NDhPMzBET1dLRVF4UVFQSk1UTUhXbHFQQzhMandsOTV2VzlRTlpRUWxQS3g?oc=5",
-   "source": "www.twig24.com",
-   "pubDate": "2026-11-23T14:38:17.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "담양공립병설유치원우리모두가금메달이야뉴스",
-   "title": "담양 공립 병설유치원, 우리 모두가 금메달이야 > 뉴스",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNODgtNTk4cUpNc0V0aUNMaGVaZk5oWlFuX1dhQXV2NElvRU1TSFFQZks4NnFOQXd4d2p0RURHUkpyWTVUcVk0dTdzNA?oc=5",
-   "source": "더코리아",
-   "pubDate": "2026-11-23T14:14:12.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "여주시어린이집연합회보육교직원164명대상힐링특",
-   "title": "여주시어린이집연합회, 보육교직원 164명 대상 힐링 특강 개최",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tQ2hWeGhUVjlpQUlLcldkSGUxRFRheVRNMWdDclBlWnI1dEJ2b1RpU01NT0Qtcl8yUGhNLTZ1ek1qempwODZOY3RSLTFjY1Q5TnZ5c3VHSTkzakg5LTF4dWFSTGFBSVJuYUVfT3huUG1zZw?oc=5",
-   "source": "웹이코노미",
-   "pubDate": "2026-11-23T14:05:54.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "김남희강원도의원사립유치원교육환경개선비지원조례",
-   "title": "김남희 강원도의원, 사립유치원 교육환경개선비 지원 조례안 발의",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yNDVvX2R5V1AxRG5OZ05SMGJaWmV4STlwZXRnYldEWmZwem1mZUxlRUl1TERmZ1lwaGJsRGxxX3RwT05kNmllcjQyRkFEMjZCZHhOdEpvX3dOd0lQZGlOMHBwZXIzSVVQU2ktdzM3Ui0zQQ?oc=5",
-   "source": "웹이코노미",
-   "pubDate": "2026-11-23T13:59:01.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "강원"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이현이두영어유치원보낸이유국공립적응못해거부증생",
-   "title": "이현이, 두 子 영어유치원 보낸 이유 \"국공립 적응 못해 거부증 생겼다\" ('말자쇼')",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDZvZmVlVVl1OG5zY0dTd2xldWFsdkdpMmZaSGZ3dUFxc00teG4wVWY4V2pMelNxMTFJQ1ZPd1lBZlFGTnhLNG9tUUxiSzloRGd6YklBZ0lPZmJ5aGhfZFdLZ09IOWZBQXM1dUZQZ0VjZWhRaXNCQVotbTZYbzUySUtjY2I?oc=5",
-   "source": "스포츠조선",
-   "pubDate": "2026-11-23T13:56:51.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "제주관광대학교부속어린이집고사리손으로모은사랑의",
-   "title": "제주관광대학교부속어린이집, 고사리손으로 모은 '사랑의 저금통' 전달... 따뜻한 나눔 실천",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VekIwbVJ6RGhUZzIxMTdhbzJ3cGtnaXZHVl83SjQ0WTgzUDM4dmczd0dzOWlMSC1BTEVRQWtpcTlFQ2hyLWNRMnNzbkQ5enFXckwwdUhPQmJ5UmUxdjd2RHNpcXZDMnVSTENTVQ?oc=5",
-   "source": "뉴스N제주",
-   "pubDate": "2026-11-23T13:45:44.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "제주"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "꾸러기어린이집고사리손으로모은사랑의저금통전달따",
-   "title": "꾸러기어린이집, 고사리손으로 모은 '사랑의 저금통' 전달... 따뜻한 나눔 실천",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHWDZnRVZMM3NVREpzdDZwZm1IZ0JrWXZrbW9XYUxWekRwNHRZb3FqNTRILXBkS3JmMjl4V0VHcFdGcnN2ZzlXaDZRX0pVenhQRnBIZXZidk5XRTByTUM0RDB5bVJHWTRlOEpfMg?oc=5",
-   "source": "뉴스N제주",
-   "pubDate": "2026-11-23T13:44:50.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "대전중구어린이집아동학대대응논란CCTV확인에4",
-   "title": "대전 중구 어린이집 아동학대 대응 논란...\"CCTV 확인에 4개월\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91WkV5SnpuZW02bDRScXJmWEJPS0RLdnVtZ1U0WC02Tl9HRUw1akMtX3RraXFVNlNKWEpIcG5Kd0hJVVk4ZWZRaVJSTVlPX1FZOGFONkFHSWxYWl9HekwyaXdBVTk5ZGVObGNadQ?oc=5",
-   "source": "충청뉴스",
-   "pubDate": "2026-11-23T13:42:05.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "아동학대CCTV확인에만4개월대전중구후속조치미",
-   "title": "[행감] \"아동학대 CCTV 확인에만 4개월\"...대전 중구 후속조치 미흡",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByZjN4VkFnNlVkY2hNQmhjRWdpdkM2alVJWi1DdEtHVnkzQUVqOFc1UFl4bDhLU0tUSjc1REZGS21DeDZpVTBOb1lqT0tfWVdFTnVjcVJxNjB4enNXUnJjbXVRZGdZSmc3YjFN?oc=5",
-   "source": "현대경제",
-   "pubDate": "2026-11-23T13:33:42.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이현이아들유치원서기절해화보촬영중단",
-   "title": "이현이 \"아들 유치원서 기절해…화보 촬영 중단\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kU3FCempsbDBacHBaeXNCTlVMcjhxOF96TE03eTlCSTlCSGhYLWR0blg1TlR4SEx3SGlObG5OcTdfOVhpamhQWmxYd1pJUFF5X3k5b01yLXdDaTBxTk83eQ?oc=5",
-   "source": "뉴스1",
-   "pubDate": "2026-11-23T13:26:31.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "수원특례시의회박혜연의원아동안전사각지대해소및민",
-   "title": "수원특례시의회 박혜연 의원, 아동 안전 사각지대 해소 및 민관 협력형 축제 전환 촉구",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oX1lUMDVNYWVfSExVNGdRaFhFZGliYjRIZ2VmaVdpY0QwS2FYQTk3cjVENG1PM3VjcFdzSl9qR3VtVWJsa09PTF9PZzV1a1ptSU15SEtiOV9mZHdsNzlFMWpmYlJrYjFUanI0MW9UNVcxQQ?oc=5",
-   "source": "웹이코노미",
-   "pubDate": "2026-11-23T13:24:33.000Z",
-   "cats": [
-    "health",
-    "outing"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이현이두영어유치원만족유창하진않지만거부감없어져",
-   "title": "이현이, 두 子 ‘영어유치원’ 만족..“유창하진 않지만, 거부감 없어져” (‘말자쇼’)",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczZkeGVuUENOeVI5MHdhY3hHQWUyX2NGTC1KSGJQOHExdExxOG9RMWRveHlHVlVfREtUSDdYeEt2S1FGLVdnOXZqVEFocGlESkdpTlBtNGFIclhobWo0LVg0c1ZXMXM5aVJLaWtoWmI3aUZtZzBUa2Rnai1SUHdkM2o2cGlVUWVuMzRZbkZjSHhXVVNvU2FwUkNBa0VTRTlIWU50ZEY4a9IBpwFBVV95cUxQczZkeGVuUENOeVI5MHdhY3hHQWUyX2NGTC1KSGJQOHExdExxOG9RMWRveHlHVlVfREtUSDdYeEt2S1FGLVdnOXZqVEFocGlESkdpTlBtNGFIclhobWo0LVg0c1ZXMXM5aVJLaWtoWmI3aUZtZzBUa2Rnai1SUHdkM2o2cGlVUWVuMzRZbkZjSHhXVVNvU2FwUkNBa0VTRTlIWU50ZEY4aw?oc=5",
-   "source": "Chosunbiz",
-   "pubDate": "2026-11-23T13:22:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "대전중구어린이집학대대응4개월공백행정감사중단",
-   "title": "대전 중구 어린이집 학대 대응 ‘4개월 공백’…행정감사 중단",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBycURaWTFyNGdETkhnNGtoLUZOZmxyRFpQSkplZlVnakhOZEc1TVV6RGgzLU12MXVKSXU1bEUzc25obGpnczRwSWFBNmpWMWhnUjJ6eVl1cW5MTjM3OXNfZGJsZTljS0RaVHhhVw?oc=5",
-   "source": "공뉴스",
-   "pubDate": "2026-11-23T12:59:48.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "시립세마어린이집가족과함께행복을상영하다",
-   "title": "시립세마어린이집, 가족과 함께 ‘행복을 상영하다’",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTNVVWbnJobEp1RWkyTUt0c1NYVmtwSmxoMm56U2MtWlNmV196RmN0SE9MWURhRE5vWnJZWklGNjJqS2RVdTVINlAycw?oc=5",
-   "source": "더시그널뉴스",
-   "pubDate": "2026-11-23T12:56:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "세종동화나라어린이집푸른콩깍지나눔축제수익금전액",
-   "title": "세종 동화나라어린이집, ‘푸른콩깍지 나눔축제’ 수익금 전액 기부",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hQ2p6c1IwenIwbnRnWHRjSVR6M05qTFo3cEotNXpad1paU3hUbHJTblJKc0xtNkZXR295QmI4R1Y2MDRXTW1jQkNJalZWeENvYkw4REFtbGRHVzlQejE1UW9qeVh6TFg0R0xENzN3?oc=5",
-   "source": "www.sejongmedia.com",
-   "pubDate": "2026-11-23T12:45:08.000Z",
-   "cats": [
-    "care",
-    "outing"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "무안군치카푸카어린이구강교실마무리뉴스",
-   "title": "무안군, '치카푸카! 어린이! 구강교실' 마무리 > 뉴스",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTHotQV83QUNRU2tpczNwMEktNTdMbnNPTkpWTmJZa1M3V0w5LUxGSFJNUkR3bkhBdHhJNjVWQUt5T3Q5b0h5ZF9RNA?oc=5",
-   "source": "더코리아",
-   "pubDate": "2026-11-23T12:43:29.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "대전중구의회이진웅어린이집대응자료CCTV열람요",
-   "title": "대전 중구의회 이진웅, 어린이집 대응 자료·CCTV 열람 요구",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnMU01ZUN3OUd3aW9yX1JnTHpiRGtqNmtmMzYtOWdfekdKanFvTGlrN3dQaVo0R1FEbXhHQjhHRnlUVnRYaDE3dQ?oc=5",
-   "source": "미디어이슈",
-   "pubDate": "2026-11-23T12:39:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "검단구출근길3개역동시아동학대예방캠페인아이들의",
-   "title": "검단구, 출근길 3개 역 동시 아동학대 예방 캠페인...“아이들의 안전은 모두의 책임”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJNlUwQjBvSi10bnd0bGFjSzhWQ01xeXM0b2dlVjd4VDVhTUFpc0ZJcVNBZ2NJa2M4SXVWRzJZdTNtTnlrRFpoMGRPaXRZOGpNM09xWDNST1doZHFieWtQNzJTWkIxSU0?oc=5",
-   "source": "경인신문",
-   "pubDate": "2026-11-23T12:37:27.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "추미애꿈든든하게뒷받침같은날0세아어린이집은누가",
-   "title": "추미애 '꿈 든든하게 뒷받침'…같은 날 0세아 어린이집은 '누가 책임지나'",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwQWIwbTZEZjVUVWJWZ0E1UzhqV2drRy1QeXNDaTl5V3lfUGwwTFVWZnNXcEFKRXZQSUdsQzRidGV5cWc3SWxCTkNEMmJBUHAtRUlvVw?oc=5",
-   "source": "이투데이",
-   "pubDate": "2026-11-23T12:34:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "봉화군어린이소방안전교육화재대피훈련",
-   "title": "봉화군, 어린이 소방안전교육·화재 대피 훈련",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BQ2tQMFRKOFRxZDhYSFFWUmg0TkxWMEYta3E4cTY4WklrZFNzQWRzWURnMjNFc0UxSXNWSHVMWTRySGlLcnpWbkpaekthX093T0t1MlgyeTJUUS02cFgxWEFkSUtQZ0k2b1pB?oc=5",
-   "source": "대구신문",
-   "pubDate": "2026-11-23T12:28:01.000Z",
-   "cats": [
-    "care",
-    "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "아동안전지킴이본예산깎이자주민참여예산으로김영미",
-   "title": "아동안전지킴이 본예산 깎이자 주민참여예산으로…김영미 \"같은 사업\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Y2w2VDg1QlE0ZVZPUThVeUdLWTRtVDUxajRqdmFLMFpiMm9CRE1hblZSSEJNeFdtMjZwblRsOHAxOW5sUElaTWtTYUZkSTBJNUd1RjdXNllqWmVDSTF4V3VXSEZOSFdZb0hN?oc=5",
-   "source": "더퍼블릭",
-   "pubDate": "2026-11-23T12:22:57.000Z",
-   "cats": [
-    "policy",
-    "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "용산구의회안태홍의원5분자유발언서용산구관내어린",
-   "title": "용산구의회 안태홍 의원, 5분 자유발언서 “용산구 관내 어린이공원 전면 금주구역 지정·관리로 아이들의 안전 지켜야”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iWjFBTW4yTkZVTHg1aXJkeGNlUWk2RGtqb2RJOUVzbHRRVWstMVRTUkVSVnBQX2d6TU81RXdjSTlEWUtBbVpLN3IyRndhU3pHVjRVeU44ZE52TzlmQTZmY0k5SHZQUThwQ05QYm5vbm0?oc=5",
-   "source": "파이낸셜경제",
-   "pubDate": "2026-11-23T12:20:02.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "의정부훈민어린이집바자회수익금30여만원기부",
-   "title": "의정부 훈민어린이집, 바자회 수익금 30여만 원 기부",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tRTcxVXd2RERkaUM0bnRkWGx3anBUT1I0T0Q1cDMxcXl1YXFTQTNrNlpjYmgyNTlCV0k1ZWhQNWUxREYtT29jblF0ZDYyOTh6Z0V3S0t0clNvWFRlekZoYTFwdlI1REoxdXFuUNIBcEFVX3lxTE9wR0cwUmRsaGx3NTRKVl9pdEdQWWlXSXZ6bDN2bWctaXlKdmJfX2RmcDdqVHE2eXZqZlBTRmFPZGM2NVNxUG15NDBibDdYU2FIUTI5Z05Kb3ZOSTRmMVhxQzE0VUZsUDYxV3diYWV1M2c?oc=5",
-   "source": "내외뉴스통신",
-   "pubDate": "2026-11-23T12:11:24.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "이진웅대전중구의원어린이집아동학대대응질타CCT",
-   "title": "이진웅 대전 중구의원, 어린이집 아동학대 대응 질타…“CCTV 확인까지 4개월”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwb2VEaXhqZHMxbTVuSUZuMzRRRkpsYTlRVWw0dzdLSHRDNGtrTzB6T092U2dTb2c3SkJReVc2b0Z6R0dROC1NdlR0aHZpZk8yN3NfTVNKVzFTS2M2VGYwOHdYZUUyZk90UVUyWUpn?oc=5",
-   "source": "뉴스코리아",
-   "pubDate": "2026-11-23T12:10:45.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "해운대구의회박정요의원국공립어린이집운영개선촉구",
-   "title": "해운대구의회 박정요 의원, 국공립어린이집 운영 개선 촉구",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05TG5qbENka3daaVdabXZva1MxODhuMzBxZl9qVDQ3QlZwR3RtZ3Q0dGY3QjRMU0g1U2drM19IMW5sVWZyMXlmSmMyUjc3YzRvY0pyWlBSNnhpUFI5djNxNnZrTE1OaExiaHdJY3pQZjd3UQ?oc=5",
-   "source": "웹이코노미",
-   "pubDate": "2026-11-23T11:46:44.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "대구"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "금왕유치원세계여러나라축제주간맞아다문화이해체험",
-   "title": "금왕유치원,‘세계 여러 나라 축제 주간’ 맞아 다문화 이해 체험 실시",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3U2NWcjcwbXlESmpLcG1xMDFzdkNQVl9WSFNsY0hEbjdWdzN0dkFSaF9meEVXNWdDWkxMeFN1WUhZZUtURk1nSVgxN3NZeXhiSVBNckV5RE1uWXN0WWxnZlZTNWZNUQ?oc=5",
-   "source": "중앙매일",
-   "pubDate": "2026-11-23T11:35:48.000Z",
-   "cats": [
-    "care",
-    "outing"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "아이에게물리고학부모에게두차례고소당한세종유치원",
-   "title": "아이에게 물리고 학부모에게 두 차례 고소당한 세종 유치원 교사 사태…“교사 못 지켜준 사회”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ejl3UzVBX0ZMdjRsTlVRUVBaVWJ4V3JTVDFwRi10dzF1X0JjaFB3OEppeW1xMjExQUdHSlg1SzdiZTR6ZVpSSWFEQ1JvXzRvWjNjUkt2blIxU21VZklUSFZmZVhya2ljb3YzRQ?oc=5",
-   "source": "이세종경제",
-   "pubDate": "2026-11-23T11:32:17.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "의정부삼성어린이집아나바다바자회수익금109만2",
-   "title": "의정부삼성어린이집, 아나바다 바자회 수익금 109만2천 원 전액 기부",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LUkwLW1hRnMyYnZwQWQ1VFE2NmQ1VnB3UHF4bWtobUFicy14TThEd1hUeTJiTnMyZ2dlR0QyQjRSUzl1dUNmbGVjaFUxZnB2VUdRY1Y0UTBRQQ?oc=5",
-   "source": "여성종합뉴스",
-   "pubDate": "2026-11-23T11:31:51.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "공진혁울산시의원민간어린이집지역보육의중요한한축",
-   "title": "공진혁 울산시의원 “민간어린이집, 지역 보육의 중요한 한 축”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwUWw4MlNrekp0bjk4Y3YzMDBQLTRDbjFkSk1VLXhEZ29qOUhkRlZWVDJ6VVNqeVVHX1dCTG91MFU3MGd4ZnJ4MWp3azQtQ2lNXzFTejE4UXZfRERnN0lPc0t0MEY2UQ?oc=5",
-   "source": "울산제일일보",
-   "pubDate": "2026-11-23T11:30:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "울산"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "광산구어린이집아이들의눈높이로만나는초등학교",
-   "title": "광산구 어린이집 아이들의 눈높이로 만나는 초등학교",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBndmw2ZDNJbUEwYllod1dPczVEUlFWTnM4ZE5WZmJtMzYtUXh6YmJmdmt2bWtNRmlybERWM0ZPVVdGcTBIcE93SzFraE84dkhVcFh0Ql9Wa0RnaXpvRzE0TDQ4Y2NmdGM?oc=5",
-   "source": "무등뉴스",
-   "pubDate": "2026-11-23T11:25:16.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "스마일게이트희망스튜디오광주대전부산진흥원과손잡",
-   "title": "스마일게이트 희망스튜디오, 광주·대전·부산 진흥원과 손잡고 아동 e스포츠 체험 격차 줄인다",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JS1F5R1hIOHA4bXpLYlhidmpxMzJGeEszMkhPbG1QUmZqZVRpa0hsMVA0dkM3dXV1UU05cEZ4Wkx6QWRiUGJKXzBrWlJfMTdFTTNEc1hn?oc=5",
-   "source": "위키트리",
-   "pubDate": "2026-11-23T11:25:00.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [
-    "대전",
-    "부산",
-    "광주"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "세종시동화나라어린이집한마음가족운동회서푸른콩깍",
-   "title": "세종시 동화나라어린이집, 한마음 가족운동회서 '푸른콩깍지 나눔축제' 아나바다 수익금 85만 7천원 기탁",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83WEdrU09kVURTY1czNThUNl9GTHJNWEhpbVdBVXQtYWd0aUdCYi1oaHJCVVViMXBvVlJRSjJaWWNBSGNEendFMVhzLWhFa3lxbW1STTF5U0hjTGtfaVlCay10WQ?oc=5",
-   "source": "중부시사신문",
-   "pubDate": "2026-11-23T11:10:11.000Z",
-   "cats": [
-    "care",
-    "outing"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "울산남구육아종합지원센터위수탁협약",
-   "title": "울산 남구육아종합지원센터 위수탁 협약",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vM0hYUVBMdnVkLXZiX1RvQ2FGT09UZF9jZkFDb0R4UHRUTFZ6M2x0bjRRbzFnczlVY19nNERBN0prTGZqbEV2RzNYLTZHeVdZeDdMUC1ULW1ISHNJbXJFdVB6WlB4ZjhvREc1Nl9R0gFyQVVfeXFMT2FMMjhZUXVfSHgxem8yUm1tM0NicXZ1N3djaWhJU0xGNUNoRTFEQURaNGRVRVJaN3ZYQ0VxbkMwNEE0NHZEWmVBbGhUWWVGX2lkU2cxRzY1SEZ6MFEwc2NCYjVxbEtfSXB4UEV1NjU2N01n?oc=5",
-   "source": "울산신문",
-   "pubDate": "2026-11-23T11:10:00.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [
-    "울산"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "여주시보육교직원164명이호선교수와자기돌봄특강",
-   "title": "여주시 보육교직원 164명, 이호선 교수와 ‘자기돌봄’ 특강",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YaFpQWHdRVGtlOG9mRC1tUjJ4Rk43V3BESDBQM2FrTlBKSGQyTm51QWtwOVNCWHh2TzFaZkFraXYxX214YWZSeXM3ZUpFSU1oZUJmNXNmbnlTUjlCYmxXSmFBN2I1SkZUcFpJ?oc=5",
-   "source": "CNB뉴스",
-   "pubDate": "2026-11-23T11:08:40.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "남구킨더슐레교육재단육아지원센터위수탁협약",
-   "title": "남구-킨더슐레교육재단, 육아지원센터 위수탁 협약",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CUnlRU3pMWjRwelVDdE1PN1lldDJoVm1wSmJwVl9jVXVCcFFRbTRGTDB2el8zVjBSN2tXRFp0Z1pPb1dzejhHd2tHOG1HT2ZVeVRtX1VUUGktb01nNk9tSW8yRUMxUQ?oc=5",
-   "source": "울산제일일보",
-   "pubDate": "2026-11-23T11:04:00.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "금종례경기도의원어린이집보육교직원전문교육예산지",
-   "title": "금종례 경기도의원, 어린이집 보육교직원 전문교육 예산·지원체계 불명확 질타",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBneHBJa1pNUVI4WTZPcG9VT0hLUHBPbHQwQWdLbTl2NXQ4ajdlajNCcXVoTXMzNE8zSzJoZDBCMElOX3hONFhyTkgzNmxLNkxaQmtj0gFTQVVfeXFMUGd4cElrWk1RUjhZNk9wb1VPSEtQcE9sdDBBZ0ttOXY1dDhqN2VqM0JxdWhNczM0TzNLMmhkMEIwSU5feE40WHJOSDM2bEs2TFpCa2M?oc=5",
-   "source": "KPI뉴스",
-   "pubDate": "2026-11-23T10:59:22.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "경북문화관광공사세쌍둥이육아휴직직원가족첫돌축하",
-   "title": "경북문화관광공사, 세쌍둥이 육아휴직 직원 가족 첫돌 축하 자리",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ub2pQRklkQk1TMGJONHNEZXlsTVRublAtZmQwdG9jM1E4TUlrdFVFNDZ1UWxjNm1GcnN5akFreUw5Zm9Objg5WUhUSVNlQkRteTd4M21RMDFhY1h1QmFuZVRaaC1BbVhxZ2JQYThDSQ?oc=5",
-   "source": "프라임경북뉴스",
-   "pubDate": "2026-11-23T10:52:07.000Z",
-   "cats": [
-    "work"
-   ],
-   "regions": [
-    "경북"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "급할때못쓰는아이돌봄대기만석달",
-   "title": "급할 때 못 쓰는 '아이돌봄' 대기만 석 달",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CNzZfM2pRQUZoTXZUMHNOazA0TVBhWHlIZnk3UFJ0a3hYakpma1JFckdUYXVJR3VUTThpYzZUZFA1c3FJbm1XcFdMMkVkWlhyX05vZDdlRDZvbVJEaVM5SDhIUlBuRHJDNjhydjlWbw?oc=5",
-   "source": "인천일보",
-   "pubDate": "2026-11-23T10:37:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "저출생시대보육붕괴막아라울산시의회공진혁위원장민",
-   "title": "저출생 시대 '보육 붕괴' 막아라…울산시의회 공진혁 위원장, 민간어린이집 생존 해법 모색",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYRmZhb09oN0xMQUFmQUNPTS1LN21wNHlGdFFNWGZfUEtTUDhJYmlGSFVsaHB5TTh5bWpHSm5HMTc5cDl2MVE1OU1fNW1DYzRhOU9ydVp3?oc=5",
-   "source": "뉴스21 통신",
-   "pubDate": "2026-11-23T10:29:32.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "울산"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "경기도0세아전용어린이집지원92억13억삭감이채",
-   "title": "경기도 0세아 전용 어린이집 지원 92억→13억 삭감…이채명 \"학부모 혼란 우려\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DbVozOGRaT2FhQVFnZlVrTHRMUGQxYXZvdHpLa2dVZk1GUHNqd3FtRzdLYnZxdnBhNEdrUFVqM1RTbFR2VkhyMml4YlhQZzZ3cnBqYmN2cHNNMV9vZVdtVU9GYjlSMzJqU2RF?oc=5",
-   "source": "한국사회복지저널",
-   "pubDate": "2026-11-23T10:13:32.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "대전소방본부12월11일까지어린이비상대피안내도",
-   "title": "대전소방본부, 12월 11일까지 어린이 비상대피 안내도 그리기 추진",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xX3UzREtiZHJ3YWVDdnhNbXc2d1FpVVVWUjJHdkNlVmRBWUlmLWJnczFsbmVqaGNlNEpOcXdLNEQ1VmdmY2ljTUVzVkx3aWhMSV9Dd09LRXEwck5HaTZlZHhUNi1LaGpENnk2Y2pzQWHSAXRBVV95cUxQNXdFaTZjWWVBVDJNSUkzRDdiVUVfOXI5Z0dVUzM4RGNtMHBNR2VRUmNCNHlPcHV5X1Z4UmlEWlR3VXNPQkdOU2NoY1pla0hCT1VEMUVUZnFiWjdWTE1zZVljQjg3ZjJDeXI2ZGdfRWdpNGRidA?oc=5",
-   "source": "뉴스워커",
-   "pubDate": "2026-11-23T09:55:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [
-    {
-     "date": "2026-12-11",
-     "type": "마감",
-     "text": "대전소방본부, 12월 11일까지 어린이 비상대피 안내도 그리"
-    }
-   ],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "최아름시의원행정사무감사서재개발여부따라아이들등",
-   "title": "최아름 시의원, 행정사무감사서 “재개발 여부 따라 아이들 등굣길 안전 달라져선 안 돼”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJN1ZlM3JXNHQwbHdZUUZIQmZxZ0R0OXIyNUdrSzFpbGNseUNfMjFiRDJhbHZweWo0V0xRVVc3ZGc2YVpiQXlXWnJiQVFQcGFRakU4WGI0TS1jVThBYjM3RG5rTi1sNU9feEE?oc=5",
-   "source": "뉴스팜",
-   "pubDate": "2026-11-23T09:53:44.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "대구공업대학교창업보육센터2026대구국제기계산",
-   "title": "대구공업대학교 창업보육센터. ‘2026 대구국제기계산업대전’ 참가",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05aHQ2dThSaDhiTFFfbk84OFU4a1RsUVpkMkEzeHBEZVpsVnVoWVEtMERvU2VSUFFrRFhvb0pRSU5Ha24ybmxBSkd6UXJHYjF5R3Azam5qaTJ3STZuX1J6clRHUl80QQ?oc=5",
-   "source": "데일리대구경북뉴스",
-   "pubDate": "2026-11-23T09:37:32.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "대전",
-    "대구"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T03:01:01.752Z"
-  },
-  {
-   "id": "정읍시의회어린이집급간식비국비반영촉구",
-   "title": "정읍시의회, 어린이집 급·간식비 국비 반영 촉구",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PQ3dqQU9QWUJiazl1TFBhQWw1cUZsRDEya2VSLUFPMHV3Q0kwNC1mTk15MDVUMWhsQ2JRckVXNUFGUU9nUEdRRGowTmE5OEJGbW5iU3FWWVBoMGFtOF9DM3dIZGRCQ3NCOFlJOXh2c2xsd9IBdkFVX3lxTE01V3lWNmtRa3d2S1A3OE1EZ0FQT3FJNWRXODIxM21kZnVsVEJKdlBHUTNveW04U1JxcmRNaXRlbDA3M0MyWGRlcVF0UXptdGhOUHpuS3FvemVqQWk5MUdLdlZCMHVINzJMYjZhSHFXdmZadG02RUE?oc=5",
-   "source": "LG헬로비전",
-   "pubDate": "2026-11-23T09:31:15.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "김남희도의원모든아이들에게안전하고깨끗한교실을",
-   "title": "김남희 도의원 “모든 아이들에게 안전하고 깨끗한 교실을”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vdDdoZzBWRTRqUWluRWVTc05YZXJDZkZUVmhVLXQ0Z3dwZkl2MTJsd0VWbDR5V3FZRlJYY29faU9oQlQ2Q3JTc2ZqRjNNYWFtemRZaFFraGYzUDQ?oc=5",
-   "source": "강원일보",
-   "pubDate": "2026-11-23T09:27:59.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "김진명의원경기도대표보육정책축소정책과예산엇박자",
-   "title": "김진명 의원 “경기도 대표 보육정책 축소…정책과 예산 엇박자”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Va21wZTR3UjBCS010NmxnSHhUc1FqeHBBM0x3S1ZmVk43ekZzLXlhLTdBaXFZV0VUYVZJZzJCTklKY2todnJ3TDBZUDZTRFhNOHBKcTV1VmFQYXJVMW54SUYwQjhnU0k?oc=5",
-   "source": "M이코노미뉴스",
-   "pubDate": "2026-11-23T09:25:28.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "박수홍김다예딸재이어린이집안가고가야금영어까지남",
-   "title": "박수홍♥김다예 딸 재이, 어린이집 안가고 가야금·영어까지..남다른 육아 일상",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVF6MENZdm14QVFpSXFUdUQ3RmNQQnliajJ2ZWpnaVBtVzJwR0F0MXRSblQyazR3a2lrNE52Q2VuUnVlaVRROEVJU1NVaDhqZkswS3hTaTFPOTJ5SWZVdV91Q0xKN3ZaUTYya1hUY0xZUG16d1F0VWlKSFRXdmN0LVVXeWY?oc=5",
-   "source": "스포츠조선",
-   "pubDate": "2026-11-23T09:21:24.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "추미애경기도정어린이안전노인복지예산대폭삭감도민",
-   "title": "추미애 경기도정, 어린이 안전·노인복지 예산 대폭 삭감…도민 생명과 돌봄마저 재정 조정 대상인가",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoa3ZRNkprVDgyal8tSm1jckt0eWhfbktXakt6ZGlIV1hFUmtyUGZleXpQa0h6TllZblJtdXFZLW54Z2R2WXZHMndXTmotSHZmZGo0MlFXOU1WWmIzY2RIM0dkTThEOENmRVV3RFA3Z9IBb0FVX3lxTFBoa3ZRNkprVDgyal8tSm1jckt0eWhfbktXakt6ZGlIV1hFUmtyUGZleXpQa0h6TllZblJtdXFZLW54Z2R2WXZHMndXTmotSHZmZGo0MlFXOU1WWmIzY2RIM0dkTThEOENmRVV3RFA3Zw?oc=5",
-   "source": "THE NEWS",
-   "pubDate": "2026-11-23T09:17:22.000Z",
-   "cats": [
-    "policy",
-    "care",
-    "health"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "물리고뇌진탕세종유치원피해교사강경숙교육청현장보",
-   "title": "‘물리고 뇌진탕’ 세종 유치원 피해교사… 강경숙 “교육청 현장 보호·지원 나서야”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nazAwamJZQVZnSkE1UUR4SDh1OU95a1BiQ2FmYUN4NUdLcEtuS2swWURzT1lyTWZkN3A4YWhyT3JVeWFDV01RUm5aZGw1c3AyUTVZSHFNbkd2Q0k4OElmb0tlWm5ndGtMTFQ4RVlwSUtEQQ?oc=5",
-   "source": "한양경제",
-   "pubDate": "2026-11-23T09:15:00.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "군위군드림스타트아동경주서안전체험역사탐방21일",
-   "title": "군위군 드림스타트 아동, 경주서 안전체험·역사탐방…21일 진행",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zZGU4THBLNHEtd1ctZkhFdGIxZ1J6QmxwMEJCaXU2V01Pc3QycXZ5VDdPTnQ4T0xSTGVCSktjRHRUR3NOWURLMnlqUENOSXpsZlFLNy1ITFBqMk11MFUxUDI1d2s5UEVqYi0xQg?oc=5",
-   "source": "한국사회복지저널",
-   "pubDate": "2026-11-23T09:13:18.000Z",
-   "cats": [
-    "health",
-    "outing"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "울산시의회의회운영위원회공진혁위원장민간어린이집",
-   "title": "울산시의회 의회운영위원회 공진혁 위원장 민간 어린이집 현안 청취 및 지원방안 모색 간담회 개최",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BbUZsckhyUkxtYWtBaXY2bXk0Wl8xNFZzLTlNX0NrWEFKTjBsQlhqdy1vZ2pxUDJUZWVMQnRnX1dEQ0hDcXJkbmM5dUJrZGJ4SmlKblFvQW5rOUktNTBkTUVMSQ?oc=5",
-   "source": "경남도민뉴스",
-   "pubDate": "2026-11-23T09:10:59.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "울산"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "경북교육청그림책활용유아독서교육역량강화연수개최",
-   "title": "경북교육청, 그림책 활용 유아 독서교육 역량 강화 연수 개최",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVnZTUUxUanNRMThrcUs5OU9UbnRfSzl5ZEZHOUJTM0FtR2h4dTEyYWpjT0UyMDFFYUJxaGJtcldGUnhMSzExNUpHY3YzSk53a1JxRjE5SnBlOU03VUJ1Wg?oc=5",
-   "source": "www.newsgb.co.kr",
-   "pubDate": "2026-11-23T09:10:12.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "경북"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "남구킨더슐레교육재단과육아종합지원센터위수탁협약",
-   "title": "남구, 킨더슐레교육재단과 육아종합지원센터 위수탁 협약 체결",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMjNER0dfM1M4SlZKQWxyanRMWk5UbzVQNEI0bGJWS3dhX0VtVWVDWU1QUVh3bkZ4NXQ1X29RZmdab2pNVTVpeklHYXlZc19hZWVST19oX1ZJNTRQbVhMVFA4bmtGcDZ2RFE?oc=5",
-   "source": "한국시사경제",
-   "pubDate": "2026-11-23T09:10:04.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "김남일경북문화관광공사사장가족친화적근무환경조성",
-   "title": "김남일 경북문화관광공사 사장 \"가족친화적 근무환경 조성에 힘쓰겠다\"",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sMF9aVXlpQjhRYUpZcU9rdXlGZl9RMXFJOVlndy1KMl9fV090SUJja1V0NVY2Nng2WkRpUWF5R0twR2hMRWJQWVhPS0hJVHRyRHd2bFh4YnpyX1RmVlR5LV8wZ3k1ckpWM05r?oc=5",
-   "source": "일간투데이",
-   "pubDate": "2026-11-23T09:10:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "경북"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "방과후아픈아이긴급돌봄까지경주통합돌봄거점시범운",
-   "title": "\"방과후·아픈아이 긴급돌봄까지\", 경주 통합돌봄 거점 시범 운영",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1M25QT0lSNzRDanN1N180SVlNMlQ4X1Y3SWI1TWNQS1pnT3lLZ1NzOUhHLTVSdVBiX2RPNjVXU21FVHVRZFhfR0RUYmpzVkNGSEpLVUxR0gFUQVVfeXFMTnBZQVlsTFF1WUVwQmJIWDN4RE9ZSUs3NERDeXpWeFpXbnFPWElKQ0c5ZFNRTHlLYmYzdVlJeGttOGNremxSMG5DWEhoV2hybFZQVmZu?oc=5",
-   "source": "세계일보",
-   "pubDate": "2026-11-23T09:09:13.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "민주당세종갑명랑운동회당원가족200명한자리",
-   "title": "민주당 세종갑 명랑운동회…당원·가족 200명 한자리",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xYnVtcHpCR3pMaXF1enJQTzVCcHp0SjROT1J3bHE4NU1hM2tRSkNuT1lnY1BqZERCdXBTeFpfTTE2aVZsWnpKNFZUQVRta3owLVRSZ1NfSVNxN0NxVk5sSHNoUEVydHJrSVZFXzVzQjM?oc=5",
-   "source": "충청일보",
-   "pubDate": "2026-11-23T09:03:27.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "강경숙의원세종유치원피해교사보호하고재발방지대책",
-   "title": "강경숙 의원 “세종 유치원 피해교사 보호하고 재발 방지 대책 마련해야”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nNTFNdENKVGJhWW9zbXBRbDVmVmViN0pFejdzWkVvb19DSXhxZ21ObXc2WEQ3MHJydnl4Qm01Q0FQT0g1WnhHMXRLNDRQVmtub3ExZm9UTGZTY09MZVMzY3FOTmd5X3Yw?oc=5",
-   "source": "투데이안",
-   "pubDate": "2026-11-23T09:03:19.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "경기도의회이채명의원보육여성정책예산조정에정책연",
-   "title": "경기도의회 이채명 의원, 보육·여성정책 예산 조정에 “정책 연속성과 재정 안정성 고려해야”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05Y1hhTEIwcHRDbWVhNGpBc25POFFGb3BVY21hU3VmS0VWVk45NUNWN3Bhc3JLcVo0UjJvcnJ0cFBXaGptcUQxU1pvSkd0M0NHcUlpNXdXenBwdHZxZXVQN0hSWm9OQW1MX3FQVWFES0h5UdIBckFVX3lxTE05Y1hhTEIwcHRDbWVhNGpBc25POFFGb3BVY21hU3VmS0VWVk45NUNWN3Bhc3JLcVo0UjJvcnJ0cFBXaGptcUQxU1pvSkd0M0NHcUlpNXdXenBwdHZxZXVQN0hSWm9OQW1MX3FQVWFES0h5UQ?oc=5",
-   "source": "경인종합일보",
-   "pubDate": "2026-11-23T09:03:05.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "아이목소리로다시보는양육법세이브더칠드런세종부산",
-   "title": "아이 목소리로 다시 보는 양육법… 세이브더칠드런, 세종·부산서 '긍정적으로 아이 키우기 페스타' 열어",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10NTI5dDh4cnJzYXlNWER4dXFOck84eE1TTTBaUWtMR3I4LUNGZFkwaU42YjZQRHZkeTZQMFowdFJFamxQWnlGSVZScE5Ed0xIc2hSamxpRzJ1TkIxV2RDd2ZHY19VUXdWSnRF0gFrQVVfeXFMTXQ1Mjl0OHhycnNheU1YRHh1cU5yTzh4TVNNMFpRa0xHcjgtQ0ZkWTBpTjZiNlBEdmR5NlAwWjB0UkVqbFBaeUZJVlJwTkR3TEhzaFJqbGlHMnVOQjFXZEN3ZkdjX1VRd1ZKdEU?oc=5",
-   "source": "에이빙",
-   "pubDate": "2026-11-23T09:01:49.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "세종",
-    "부산"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "의정부삼성어린이집바자회수익금전액이웃에기부",
-   "title": "의정부삼성어린이집, 바자회 수익금 전액 이웃에 기부",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwXzhXMDl1SVlFaWpQNWpZY2hDYUF1bW5vV3hTNG44YTlDd09fQi1nOHNzWWdSNUpubk1iUy1EZV9KOHJxOVVRa0RlcjhyMERuemlLdGpkczgzZUtVWWRNUnM1RVFUTzdHMzV4ZUxYbjN2QQ?oc=5",
-   "source": "웹이코노미",
-   "pubDate": "2026-11-23T09:01:33.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "사하구가족센터아이돌봄사대상영아돌봄실무교육실시",
-   "title": "사하구가족센터, 아이돌봄사 대상 영아 돌봄 실무교육 실시",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZndIMFlveU5YdzNnOVU0YkhFSXZCWnlWM2NscDdvcjJUb1R4NUpGbTFFaDNyTW85WUh3SDFNZVBsZm5zdXltOUp6QVhCNGRSalV1QWd1dUhVdW5ianBVdElweE5vMHA4bVdYeWdTZTJpQkxnNmVEdWJXd2hJdjVPdm1WTjFlYXVLdGo1Ukd3?oc=5",
-   "source": "국제신문",
-   "pubDate": "2026-11-23T08:53:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "인천광역시교육청지역기반형유아교육보육혁신지원사",
-   "title": "인천광역시교육청, 지역 기반형 유아교육·보육 혁신지원 사업 성과공유회 개최",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBU0V3YlVsMk84NG43enhxa2F5blVsanAybGhqbWdSQlBOVDNDUnBvUU1faVZpVklDTXgxM3dGMmVJY3hTX0ExZ0cwOHhwYWdjZ2lhV3FzdDM1X25pYTJnX3R1R3JKWGdWMFRV?oc=5",
-   "source": "일간투데이",
-   "pubDate": "2026-11-23T08:51:57.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "인천"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "출생아6개월간140회방치사망20대부모무기징역",
-   "title": "출생아 6개월간 140회 방치 사망…20대 부모 ‘무기징역’ 구형",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DaUFscXhjV2RVNFY5WENtUTl2dE1HeHo0OTBJRjRqaDQwYjFJWFlhWWhFRUlwVHJySkRQNVVRQ3lZZ2VoUEozTkw4SmJwZ3FOWjB6OU9tY0F3Ri1ESDhKN0VpUdIBY0FVX3lxTE5DaUFscXhjV2RVNFY5WENtUTl2dE1HeHo0OTBJRjRqaDQwYjFJWFlhWWhFRUlwVHJySkRQNVVRQ3lZZ2VoUEozTkw4SmJwZ3FOWjB6OU9tY0F3Ri1ESDhKN0VpUQ?oc=5",
-   "source": "채널A",
-   "pubDate": "2026-11-23T08:50:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T18:50:26.591Z"
-  },
-  {
-   "id": "홍천소방서조은어린이집원아대상소방서견학소방안전",
-   "title": "홍천소방서, 조은어린이집 원아 대상 소방서 견학ㆍ소방안전체험 운영",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlZWtBc3FqNlh4eE82NWM4UjJxa3QtUGFMVVI1UEpoWGRQV1dGMDFvWVF1Q3BFcXZjNVE5dVhvRzk2MG0x?oc=5",
-   "source": "FPN-소방방재신문",
-   "pubDate": "2026-11-23T08:49:28.000Z",
-   "cats": [
-    "care",
-    "health",
-    "outing"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "해운대구의회박정요의원5분자유발언국공립어린이집",
-   "title": "해운대구의회 박정요 의원, 5분 자유발언 “국공립어린이집 확대보다 보육의 질과 수요에 맞는 운영이 우선”",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFVzJVRDdTdXFqRWdTMEg0RjBsQkhldHYybFYxWV84bDN4Mi10cks0MGNrLVB4YXdCVGw4OFE1endOdFU2UGxhUWtB?oc=5",
-   "source": "더뉴스코리아",
-   "pubDate": "2026-11-23T08:47:00.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "대구"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "하남시가족센터가족축제통해사업성과공유",
-   "title": "하남시가족센터, 가족축제 통해 사업성과 공유",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90LVN5YWlpQ3VhT0VQNkVHa2pXVFUtWmxEYnJ0bFF6LUwySlU3bEJyVHJ6cGNCbE1RSUVxdjltV1lrM1lkWE9LMUFydjlSN1hKY3VzcjlBeS1qRWVoTEdFZEU4bVJvdTVyanQ1a0FZaXFCZw?oc=5",
-   "source": "웹이코노미",
-   "pubDate": "2026-11-23T08:37:51.000Z",
-   "cats": [
-    "outing"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "어린이집나눔으로모은8300만원근로복지공단초록",
-   "title": "어린이집 나눔으로 모은 8300만원 … 근로복지공단, 초록우산에 기부",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMWWtVa1gwUDB6Y0UtbGJybDVuMm5meUdZM3otSzJkQ3h4aUlrVFF3TkNxaElWSWVISjlBczNIQkl0b3JLS0ZkVlpFbGc3YVhCbGlZTjlWOE4wV04tZ0VHNUh6Zm5nQ2RVQnNqRzlqZVROX1A2c1AwS0ZlRdIBgAFBVV95cUxNMUQxaTJsa0p1d3R5Z05RSkpMVElnMU8xQkxNZlRJU3FCTXVKcS11ajZOeGtYRzZkV2FJWUNUb052RnBzdm5zbVRnZ2FXMGtVRjQ2WEQ2cHRkVlozZ1pHXzJTdE90Yk9jVG50TEJnYmdndE1uNlVITFdqQzF3YWx2Tg?oc=5",
-   "source": "뉴데일리 경제",
-   "pubDate": "2026-11-23T08:34:00.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [
-    "8300만 원"
-   ],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "전남주말공휴일거점돌봄시범운영",
-   "title": "전남 주말·공휴일 거점돌봄 시범운영",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43aTBTeVF0dzU5eldzVjd2aTVtOUZBcGdiY2pUVXJYWGZEczQ1T3J4RnlCQnBxdW5QRzI3TWc5QlYzQlVpaTQ5ZGZSSm8zM3N3b0ZBMmYxVXh0MllyN1U2Q0Q4blhMWEs1QkVNMERGR2tleGtU?oc=5",
-   "source": "파이낸셜포스트",
-   "pubDate": "2026-11-23T08:31:02.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [
-    "전남"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "대전도시공사다가온신혼부부출산양육지원10가구에",
-   "title": "대전도시공사, 다가온 신혼부부 출산·양육 지원…10가구에 축하 선물",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9heGthRC1YNkpzYUNVODAzM2J5N29yMlJJeHF1QWdwTG91TnpVSmZnVEdBLVRKeHdxOVRHTWxCMFd3SHZCMTUwYTFKUzM0alg0eWtFd0NKM0d6WktnQmRpbFFwNDZjUGdyOEE?oc=5",
-   "source": "충청매일",
-   "pubDate": "2026-11-23T08:30:06.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "신도시어린이집02세영아반만운영가능입소대기줄인",
-   "title": "신도시 어린이집, 0~2세 영아반만 운영 가능…입소 대기 줄인다",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94ak5GSF9vTlNGNXc5Slh6SVo3X3U4V2VoLXpDMnBUNjdtRFpSTGVTZkJoT1R6OEpEUjQ3TGoxc0NPZXhvUm5TaWt4ZGQ4UHROdVFpNzhmS3IyS3BfUU1SRF94N1dBOF8t?oc=5",
-   "source": "DWBNEWS",
-   "pubDate": "2026-11-23T08:29:42.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "강원도의회사립유치원시설개선보호처분학생학습권지",
-   "title": "강원도의회, 사립유치원 시설개선·보호처분 학생 학습권 지원 추진…방과후센터 위탁안은 전원 부결",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43dmFUcHFpMDNSOGdLbk1MN3RRX0Z6WFdoR2JYbktLQ0ZRT1FfNnl3X0ZYWDViQUdUMTFXZkdDUVcySVFIeFo3S2FWYWd1VWR2el95RGE2RGdfTG41eGgwOFlVNTJUWTJM?oc=5",
-   "source": "강원도민일보",
-   "pubDate": "2026-11-23T08:28:59.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "강원"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "대구북구의회어린이등굣길교통안전연구최종보고회개",
-   "title": "대구 북구의회, 어린이 등굣길 교통안전 연구 최종보고회 개최",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42TjBDcUZBdHFIVXU1T2U2SHBMcnZ1WU1DMllGdkJQby15QVVlSjRkX3lhY0xuNDBqVDVKR2pHZTUwd1ZzQUJCRXBmMGlrd1h2R3lMWXplbDFxSEJ6aDhaZXhzRkpOYk9B?oc=5",
-   "source": "대경일보",
-   "pubDate": "2026-11-23T08:25:08.000Z",
-   "cats": [
-    "health"
-   ],
-   "regions": [
-    "대구"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T22:54:21.794Z"
-  },
-  {
-   "id": "양수터져도길위에40살산모유산뒤다음임신도200",
-   "title": "양수 터져도 길 위에…40살 산모, 유산 뒤 다음 임신도 200㎞ 원정출산",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNd1VTMVhpS1loLXc3RkNRd3M0THpVZnBZUDRpelZLbjlnOWt2eEZBbVo0RGZzWTVqcWlzS1ZMZ1VTRlVNRlNIN1Z3TUZSNFpjRzh4TGtlZmhkZDlGTUJWRFM1OHdoQQ?oc=5",
-   "source": "한겨레",
-   "pubDate": "2026-11-23T08:23:00.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "대구앞산터널로다자녀가정통행료최대30감면추진",
-   "title": "대구 앞산터널로, 다자녀가정 통행료 최대 30% 감면 추진",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yVUh4TnpLUWJFamNlVlU5QndEbTRDNzlFcTRKaGNSN2J3VzRmeTRUT3Y1amNobXFXVTJORFlaZnBwUER0YUlPcWozNGdtdmUycmpic3l5YU9tN2YyRXVCSzlDNFV5WURW?oc=5",
-   "source": "대경일보",
-   "pubDate": "2026-11-23T08:22:24.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [
-    "대구"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "대전도시공사다가온신혼부부에육아용품전달",
-   "title": "대전도시공사, 다가온 신혼부부에 육아용품 전달",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHYnlLTTJkMDdYYjJrVm5DbHhERmdIdVA5Szl0M2ZFbENtZkszbWc1ZndhQjJubmYxR2x1NWNNZ1ZJODFIRjNVQUF5QlRfSGQ0c0ZxMlRDSXNQMzlHZzRHUUF4YTFON2tiSkE?oc=5",
-   "source": "뉴스티앤티",
-   "pubDate": "2026-11-23T08:20:21.000Z",
-   "cats": [
-    "etc"
-   ],
-   "regions": [
-    "대전"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "푸른숲유치원초록우산에후원금전달",
-   "title": "푸른숲유치원, 초록우산에 후원금 전달",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mYmJMUjUwcW56VkRTNmNvS3VWSVg5dV9QTXNKc2dHalFQcWhTNmlLOE5UT0lkdXgxX3JhZmsyWjFaOWZ2Y3E2Wk9XejU5Z19WOEhKQjBDZi1QejROVVk0NFU5ZS1hUFVxTUNvRtIBcEFVX3lxTE04aEJrQ0E5cU5tZGdaVE5LWlpzX2I5Zm9uYTJxMmJLLWUxXzRHdHJxTGJTdW5Na0tOelhydTVkaGR0Z1JNUDdmT0NuLVdiZ2JyY0I1MTF3YWJ2aGJ2dzBfQ255T1VSTEtXYlc4ZlljTTg?oc=5",
-   "source": "전라일보",
-   "pubDate": "2026-11-23T08:19:25.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-24T06:56:29.000Z"
-  },
-  {
-   "id": "박은주의원0세아보육정책후퇴안돼경기도책임있는지",
-   "title": "박은주 의원, “0세아 보육정책 후퇴 안 돼”…경기도 책임 있는 지원 촉구",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96TjhFN05kZlNYbEJTN2xObXNxNEpvM1ZpWFR0cUVHaWpNQjVNOFU3V3U5Y1Z1S29Jc21sMUVCRGdPU0lxWEwwMUI2VkkxLTE1bldKMkl4VGk0UnRIZHRtT2VIY3l4TFRZc3c?oc=5",
-   "source": "도민연합뉴스",
-   "pubDate": "2026-11-23T08:14:50.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "경기"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "강원사립유치원시설개선지원청신호",
-   "title": "강원 사립유치원 '시설 개선' 지원 청신호",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zeHJTeFhHdklwYkc3d3ZVeFpsbXhjakZlWW5qTlhIZzJWaHdIaFNycVBpSnYxOW43YW96WDhjNzBpc0FWeFNpZVc3dk0tZ2tmLUE?oc=5",
-   "source": "노컷뉴스",
-   "pubDate": "2026-11-23T08:07:50.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "강원"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "장흥사유치원아주동에백미150kg기탁",
-   "title": "장흥사 유치원, 아주동에 백미 150kg 기탁",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aaGgzaWxpMUdrTUFmcU1walF4Smtla3dSdUdpUnNKUzZSZnlCancta1p1YUlKbXFMTFhab2lid3ZVNXd4N1ZPVi1ZTFJ5ekdTNV9oQ3dGTTVmQWFrdGJCSjVLOXJuN3o0dTJn?oc=5",
-   "source": "새거제신문",
-   "pubDate": "2026-11-23T08:03:14.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "칠곡군에밀어린이집국산목재로보육공간새단장",
-   "title": "칠곡군 에밀어린이집, 국산 목재로 보육공간 새단장",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MbjlKZnlKYlpoWEhUc1RwZU9JaTVNaE5rV3U5ZTVlVVJYMkRibjQtQk5zcmJhUlZxWU1GczJ1c0FWbU13WkVSSkptOXRVN2FXd3JKTjJyTmdZVkJrVlBMVmRlUHJLWE5MUk5GLQ?oc=5",
-   "source": "한국사회복지저널",
-   "pubDate": "2026-11-23T08:00:23.000Z",
-   "cats": [
-    "care"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "출생신고만했는데통장에들어왔다내년1월부터아동수",
-   "title": "\"출생신고만 했는데 통장에 들어왔다\"… 내년 1월부터 아동수당·부모급여 신청 없이 지급, 출생한 달부터",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0ySnFBTjExWVJMbHpjZ3FwSmJaQjJ2Rjh4aFdIUW1UOVhQZ2RiUHV6U0FyMVhCTUlXd0xYU2twak9pRGRXZjhvSzZqMHNTUlVVdW94aDdWS19jd0pCVjV1WFpsUWRkMnJ5WFp3MzVTREJYdjg?oc=5",
-   "source": "경제시그널",
-   "pubDate": "2026-11-23T08:00:00.000Z",
-   "cats": [
-    "policy"
-   ],
-   "regions": [],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-23T11:15:47.486Z"
-  },
-  {
-   "id": "세종시육아종합지원센터어린이집원장대상리더십교육",
-   "title": "세종시육아종합지원센터, 어린이집 원장 대상 리더십 교육 운영",
-   "desc": "",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DbGFFRHEzM2h0WGs1TXJ0RlUzcjZuaDJxbi1TLTctV0twYUNsNUFJYlpRNFFkQldHNnFDbmdtQ1pMQXF3RWZhWDlqd1ptcVRYU0FjcmJXdUQ0OTdyVzZ1SFlVcTZUUGRHcl90TTJtSlFoXzg?oc=5",
-   "source": "충남일보",
-   "pubDate": "2026-11-23T08:00:00.000Z",
-   "cats": [
-    "policy",
-    "care"
-   ],
-   "regions": [
-    "세종"
-   ],
-   "events": [],
-   "amounts": [],
-   "via": "google",
-   "addedAt": "2026-11-25T12:41:31.788Z"
   }
  ]
 }
